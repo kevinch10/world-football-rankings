@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-04T07:25:13+00:00",
+ "generatedAt": "2026-10-04T13:20:50+00:00",
  "official": {
   "pubDate": "2026-07-20T10:00:00+00:00",
   "nextPubDate": null,
@@ -2210,8 +2210,8 @@
    "previousRank": 155,
    "aliases": [],
    "liveRank": 154,
-   "livePoints": 1028.61,
-   "pointsChange": 4.44,
+   "livePoints": 1033.44,
+   "pointsChange": 9.27,
    "rankChange": 1
   },
   {
@@ -2271,20 +2271,6 @@
    "rankChange": -1
   },
   {
-   "id": "43982",
-   "code": "VAN",
-   "name": "Vanuatu",
-   "confed": "OFC",
-   "officialRank": 160,
-   "officialPoints": 1002.53,
-   "previousRank": 160,
-   "aliases": [],
-   "liveRank": 159,
-   "livePoints": 1010.73,
-   "pointsChange": 8.2,
-   "rankChange": 1
-  },
-  {
    "id": "43829",
    "code": "MYA",
    "name": "Myanmar",
@@ -2293,10 +2279,24 @@
    "officialPoints": 1009.39,
    "previousRank": 158,
    "aliases": [],
-   "liveRank": 160,
+   "liveRank": 159,
    "livePoints": 1008.08,
    "pointsChange": -1.31,
-   "rankChange": -2
+   "rankChange": -1
+  },
+  {
+   "id": "43982",
+   "code": "VAN",
+   "name": "Vanuatu",
+   "confed": "OFC",
+   "officialRank": 160,
+   "officialPoints": 1002.53,
+   "previousRank": 160,
+   "aliases": [],
+   "liveRank": 160,
+   "livePoints": 1005.9,
+   "pointsChange": 3.37,
+   "rankChange": 0
   },
   {
    "id": "43959",
@@ -3033,6 +3033,72 @@
  ],
  "results": [
   {
+   "kickoff": "2026-10-04T13:00:00Z",
+   "date": "2026-10-04",
+   "home": "AZE",
+   "away": "LTU",
+   "homeScore": 0,
+   "awayScore": 0,
+   "homePens": null,
+   "awayPens": null,
+   "status": 3,
+   "competition": "UEFA Nations League",
+   "stage": "League D",
+   "city": "Baku",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.564,
+   "prediction": {
+    "home": {
+     "win": 6.55,
+     "draw": -0.95,
+     "loss": -8.45
+    },
+    "away": {
+     "loss": -6.55,
+     "draw": 0.95,
+     "win": 8.45
+    }
+   },
+   "homeName": "Azerbaijan",
+   "awayName": "Lithuania",
+   "fifaId": "bpsibgsdc6qostdoi2unorhn8"
+  },
+  {
+   "kickoff": "2026-10-04T13:00:00Z",
+   "date": "2026-10-04",
+   "home": "COM",
+   "away": "SEN",
+   "homeScore": 0,
+   "awayScore": 1,
+   "homePens": null,
+   "awayPens": null,
+   "status": 3,
+   "competition": "Friendlies",
+   "stage": "Friendlies 1",
+   "city": "Marseille",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.149,
+   "prediction": {
+    "home": {
+     "win": 8.51,
+     "draw": 3.51,
+     "loss": -1.49
+    },
+    "away": {
+     "loss": -8.51,
+     "draw": -3.51,
+     "win": 1.49
+    }
+   },
+   "homeName": "Comoros",
+   "awayName": "Senegal",
+   "fifaId": "ag4uo7lsgamtkp7tkgb0flzis"
+  },
+  {
    "kickoff": "2026-10-04T02:00:00Z",
    "date": "2026-10-03",
    "home": "USA",
@@ -3275,7 +3341,7 @@
    "fifaId": "76l01unqj7nqp3uy33bj0h34k"
   },
   {
-   "kickoff": "2026-10-03T15:00:00Z",
+   "kickoff": "2026-10-03T15:40:00Z",
    "date": "2026-10-03",
    "home": "RUS",
    "away": "NAM",
@@ -3361,6 +3427,28 @@
    "homeName": "Hong Kong, China",
    "awayName": "Cambodia",
    "fifaId": "400022958"
+  },
+  {
+   "kickoff": "2026-10-03T04:00:00Z",
+   "date": "2026-10-03",
+   "home": "FIJ",
+   "away": "VAN",
+   "homeScore": 1,
+   "awayScore": 0,
+   "homePens": null,
+   "awayPens": null,
+   "status": 0,
+   "competition": "Friendlies",
+   "stage": "Friendlies 3",
+   "city": "Suva",
+   "source": "FIFA",
+   "counted": true,
+   "importance": 10,
+   "homeDelta": 4.83,
+   "awayDelta": -4.83,
+   "homeName": "Fiji",
+   "awayName": "Vanuatu",
+   "fifaId": "5ug1gbwuzlnnksb00qv96qej8"
   },
   {
    "kickoff": "2026-10-03T02:00:00Z",
@@ -4573,27 +4661,6 @@
   {
    "date": "2026-09-29",
    "kickoff": "2026-09-29T21:00:00Z",
-   "home": "LBR",
-   "away": "MLI",
-   "homeScore": 0,
-   "awayScore": 1,
-   "homePens": null,
-   "awayPens": null,
-   "city": "Monrovia",
-   "status": 0,
-   "competition": "CAF Africa Cup of Nations Qualifiers",
-   "stage": "Group stage",
-   "source": "Wikipedia",
-   "counted": true,
-   "importance": 25,
-   "homeDelta": -4.46,
-   "awayDelta": 4.46,
-   "homeName": "Liberia",
-   "awayName": "Mali"
-  },
-  {
-   "date": "2026-09-29",
-   "kickoff": "2026-09-29T21:00:00Z",
    "home": "CGO",
    "away": "CMR",
    "homeScore": 1,
@@ -4633,6 +4700,27 @@
    "homeName": "US Virgin Islands",
    "awayName": "Bahamas",
    "fifaId": "dngq70mnnfgsvn3hto0naujv8"
+  },
+  {
+   "date": "2026-09-29",
+   "kickoff": "2026-09-29T19:00:00Z",
+   "home": "LBR",
+   "away": "MLI",
+   "homeScore": 0,
+   "awayScore": 1,
+   "homePens": null,
+   "awayPens": null,
+   "city": "Monrovia",
+   "status": 0,
+   "competition": "CAF Africa Cup of Nations Qualifiers",
+   "stage": "Group stage",
+   "source": "Wikipedia",
+   "counted": true,
+   "importance": 25,
+   "homeDelta": -4.46,
+   "awayDelta": 4.46,
+   "homeName": "Liberia",
+   "awayName": "Mali"
   },
   {
    "date": "2026-09-29",
@@ -4877,69 +4965,6 @@
   {
    "date": "2026-09-29",
    "kickoff": "2026-09-29T18:00:00Z",
-   "home": "GNB",
-   "away": "NGA",
-   "homeScore": 3,
-   "awayScore": 0,
-   "homePens": null,
-   "awayPens": null,
-   "city": "Bissau",
-   "status": 0,
-   "competition": "CAF Africa Cup of Nations Qualifiers",
-   "stage": "Group stage",
-   "source": "Wikipedia",
-   "counted": true,
-   "importance": 25,
-   "homeDelta": 21.43,
-   "awayDelta": -21.43,
-   "homeName": "Guinea-Bissau",
-   "awayName": "Nigeria"
-  },
-  {
-   "date": "2026-09-29",
-   "kickoff": "2026-09-29T18:00:00Z",
-   "home": "CPV",
-   "away": "RWA",
-   "homeScore": 1,
-   "awayScore": 2,
-   "homePens": null,
-   "awayPens": null,
-   "city": "Praia",
-   "status": 0,
-   "competition": "CAF Africa Cup of Nations Qualifiers",
-   "stage": "Group stage",
-   "source": "Wikipedia",
-   "counted": true,
-   "importance": 25,
-   "homeDelta": -18.15,
-   "awayDelta": 18.15,
-   "homeName": "Cabo Verde",
-   "awayName": "Rwanda"
-  },
-  {
-   "date": "2026-09-29",
-   "kickoff": "2026-09-29T18:00:00Z",
-   "home": "ZAM",
-   "away": "TOG",
-   "homeScore": 2,
-   "awayScore": 0,
-   "homePens": null,
-   "awayPens": null,
-   "city": "Ndola",
-   "status": 0,
-   "competition": "CAF Africa Cup of Nations Qualifiers",
-   "stage": "Group stage",
-   "source": "Wikipedia",
-   "counted": true,
-   "importance": 25,
-   "homeDelta": 10.44,
-   "awayDelta": -10.44,
-   "homeName": "Zambia",
-   "awayName": "Togo"
-  },
-  {
-   "date": "2026-09-29",
-   "kickoff": "2026-09-29T18:00:00Z",
    "home": "UGA",
    "away": "LBY",
    "homeScore": 1,
@@ -4978,6 +5003,27 @@
    "awayDelta": -10.86,
    "homeName": "Benin",
    "awayName": "Mauritania"
+  },
+  {
+   "date": "2026-09-29",
+   "kickoff": "2026-09-29T16:00:00Z",
+   "home": "ZAM",
+   "away": "TOG",
+   "homeScore": 2,
+   "awayScore": 0,
+   "homePens": null,
+   "awayPens": null,
+   "city": "Ndola",
+   "status": 0,
+   "competition": "CAF Africa Cup of Nations Qualifiers",
+   "stage": "Group stage",
+   "source": "Wikipedia",
+   "counted": true,
+   "importance": 25,
+   "homeDelta": 10.44,
+   "awayDelta": -10.44,
+   "homeName": "Zambia",
+   "awayName": "Togo"
   },
   {
    "date": "2026-09-29",
@@ -5068,7 +5114,7 @@
   },
   {
    "date": "2026-09-29",
-   "kickoff": "2026-09-29T15:00:00Z",
+   "kickoff": "2026-09-29T13:00:00Z",
    "home": "MAD",
    "away": "TAN",
    "homeScore": 1,
@@ -5089,7 +5135,7 @@
   },
   {
    "date": "2026-09-29",
-   "kickoff": "2026-09-29T15:00:00Z",
+   "kickoff": "2026-09-29T13:00:00Z",
    "home": "MOZ",
    "away": "SDN",
    "homeScore": 4,
@@ -5110,7 +5156,7 @@
   },
   {
    "date": "2026-09-29",
-   "kickoff": "2026-09-29T15:00:00Z",
+   "kickoff": "2026-09-29T13:00:00Z",
    "home": "ETH",
    "away": "SEN",
    "homeScore": 0,
@@ -5131,7 +5177,7 @@
   },
   {
    "date": "2026-09-29",
-   "kickoff": "2026-09-29T15:00:00Z",
+   "kickoff": "2026-09-29T13:00:00Z",
    "home": "BDI",
    "away": "ALG",
    "homeScore": 2,
@@ -5234,6 +5280,48 @@
    "homeName": "Thailand",
    "awayName": "Vietnam",
    "fifaId": "400022948"
+  },
+  {
+   "date": "2026-09-29",
+   "kickoff": "2026-09-29T12:00:00Z",
+   "home": "GNB",
+   "away": "NGA",
+   "homeScore": 3,
+   "awayScore": 0,
+   "homePens": null,
+   "awayPens": null,
+   "city": "Bissau",
+   "status": 0,
+   "competition": "CAF Africa Cup of Nations Qualifiers",
+   "stage": "Group stage",
+   "source": "Wikipedia",
+   "counted": true,
+   "importance": 25,
+   "homeDelta": 21.43,
+   "awayDelta": -21.43,
+   "homeName": "Guinea-Bissau",
+   "awayName": "Nigeria"
+  },
+  {
+   "date": "2026-09-29",
+   "kickoff": "2026-09-29T12:00:00Z",
+   "home": "CPV",
+   "away": "RWA",
+   "homeScore": 1,
+   "awayScore": 2,
+   "homePens": null,
+   "awayPens": null,
+   "city": "Praia",
+   "status": 0,
+   "competition": "CAF Africa Cup of Nations Qualifiers",
+   "stage": "Group stage",
+   "source": "Wikipedia",
+   "counted": true,
+   "importance": 25,
+   "homeDelta": -18.15,
+   "awayDelta": 18.15,
+   "homeName": "Cabo Verde",
+   "awayName": "Rwanda"
   },
   {
    "kickoff": "2026-09-29T10:00:00Z",
@@ -6748,48 +6836,6 @@
    "fifaId": "1vul4ucfdbfim2265tx9z7zf8"
   },
   {
-   "date": "2026-09-25",
-   "kickoff": "2026-09-25T21:00:00Z",
-   "home": "MLI",
-   "away": "CPV",
-   "homeScore": 3,
-   "awayScore": 1,
-   "homePens": null,
-   "awayPens": null,
-   "city": "Bamako",
-   "status": 0,
-   "competition": "CAF Africa Cup of Nations Qualifiers",
-   "stage": "Group stage",
-   "source": "Wikipedia",
-   "counted": true,
-   "importance": 25,
-   "homeDelta": 11.24,
-   "awayDelta": -11.24,
-   "homeName": "Mali",
-   "awayName": "Cabo Verde"
-  },
-  {
-   "date": "2026-09-25",
-   "kickoff": "2026-09-25T21:00:00Z",
-   "home": "ALG",
-   "away": "ZAM",
-   "homeScore": 3,
-   "awayScore": 1,
-   "homePens": null,
-   "awayPens": null,
-   "city": "Tizi Ouzou",
-   "status": 0,
-   "competition": "CAF Africa Cup of Nations Qualifiers",
-   "stage": "Group stage",
-   "source": "Wikipedia",
-   "counted": true,
-   "importance": 25,
-   "homeDelta": 5.65,
-   "awayDelta": -5.65,
-   "homeName": "Algeria",
-   "awayName": "Zambia"
-  },
-  {
    "kickoff": "2026-09-25T21:00:00Z",
    "date": "2026-09-25",
    "home": "GRN",
@@ -6810,6 +6856,48 @@
    "homeName": "Grenada",
    "awayName": "Cuba",
    "fifaId": "di5pq0t89nvjtbudz3blqn7ys"
+  },
+  {
+   "date": "2026-09-25",
+   "kickoff": "2026-09-25T19:00:00Z",
+   "home": "MLI",
+   "away": "CPV",
+   "homeScore": 3,
+   "awayScore": 1,
+   "homePens": null,
+   "awayPens": null,
+   "city": "Bamako",
+   "status": 0,
+   "competition": "CAF Africa Cup of Nations Qualifiers",
+   "stage": "Group stage",
+   "source": "Wikipedia",
+   "counted": true,
+   "importance": 25,
+   "homeDelta": 11.24,
+   "awayDelta": -11.24,
+   "homeName": "Mali",
+   "awayName": "Cabo Verde"
+  },
+  {
+   "date": "2026-09-25",
+   "kickoff": "2026-09-25T19:00:00Z",
+   "home": "ALG",
+   "away": "ZAM",
+   "homeScore": 3,
+   "awayScore": 1,
+   "homePens": null,
+   "awayPens": null,
+   "city": "Tizi Ouzou",
+   "status": 0,
+   "competition": "CAF Africa Cup of Nations Qualifiers",
+   "stage": "Group stage",
+   "source": "Wikipedia",
+   "counted": true,
+   "importance": 25,
+   "homeDelta": 5.65,
+   "awayDelta": -5.65,
+   "homeName": "Algeria",
+   "awayName": "Zambia"
   },
   {
    "date": "2026-09-25",
@@ -7008,7 +7096,7 @@
   },
   {
    "date": "2026-09-25",
-   "kickoff": "2026-09-25T18:00:00Z",
+   "kickoff": "2026-09-25T16:00:00Z",
    "home": "NGA",
    "away": "MAD",
    "homeScore": 2,
@@ -7029,7 +7117,7 @@
   },
   {
    "date": "2026-09-25",
-   "kickoff": "2026-09-25T18:00:00Z",
+   "kickoff": "2026-09-25T16:00:00Z",
    "home": "RWA",
    "away": "LBR",
    "homeScore": 3,
@@ -7050,28 +7138,7 @@
   },
   {
    "date": "2026-09-25",
-   "kickoff": "2026-09-25T18:00:00Z",
-   "home": "SDN",
-   "away": "ETH",
-   "homeScore": 1,
-   "awayScore": 0,
-   "homePens": null,
-   "awayPens": null,
-   "city": "Juba",
-   "status": 0,
-   "competition": "CAF Africa Cup of Nations Qualifiers",
-   "stage": "Group stage",
-   "source": "Wikipedia",
-   "counted": true,
-   "importance": 25,
-   "homeDelta": 10.6,
-   "awayDelta": -10.6,
-   "homeName": "Sudan",
-   "awayName": "Ethiopia"
-  },
-  {
-   "date": "2026-09-25",
-   "kickoff": "2026-09-25T18:00:00Z",
+   "kickoff": "2026-09-25T16:00:00Z",
    "home": "TOG",
    "away": "BDI",
    "homeScore": 1,
@@ -7179,48 +7246,6 @@
   {
    "date": "2026-09-25",
    "kickoff": "2026-09-25T15:00:00Z",
-   "home": "TAN",
-   "away": "GNB",
-   "homeScore": 0,
-   "awayScore": 2,
-   "homePens": null,
-   "awayPens": null,
-   "city": "Zanzibar City",
-   "status": 0,
-   "competition": "CAF Africa Cup of Nations Qualifiers",
-   "stage": "Group stage",
-   "source": "Wikipedia",
-   "counted": true,
-   "importance": 25,
-   "homeDelta": -14.21,
-   "awayDelta": 14.21,
-   "homeName": "Tanzania",
-   "awayName": "Guinea-Bissau"
-  },
-  {
-   "date": "2026-09-25",
-   "kickoff": "2026-09-25T15:00:00Z",
-   "home": "MOZ",
-   "away": "SEN",
-   "homeScore": 1,
-   "awayScore": 1,
-   "homePens": null,
-   "awayPens": null,
-   "city": "Maputo",
-   "status": 0,
-   "competition": "CAF Africa Cup of Nations Qualifiers",
-   "stage": "Group stage",
-   "source": "Wikipedia",
-   "counted": true,
-   "importance": 25,
-   "homeDelta": 8.53,
-   "awayDelta": -8.53,
-   "homeName": "Mozambique",
-   "awayName": "Senegal"
-  },
-  {
-   "date": "2026-09-25",
-   "kickoff": "2026-09-25T15:00:00Z",
    "home": "NIG",
    "away": "LES",
    "homeScore": 2,
@@ -7260,6 +7285,69 @@
    "homeName": "India",
    "awayName": "Panama",
    "fifaId": "1dwcosff7fhk6r7wn4aeztqfo"
+  },
+  {
+   "date": "2026-09-25",
+   "kickoff": "2026-09-25T13:00:00Z",
+   "home": "TAN",
+   "away": "GNB",
+   "homeScore": 0,
+   "awayScore": 2,
+   "homePens": null,
+   "awayPens": null,
+   "city": "Zanzibar City",
+   "status": 0,
+   "competition": "CAF Africa Cup of Nations Qualifiers",
+   "stage": "Group stage",
+   "source": "Wikipedia",
+   "counted": true,
+   "importance": 25,
+   "homeDelta": -14.21,
+   "awayDelta": 14.21,
+   "homeName": "Tanzania",
+   "awayName": "Guinea-Bissau"
+  },
+  {
+   "date": "2026-09-25",
+   "kickoff": "2026-09-25T13:00:00Z",
+   "home": "SDN",
+   "away": "ETH",
+   "homeScore": 1,
+   "awayScore": 0,
+   "homePens": null,
+   "awayPens": null,
+   "city": "Juba",
+   "status": 0,
+   "competition": "CAF Africa Cup of Nations Qualifiers",
+   "stage": "Group stage",
+   "source": "Wikipedia",
+   "counted": true,
+   "importance": 25,
+   "homeDelta": 10.6,
+   "awayDelta": -10.6,
+   "homeName": "Sudan",
+   "awayName": "Ethiopia"
+  },
+  {
+   "date": "2026-09-25",
+   "kickoff": "2026-09-25T13:00:00Z",
+   "home": "MOZ",
+   "away": "SEN",
+   "homeScore": 1,
+   "awayScore": 1,
+   "homePens": null,
+   "awayPens": null,
+   "city": "Maputo",
+   "status": 0,
+   "competition": "CAF Africa Cup of Nations Qualifiers",
+   "stage": "Group stage",
+   "source": "Wikipedia",
+   "counted": true,
+   "importance": 25,
+   "homeDelta": 8.53,
+   "awayDelta": -8.53,
+   "homeName": "Mozambique",
+   "awayName": "Senegal"
   },
   {
    "kickoff": "2026-09-25T13:00:00Z",
@@ -8752,72 +8840,6 @@
  ],
  "fixtures": [
   {
-   "kickoff": "2026-10-04T13:00:00Z",
-   "date": "2026-10-04",
-   "home": "COM",
-   "away": "SEN",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "Friendlies",
-   "stage": "Friendlies 1",
-   "city": "Marseille",
-   "source": "FIFA",
-   "importance": 10,
-   "knockout": false,
-   "expectedHome": 0.149,
-   "prediction": {
-    "home": {
-     "win": 8.51,
-     "draw": 3.51,
-     "loss": -1.49
-    },
-    "away": {
-     "loss": -8.51,
-     "draw": -3.51,
-     "win": 1.49
-    }
-   },
-   "homeName": "Comoros",
-   "awayName": "Senegal",
-   "fifaId": "ag4uo7lsgamtkp7tkgb0flzis"
-  },
-  {
-   "kickoff": "2026-10-04T13:00:00Z",
-   "date": "2026-10-04",
-   "home": "AZE",
-   "away": "LTU",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "UEFA Nations League",
-   "stage": "League D",
-   "city": "Baku",
-   "source": "FIFA",
-   "importance": 15,
-   "knockout": false,
-   "expectedHome": 0.564,
-   "prediction": {
-    "home": {
-     "win": 6.55,
-     "draw": -0.95,
-     "loss": -8.45
-    },
-    "away": {
-     "loss": -6.55,
-     "draw": 0.95,
-     "win": 8.45
-    }
-   },
-   "homeName": "Azerbaijan",
-   "awayName": "Lithuania",
-   "fifaId": "bpsibgsdc6qostdoi2unorhn8"
-  },
-  {
    "kickoff": "2026-10-04T14:00:00Z",
    "date": "2026-10-04",
    "home": "KGZ",
@@ -10239,6 +10261,39 @@
   {
    "kickoff": "2026-10-06T17:00:00Z",
    "date": "2026-10-06",
+   "home": "ALG",
+   "away": "NIG",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 1",
+   "city": "Tizi Ouzou",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.822,
+   "prediction": {
+    "home": {
+     "win": 1.78,
+     "draw": -3.22,
+     "loss": -8.22
+    },
+    "away": {
+     "loss": -1.78,
+     "draw": 3.22,
+     "win": 8.22
+    }
+   },
+   "homeName": "Algeria",
+   "awayName": "Niger",
+   "fifaId": "ewklvq839bgtbleo5ay0e7mc"
+  },
+  {
+   "kickoff": "2026-10-06T17:00:00Z",
+   "date": "2026-10-06",
    "home": "JOR",
    "away": "VEN",
    "homeScore": null,
@@ -10599,39 +10654,6 @@
    "awayName": "Malawi"
   },
   {
-   "kickoff": "2026-10-06T19:30:00Z",
-   "date": "2026-10-06",
-   "home": "ALG",
-   "away": "NIG",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "Friendlies",
-   "stage": "Friendlies 1",
-   "city": "Tizi Ouzou",
-   "source": "FIFA",
-   "importance": 10,
-   "knockout": false,
-   "expectedHome": 0.822,
-   "prediction": {
-    "home": {
-     "win": 1.78,
-     "draw": -3.22,
-     "loss": -8.22
-    },
-    "away": {
-     "loss": -1.78,
-     "draw": 3.22,
-     "win": 8.22
-    }
-   },
-   "homeName": "Algeria",
-   "awayName": "Niger",
-   "fifaId": "ewklvq839bgtbleo5ay0e7mc"
-  },
-  {
    "kickoff": "2026-10-06T20:00:00Z",
    "date": "2026-10-06",
    "home": "MSR",
@@ -10731,6 +10753,39 @@
    "fifaId": "dqhehhz24yuy52ihfjkh9wmc4"
   },
   {
+   "kickoff": "2026-10-06T23:45:00Z",
+   "date": "2026-10-06",
+   "home": "COL",
+   "away": "PER",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 1",
+   "city": "Miami Gardens",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.745,
+   "prediction": {
+    "home": {
+     "win": 2.55,
+     "draw": -2.45,
+     "loss": -7.45
+    },
+    "away": {
+     "loss": -2.55,
+     "draw": 2.45,
+     "win": 7.45
+    }
+   },
+   "homeName": "Colombia",
+   "awayName": "Peru",
+   "fifaId": "5s6e2etvolgvd484zawil6dck"
+  },
+  {
    "kickoff": "2026-10-07T00:00:00Z",
    "date": "2026-10-06",
    "home": "USA",
@@ -10795,39 +10850,6 @@
    "homeName": "Mexico",
    "awayName": "Chile",
    "fifaId": "3liejir6jq09q4pp43h7iwiz8"
-  },
-  {
-   "kickoff": "2026-10-07T03:00:00Z",
-   "date": "2026-10-06",
-   "home": "COL",
-   "away": "PER",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "Friendlies",
-   "stage": "Friendlies 1",
-   "city": "Miami, Florida",
-   "source": "FIFA",
-   "importance": 10,
-   "knockout": false,
-   "expectedHome": 0.745,
-   "prediction": {
-    "home": {
-     "win": 2.55,
-     "draw": -2.45,
-     "loss": -7.45
-    },
-    "away": {
-     "loss": -2.55,
-     "draw": 2.45,
-     "win": 7.45
-    }
-   },
-   "homeName": "Colombia",
-   "awayName": "Peru",
-   "fifaId": "5s6e2etvolgvd484zawil6dck"
   },
   {
    "kickoff": "2026-11-04T00:00:00Z",
@@ -14281,39 +14303,6 @@
   },
   {
    "kickoff": "2026-11-17T00:00:00Z",
-   "date": "2026-11-16",
-   "home": "CHI",
-   "away": "COL",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "Friendlies",
-   "stage": "Friendlies 1",
-   "city": "Santiago",
-   "source": "FIFA",
-   "importance": 10,
-   "knockout": false,
-   "expectedHome": 0.253,
-   "prediction": {
-    "home": {
-     "win": 7.47,
-     "draw": 2.47,
-     "loss": -2.53
-    },
-    "away": {
-     "loss": -7.47,
-     "draw": -2.47,
-     "win": 2.53
-    }
-   },
-   "homeName": "Chile",
-   "awayName": "Colombia",
-   "fifaId": "dj5ammmwqr0w5to4cb8gjlixg"
-  },
-  {
-   "kickoff": "2026-11-17T00:00:00Z",
    "date": "2026-11-17",
    "home": "JPN",
    "away": "PAR",
@@ -14674,6 +14663,39 @@
    "homeName": "Republic of Ireland",
    "awayName": "Kosovo",
    "fifaId": "2qm9jrorrcn5gxx9wf37ajv8"
+  },
+  {
+   "kickoff": "2026-11-19T00:00:00Z",
+   "date": "2026-11-18",
+   "home": "CHI",
+   "away": "COL",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 1",
+   "city": "Santiago",
+   "source": "FIFA",
+   "importance": 5,
+   "knockout": false,
+   "expectedHome": 0.253,
+   "prediction": {
+    "home": {
+     "win": 3.73,
+     "draw": 1.23,
+     "loss": -1.27
+    },
+    "away": {
+     "loss": -3.73,
+     "draw": -1.23,
+     "win": 1.27
+    }
+   },
+   "homeName": "Chile",
+   "awayName": "Colombia",
+   "fifaId": "dj5ammmwqr0w5to4cb8gjlixg"
   },
   {
    "kickoff": "2027-01-07T00:00:00Z",
@@ -17419,8 +17441,8 @@
    "name": "Friendlies",
    "group": "Global",
    "weight": "I=10 · 5 outside windows",
-   "results": 55,
-   "fixtures": 32
+   "results": 57,
+   "fixtures": 31
   },
   {
    "name": "FIFA Series™",
@@ -17468,8 +17490,8 @@
    "name": "UEFA Nations League",
    "group": "UEFA",
    "weight": "I=15 · 25 play-offs & finals",
-   "results": 78,
-   "fixtures": 78
+   "results": 79,
+   "fixtures": 77
   },
   {
    "name": "Baltic Cup",
