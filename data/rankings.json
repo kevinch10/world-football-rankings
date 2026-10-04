@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-04T20:27:50+00:00",
+ "generatedAt": "2026-10-04T23:27:48+00:00",
  "official": {
   "pubDate": "2026-07-20T10:00:00+00:00",
   "nextPubDate": null,
@@ -64,6 +64,20 @@
    "rankChange": 0
   },
   {
+   "id": "43963",
+   "code": "POR",
+   "name": "Portugal",
+   "confed": "UEFA",
+   "officialRank": 7,
+   "officialPoints": 1787.85,
+   "previousRank": 5,
+   "aliases": [],
+   "liveRank": 5,
+   "livePoints": 1807.69,
+   "pointsChange": 19.84,
+   "rankChange": 2
+  },
+  {
    "id": "43924",
    "code": "BRA",
    "name": "Brazil",
@@ -72,10 +86,10 @@
    "officialPoints": 1804.92,
    "previousRank": 6,
    "aliases": [],
-   "liveRank": 5,
+   "liveRank": 6,
    "livePoints": 1806.51,
    "pointsChange": 1.59,
-   "rankChange": 0
+   "rankChange": -1
   },
   {
    "id": "43872",
@@ -86,24 +100,10 @@
    "officialPoints": 1803.99,
    "previousRank": 7,
    "aliases": [],
-   "liveRank": 6,
+   "liveRank": 7,
    "livePoints": 1805.34,
    "pointsChange": 1.35,
-   "rankChange": 0
-  },
-  {
-   "id": "43963",
-   "code": "POR",
-   "name": "Portugal",
-   "confed": "UEFA",
-   "officialRank": 7,
-   "officialPoints": 1787.85,
-   "previousRank": 5,
-   "aliases": [],
-   "liveRank": 7,
-   "livePoints": 1802.41,
-   "pointsChange": 14.56,
-   "rankChange": 0
+   "rankChange": -1
   },
   {
    "id": "43935",
@@ -131,8 +131,8 @@
     "Holland"
    ],
    "liveRank": 9,
-   "livePoints": 1774.89,
-   "pointsChange": -0.65,
+   "livePoints": 1778.61,
+   "pointsChange": 3.07,
    "rankChange": 0
   },
   {
@@ -178,20 +178,6 @@
    "rankChange": 2
   },
   {
-   "id": "43948",
-   "code": "GER",
-   "name": "Germany",
-   "confed": "UEFA",
-   "officialRank": 12,
-   "officialPoints": 1726.22,
-   "previousRank": 10,
-   "aliases": [],
-   "liveRank": 13,
-   "livePoints": 1720.57,
-   "pointsChange": -5.65,
-   "rankChange": -1
-  },
-  {
    "id": "43938",
    "code": "CRO",
    "name": "Croatia",
@@ -200,10 +186,24 @@
    "officialPoints": 1723.05,
    "previousRank": 11,
    "aliases": [],
-   "liveRank": 14,
+   "liveRank": 13,
    "livePoints": 1718.45,
    "pointsChange": -4.6,
-   "rankChange": -1
+   "rankChange": 0
+  },
+  {
+   "id": "43948",
+   "code": "GER",
+   "name": "Germany",
+   "confed": "UEFA",
+   "officialRank": 12,
+   "officialPoints": 1726.22,
+   "previousRank": 10,
+   "aliases": [],
+   "liveRank": 14,
+   "livePoints": 1717.52,
+   "pointsChange": -8.7,
+   "rankChange": -2
   },
   {
    "id": "43954",
@@ -276,8 +276,8 @@
    "previousRank": 31,
    "aliases": [],
    "liveRank": 19,
-   "livePoints": 1643.17,
-   "pointsChange": -8.12,
+   "livePoints": 1637.89,
+   "pointsChange": -13.4,
    "rankChange": 0
   },
   {
@@ -304,8 +304,8 @@
    "previousRank": 21,
    "aliases": [],
    "liveRank": 21,
-   "livePoints": 1613.49,
-   "pointsChange": -5.98,
+   "livePoints": 1619.61,
+   "pointsChange": 0.14,
    "rankChange": 0
   },
   {
@@ -553,8 +553,8 @@
    "previousRank": 37,
    "aliases": [],
    "liveRank": 38,
-   "livePoints": 1516.49,
-   "pointsChange": -0.46,
+   "livePoints": 1510.37,
+   "pointsChange": -6.58,
    "rankChange": 0
   },
   {
@@ -598,8 +598,8 @@
    "previousRank": 48,
    "aliases": [],
    "liveRank": 41,
-   "livePoints": 1495.66,
-   "pointsChange": 22.47,
+   "livePoints": 1498.71,
+   "pointsChange": 25.52,
    "rankChange": 5
   },
   {
@@ -617,20 +617,6 @@
    "rankChange": 0
   },
   {
-   "id": "1902465",
-   "code": "SRB",
-   "name": "Serbia",
-   "confed": "UEFA",
-   "officialRank": 40,
-   "officialPoints": 1502.13,
-   "previousRank": 43,
-   "aliases": [],
-   "liveRank": 43,
-   "livePoints": 1485.96,
-   "pointsChange": -16.17,
-   "rankChange": -3
-  },
-  {
    "id": "43849",
    "code": "CMR",
    "name": "Cameroon",
@@ -639,10 +625,24 @@
    "officialPoints": 1481.24,
    "previousRank": 44,
    "aliases": [],
-   "liveRank": 44,
+   "liveRank": 43,
    "livePoints": 1485.31,
    "pointsChange": 4.07,
-   "rankChange": -1
+   "rankChange": 0
+  },
+  {
+   "id": "1902465",
+   "code": "SRB",
+   "name": "Serbia",
+   "confed": "UEFA",
+   "officialRank": 40,
+   "officialPoints": 1502.13,
+   "previousRank": 43,
+   "aliases": [],
+   "liveRank": 44,
+   "livePoints": 1482.24,
+   "pointsChange": -19.89,
+   "rankChange": -4
   },
   {
    "id": "43914",
@@ -773,6 +773,20 @@
    "rankChange": 3
   },
   {
+   "id": "43901",
+   "code": "CRC",
+   "name": "Costa Rica",
+   "confed": "CONCACAF",
+   "officialRank": 51,
+   "officialPoints": 1456.03,
+   "previousRank": 53,
+   "aliases": [],
+   "liveRank": 54,
+   "livePoints": 1439.49,
+   "pointsChange": -16.54,
+   "rankChange": -3
+  },
+  {
    "id": "43953",
    "code": "IRL",
    "name": "Republic of Ireland",
@@ -784,24 +798,10 @@
     "Eire",
     "Ireland"
    ],
-   "liveRank": 54,
-   "livePoints": 1440.27,
-   "pointsChange": -0.83,
-   "rankChange": 1
-  },
-  {
-   "id": "43901",
-   "code": "CRC",
-   "name": "Costa Rica",
-   "confed": "CONCACAF",
-   "officialRank": 51,
-   "officialPoints": 1456.03,
-   "previousRank": 53,
-   "aliases": [],
    "liveRank": 55,
-   "livePoints": 1439.49,
-   "pointsChange": -16.54,
-   "rankChange": -4
+   "livePoints": 1438.63,
+   "pointsChange": -2.47,
+   "rankChange": 0
   },
   {
    "id": "43964",
@@ -1115,8 +1115,8 @@
    "previousRank": 76,
    "aliases": [],
    "liveRank": 77,
-   "livePoints": 1323.87,
-   "pointsChange": -10.03,
+   "livePoints": 1325.52,
+   "pointsChange": -8.38,
    "rankChange": -1
   },
   {
@@ -2028,20 +2028,6 @@
    "rankChange": -4
   },
   {
-   "id": "43846",
-   "code": "BOT",
-   "name": "Botswana",
-   "confed": "CAF",
-   "officialRank": 147,
-   "officialPoints": 1063.63,
-   "previousRank": 147,
-   "aliases": [],
-   "liveRank": 142,
-   "livePoints": 1070.38,
-   "pointsChange": 6.75,
-   "rankChange": 5
-  },
-  {
    "id": "43907",
    "code": "GUY",
    "name": "Guyana",
@@ -2050,10 +2036,24 @@
    "officialPoints": 1049.32,
    "previousRank": 150,
    "aliases": [],
+   "liveRank": 142,
+   "livePoints": 1071.38,
+   "pointsChange": 22.06,
+   "rankChange": 8
+  },
+  {
+   "id": "43846",
+   "code": "BOT",
+   "name": "Botswana",
+   "confed": "CAF",
+   "officialRank": 147,
+   "officialPoints": 1063.63,
+   "previousRank": 147,
+   "aliases": [],
    "liveRank": 143,
-   "livePoints": 1066.33,
-   "pointsChange": 17.01,
-   "rankChange": 7
+   "livePoints": 1070.38,
+   "pointsChange": 6.75,
+   "rankChange": 4
   },
   {
    "id": "43842",
@@ -2653,8 +2653,8 @@
    "previousRank": 182,
    "aliases": [],
    "liveRank": 185,
-   "livePoints": 889.63,
-   "pointsChange": -8.06,
+   "livePoints": 884.58,
+   "pointsChange": -13.11,
    "rankChange": -3
   },
   {
@@ -2925,8 +2925,8 @@
    "previousRank": 205,
    "aliases": [],
    "liveRank": 204,
-   "livePoints": 805.2,
-   "pointsChange": 1.22,
+   "livePoints": 812.05,
+   "pointsChange": 8.07,
    "rankChange": 1
   },
   {
@@ -2970,8 +2970,8 @@
     "United States Virgin Islands"
    ],
    "liveRank": 207,
-   "livePoints": 787.36,
-   "pointsChange": 7.6,
+   "livePoints": 794.74,
+   "pointsChange": 14.98,
    "rankChange": 1
   },
   {
@@ -2984,8 +2984,8 @@
    "previousRank": 207,
    "aliases": [],
    "liveRank": 208,
-   "livePoints": 779.22,
-   "pointsChange": -7.6,
+   "livePoints": 771.84,
+   "pointsChange": -14.98,
    "rankChange": -1
   },
   {
@@ -2998,8 +2998,8 @@
    "previousRank": 209,
    "aliases": [],
    "liveRank": 209,
-   "livePoints": 759.6,
-   "pointsChange": -17.81,
+   "livePoints": 752.75,
+   "pointsChange": -24.66,
    "rankChange": 0
   },
   {
@@ -3033,78 +3033,45 @@
  ],
  "results": [
   {
-   "kickoff": "2026-10-04T20:00:00Z",
+   "kickoff": "2026-10-04T23:00:00Z",
    "date": "2026-10-04",
-   "home": "BAH",
-   "away": "VIR",
-   "homeScore": 0,
+   "home": "ARU",
+   "away": "AIA",
+   "homeScore": 1,
    "awayScore": 0,
    "homePens": null,
    "awayPens": null,
    "status": 3,
    "competition": "Concacaf Nations League",
    "stage": "League C",
-   "city": "Christiansted",
+   "city": "North Sound",
    "source": "FIFA",
    "importance": 15,
    "knockout": false,
-   "expectedHome": 0.492,
+   "expectedHome": 0.638,
    "prediction": {
     "home": {
-     "win": 7.62,
-     "draw": 0.12,
-     "loss": -7.38
+     "win": 5.42,
+     "draw": -2.08,
+     "loss": -9.58
     },
     "away": {
-     "loss": -7.62,
-     "draw": -0.12,
-     "win": 7.38
+     "loss": -5.42,
+     "draw": 2.08,
+     "win": 9.58
     }
    },
-   "homeName": "Bahamas",
-   "awayName": "US Virgin Islands",
-   "fifaId": "dpq4bok0skaj0eya1x4xgicyc"
+   "homeName": "Aruba",
+   "awayName": "Anguilla",
+   "fifaId": "dpckf5vjffch45yunb07www0k"
   },
   {
-   "kickoff": "2026-10-04T20:00:00Z",
+   "kickoff": "2026-10-04T22:00:00Z",
    "date": "2026-10-04",
-   "home": "TCA",
-   "away": "VGB",
-   "homeScore": 0,
+   "home": "PUR",
+   "away": "CAY",
+   "homeScore": 1,
    "awayScore": 0,
-   "homePens": null,
-   "awayPens": null,
-   "status": 3,
-   "competition": "Concacaf Nations League",
-   "stage": "League C",
-   "city": "Venetian Road Settlement",
-   "source": "FIFA",
-   "importance": 15,
-   "knockout": false,
-   "expectedHome": 0.544,
-   "prediction": {
-    "home": {
-     "win": 6.85,
-     "draw": -0.65,
-     "loss": -8.15
-    },
-    "away": {
-     "loss": -6.85,
-     "draw": 0.65,
-     "win": 8.15
-    }
-   },
-   "homeName": "Turks and Caicos Islands",
-   "awayName": "British Virgin Islands",
-   "fifaId": "doz4a3ysbd34qgwjwn7hwg93o"
-  },
-  {
-   "kickoff": "2026-10-04T19:00:00Z",
-   "date": "2026-10-04",
-   "home": "GUY",
-   "away": "DMA",
-   "homeScore": 6,
-   "awayScore": 1,
    "homePens": null,
    "awayPens": null,
    "status": 3,
@@ -3114,19 +3081,118 @@
    "source": "FIFA",
    "importance": 15,
    "knockout": false,
-   "expectedHome": 0.663,
+   "expectedHome": 0.672,
    "prediction": {
     "home": {
-     "win": 5.05,
-     "draw": -2.45,
-     "loss": -9.95
+     "win": 4.92,
+     "draw": -2.58,
+     "loss": -10.08
     },
     "away": {
-     "loss": -5.05,
-     "draw": 2.45,
-     "win": 9.95
+     "loss": -4.92,
+     "draw": 2.58,
+     "win": 10.08
     }
    },
+   "homeName": "Puerto Rico",
+   "awayName": "Cayman Islands",
+   "fifaId": "drtpqy3z9m5hkwvoux533u2ac"
+  },
+  {
+   "kickoff": "2026-10-04T22:00:00Z",
+   "date": "2026-10-04",
+   "home": "TRI",
+   "away": "CUW",
+   "homeScore": 1,
+   "awayScore": 1,
+   "homePens": null,
+   "awayPens": null,
+   "status": 3,
+   "competition": "Concacaf Nations League",
+   "stage": "League A",
+   "city": "Port of Spain",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.397,
+   "prediction": {
+    "home": {
+     "win": 9.05,
+     "draw": 1.55,
+     "loss": -5.95
+    },
+    "away": {
+     "loss": -9.05,
+     "draw": -1.55,
+     "win": 5.95
+    }
+   },
+   "homeName": "Trinidad and Tobago",
+   "awayName": "Curaçao",
+   "fifaId": "22i1lywrs85sz5r984xogpo2c"
+  },
+  {
+   "kickoff": "2026-10-04T20:00:00Z",
+   "date": "2026-10-04",
+   "home": "BAH",
+   "away": "VIR",
+   "homeScore": 2,
+   "awayScore": 3,
+   "homePens": null,
+   "awayPens": null,
+   "status": 0,
+   "competition": "Concacaf Nations League",
+   "stage": "League C",
+   "city": "Christiansted",
+   "source": "FIFA",
+   "counted": true,
+   "importance": 15,
+   "homeDelta": -7.38,
+   "awayDelta": 7.38,
+   "homeName": "Bahamas",
+   "awayName": "US Virgin Islands",
+   "fifaId": "dpq4bok0skaj0eya1x4xgicyc"
+  },
+  {
+   "kickoff": "2026-10-04T20:00:00Z",
+   "date": "2026-10-04",
+   "home": "TCA",
+   "away": "VGB",
+   "homeScore": 3,
+   "awayScore": 0,
+   "homePens": null,
+   "awayPens": null,
+   "status": 0,
+   "competition": "Concacaf Nations League",
+   "stage": "League C",
+   "city": "Venetian Road Settlement",
+   "source": "FIFA",
+   "counted": true,
+   "importance": 15,
+   "homeDelta": 6.85,
+   "awayDelta": -6.85,
+   "homeName": "Turks and Caicos Islands",
+   "awayName": "British Virgin Islands",
+   "fifaId": "doz4a3ysbd34qgwjwn7hwg93o"
+  },
+  {
+   "kickoff": "2026-10-04T19:00:00Z",
+   "date": "2026-10-04",
+   "home": "GUY",
+   "away": "DMA",
+   "homeScore": 8,
+   "awayScore": 1,
+   "homePens": null,
+   "awayPens": null,
+   "status": 0,
+   "competition": "Concacaf Nations League",
+   "stage": "League B",
+   "city": "Mayagüez",
+   "source": "FIFA",
+   "counted": true,
+   "importance": 15,
+   "homeDelta": 5.05,
+   "awayDelta": -5.05,
    "homeName": "Guyana",
    "awayName": "Dominica",
    "fifaId": "dreduxup1xnc95dykx3uppu6s"
@@ -3140,26 +3206,15 @@
    "awayScore": 1,
    "homePens": null,
    "awayPens": null,
-   "status": 3,
+   "status": 0,
    "competition": "UEFA Nations League",
    "stage": "League B",
    "city": "Bačka Topola",
    "source": "FIFA",
+   "counted": true,
    "importance": 15,
-   "knockout": false,
-   "expectedHome": 0.61,
-   "prediction": {
-    "home": {
-     "win": 5.85,
-     "draw": -1.65,
-     "loss": -9.15
-    },
-    "away": {
-     "loss": -5.85,
-     "draw": 1.65,
-     "win": 9.15
-    }
-   },
+   "homeDelta": -1.65,
+   "awayDelta": 1.65,
    "homeName": "Republic of Ireland",
    "awayName": "Israel",
    "fifaId": "ewdn9cg6873sq0ea54rvg1mvo"
@@ -3173,26 +3228,15 @@
    "awayScore": 1,
    "homePens": null,
    "awayPens": null,
-   "status": 3,
+   "status": 0,
    "competition": "UEFA Nations League",
    "stage": "League A",
    "city": "Cardiff",
    "source": "FIFA",
+   "counted": true,
    "importance": 15,
-   "knockout": false,
-   "expectedHome": 0.408,
-   "prediction": {
-    "home": {
-     "win": 8.88,
-     "draw": 1.38,
-     "loss": -6.12
-    },
-    "away": {
-     "loss": -8.88,
-     "draw": -1.38,
-     "win": 6.12
-    }
-   },
+   "homeDelta": -6.12,
+   "awayDelta": 6.12,
    "homeName": "Wales",
    "awayName": "Denmark",
    "fifaId": "79os1gg8jjseoavxriovn21as"
@@ -3206,26 +3250,15 @@
    "awayScore": 0,
    "homePens": null,
    "awayPens": null,
-   "status": 3,
+   "status": 0,
    "competition": "UEFA Nations League",
    "stage": "League A",
    "city": "Thessaloniki",
    "source": "FIFA",
+   "counted": true,
    "importance": 15,
-   "knockout": false,
-   "expectedHome": 0.297,
-   "prediction": {
-    "home": {
-     "win": 10.55,
-     "draw": 3.05,
-     "loss": -4.45
-    },
-    "away": {
-     "loss": -10.55,
-     "draw": -3.05,
-     "win": 4.45
-    }
-   },
+   "homeDelta": 3.05,
+   "awayDelta": -3.05,
    "homeName": "Greece",
    "awayName": "Germany",
    "fifaId": "77wuhps43r3ylcc092f418mqc"
@@ -3239,26 +3272,15 @@
    "awayScore": 1,
    "homePens": null,
    "awayPens": null,
-   "status": 3,
+   "status": 0,
    "competition": "UEFA Nations League",
    "stage": "League A",
    "city": "Eindhoven",
    "source": "FIFA",
+   "counted": true,
    "importance": 15,
-   "knockout": false,
-   "expectedHome": 0.752,
-   "prediction": {
-    "home": {
-     "win": 3.72,
-     "draw": -3.78,
-     "loss": -11.28
-    },
-    "away": {
-     "loss": -3.72,
-     "draw": 3.78,
-     "win": 11.28
-    }
-   },
+   "homeDelta": 3.72,
+   "awayDelta": -3.72,
    "homeName": "Netherlands",
    "awayName": "Serbia",
    "fifaId": "78i4i8qsh0otjt9w0yfjk0tn8"
@@ -3272,26 +3294,15 @@
    "awayScore": 1,
    "homePens": null,
    "awayPens": null,
-   "status": 3,
+   "status": 0,
    "competition": "UEFA Nations League",
    "stage": "League A",
    "city": "Porto",
    "source": "FIFA",
+   "counted": true,
    "importance": 15,
-   "knockout": false,
-   "expectedHome": 0.648,
-   "prediction": {
-    "home": {
-     "win": 5.28,
-     "draw": -2.22,
-     "loss": -9.72
-    },
-    "away": {
-     "loss": -5.28,
-     "draw": 2.22,
-     "win": 9.72
-    }
-   },
+   "homeDelta": 5.28,
+   "awayDelta": -5.28,
    "homeName": "Portugal",
    "awayName": "Norway",
    "fifaId": "795y24v1fs9x19us4p8hyt5as"
@@ -9236,72 +9247,6 @@
    "fifaId": "bl18thkp8kwjm2mnyy2guuy38"
   },
   {
-   "kickoff": "2026-10-04T22:00:00Z",
-   "date": "2026-10-04",
-   "home": "TRI",
-   "away": "CUW",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "Concacaf Nations League",
-   "stage": "League A",
-   "city": "Port of Spain",
-   "source": "FIFA",
-   "importance": 15,
-   "knockout": false,
-   "expectedHome": 0.397,
-   "prediction": {
-    "home": {
-     "win": 9.05,
-     "draw": 1.55,
-     "loss": -5.95
-    },
-    "away": {
-     "loss": -9.05,
-     "draw": -1.55,
-     "win": 5.95
-    }
-   },
-   "homeName": "Trinidad and Tobago",
-   "awayName": "Curaçao",
-   "fifaId": "22i1lywrs85sz5r984xogpo2c"
-  },
-  {
-   "kickoff": "2026-10-04T22:00:00Z",
-   "date": "2026-10-04",
-   "home": "PUR",
-   "away": "CAY",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "Concacaf Nations League",
-   "stage": "League B",
-   "city": "Mayagüez",
-   "source": "FIFA",
-   "importance": 15,
-   "knockout": false,
-   "expectedHome": 0.672,
-   "prediction": {
-    "home": {
-     "win": 4.92,
-     "draw": -2.58,
-     "loss": -10.08
-    },
-    "away": {
-     "loss": -4.92,
-     "draw": 2.58,
-     "win": 10.08
-    }
-   },
-   "homeName": "Puerto Rico",
-   "awayName": "Cayman Islands",
-   "fifaId": "drtpqy3z9m5hkwvoux533u2ac"
-  },
-  {
    "kickoff": "2026-10-04T22:30:00Z",
    "date": "2026-10-04",
    "home": "BOL",
@@ -9333,39 +9278,6 @@
    "homeName": "Bolivia",
    "awayName": "The Gambia",
    "fifaId": "a4cxw248eo49umm7lsb2pv0no"
-  },
-  {
-   "kickoff": "2026-10-04T23:00:00Z",
-   "date": "2026-10-04",
-   "home": "ARU",
-   "away": "AIA",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "Concacaf Nations League",
-   "stage": "League C",
-   "city": "North Sound",
-   "source": "FIFA",
-   "importance": 15,
-   "knockout": false,
-   "expectedHome": 0.638,
-   "prediction": {
-    "home": {
-     "win": 5.42,
-     "draw": -2.08,
-     "loss": -9.58
-    },
-    "away": {
-     "loss": -5.42,
-     "draw": 2.08,
-     "win": 9.58
-    }
-   },
-   "homeName": "Aruba",
-   "awayName": "Anguilla",
-   "fifaId": "dpckf5vjffch45yunb07www0k"
   },
   {
    "kickoff": "2026-10-05T00:00:00Z",
@@ -10603,17 +10515,17 @@
    "source": "FIFA",
    "importance": 15,
    "knockout": false,
-   "expectedHome": 0.621,
+   "expectedHome": 0.614,
    "prediction": {
     "home": {
-     "win": 5.69,
-     "draw": -1.81,
-     "loss": -9.31
+     "win": 5.79,
+     "draw": -1.71,
+     "loss": -9.21
     },
     "away": {
-     "loss": -5.69,
-     "draw": 1.81,
-     "win": 9.31
+     "loss": -5.79,
+     "draw": 1.71,
+     "win": 9.21
     }
    },
    "homeName": "Montserrat",
@@ -12232,14 +12144,14 @@
    "expectedHome": 0.745,
    "prediction": {
     "home": {
-     "win": 3.83,
-     "draw": -3.67,
-     "loss": -11.17
+     "win": 3.82,
+     "draw": -3.68,
+     "loss": -11.18
     },
     "away": {
-     "loss": -3.83,
-     "draw": 3.67,
-     "win": 11.17
+     "loss": -3.82,
+     "draw": 3.68,
+     "win": 11.18
     }
    },
    "homeName": "Netherlands",
@@ -12262,7 +12174,7 @@
    "source": "FIFA",
    "importance": 15,
    "knockout": false,
-   "expectedHome": 0.289,
+   "expectedHome": 0.288,
    "prediction": {
     "home": {
      "win": 10.67,
@@ -12559,17 +12471,17 @@
    "source": "FIFA",
    "importance": 15,
    "knockout": false,
-   "expectedHome": 0.504,
+   "expectedHome": 0.503,
    "prediction": {
     "home": {
-     "win": 7.44,
-     "draw": -0.06,
-     "loss": -7.56
+     "win": 7.46,
+     "draw": -0.04,
+     "loss": -7.54
     },
     "away": {
-     "loss": -7.44,
-     "draw": 0.06,
-     "win": 7.56
+     "loss": -7.46,
+     "draw": 0.04,
+     "win": 7.54
     }
    },
    "homeName": "Kosovo",
@@ -12592,17 +12504,17 @@
    "source": "FIFA",
    "importance": 15,
    "knockout": false,
-   "expectedHome": 0.619,
+   "expectedHome": 0.62,
    "prediction": {
     "home": {
-     "win": 5.71,
-     "draw": -1.79,
-     "loss": -9.29
+     "win": 5.7,
+     "draw": -1.8,
+     "loss": -9.3
     },
     "away": {
-     "loss": -5.71,
-     "draw": 1.79,
-     "win": 9.29
+     "loss": -5.7,
+     "draw": 1.8,
+     "win": 9.3
     }
    },
    "homeName": "Norway",
@@ -12658,17 +12570,17 @@
    "source": "FIFA",
    "importance": 15,
    "knockout": false,
-   "expectedHome": 0.674,
+   "expectedHome": 0.673,
    "prediction": {
     "home": {
-     "win": 4.89,
-     "draw": -2.61,
-     "loss": -10.11
+     "win": 4.91,
+     "draw": -2.59,
+     "loss": -10.09
     },
     "away": {
-     "loss": -4.89,
-     "draw": 2.61,
-     "win": 10.11
+     "loss": -4.91,
+     "draw": 2.59,
+     "win": 10.09
     }
    },
    "homeName": "Portugal",
@@ -12691,17 +12603,17 @@
    "source": "FIFA",
    "importance": 15,
    "knockout": false,
-   "expectedHome": 0.649,
+   "expectedHome": 0.651,
    "prediction": {
     "home": {
-     "win": 5.26,
-     "draw": -2.24,
-     "loss": -9.74
+     "win": 5.24,
+     "draw": -2.26,
+     "loss": -9.76
     },
     "away": {
-     "loss": -5.26,
-     "draw": 2.24,
-     "win": 9.74
+     "loss": -5.24,
+     "draw": 2.26,
+     "win": 9.76
     }
    },
    "homeName": "Austria",
@@ -14086,17 +13998,17 @@
    "source": "FIFA",
    "importance": 15,
    "knockout": false,
-   "expectedHome": 0.448,
+   "expectedHome": 0.442,
    "prediction": {
     "home": {
-     "win": 8.28,
-     "draw": 0.78,
-     "loss": -6.72
+     "win": 8.38,
+     "draw": 0.88,
+     "loss": -6.62
     },
     "away": {
-     "loss": -8.28,
-     "draw": -0.78,
-     "win": 6.72
+     "loss": -8.38,
+     "draw": -0.88,
+     "win": 6.62
     }
    },
    "homeName": "Germany",
@@ -14152,17 +14064,17 @@
    "source": "FIFA",
    "importance": 15,
    "knockout": false,
-   "expectedHome": 0.509,
+   "expectedHome": 0.516,
    "prediction": {
     "home": {
-     "win": 7.36,
-     "draw": -0.14,
-     "loss": -7.64
+     "win": 7.26,
+     "draw": -0.24,
+     "loss": -7.74
     },
     "away": {
-     "loss": -7.36,
-     "draw": 0.14,
-     "win": 7.64
+     "loss": -7.26,
+     "draw": 0.24,
+     "win": 7.74
     }
    },
    "homeName": "Greece",
@@ -14350,17 +14262,17 @@
    "source": "FIFA",
    "importance": 15,
    "knockout": false,
-   "expectedHome": 0.25,
+   "expectedHome": 0.242,
    "prediction": {
     "home": {
-     "win": 11.25,
-     "draw": 3.75,
-     "loss": -3.75
+     "win": 11.37,
+     "draw": 3.87,
+     "loss": -3.63
     },
     "away": {
-     "loss": -11.25,
-     "draw": -3.75,
-     "win": 3.75
+     "loss": -11.37,
+     "draw": -3.87,
+     "win": 3.63
     }
    },
    "homeName": "Wales",
@@ -14383,17 +14295,17 @@
    "source": "FIFA",
    "importance": 15,
    "knockout": false,
-   "expectedHome": 0.472,
+   "expectedHome": 0.482,
    "prediction": {
     "home": {
-     "win": 7.93,
-     "draw": 0.43,
-     "loss": -7.07
+     "win": 7.76,
+     "draw": 0.26,
+     "loss": -7.24
     },
     "away": {
-     "loss": -7.93,
-     "draw": -0.43,
-     "win": 7.07
+     "loss": -7.76,
+     "draw": -0.26,
+     "win": 7.24
     }
    },
    "homeName": "Denmark",
@@ -14416,17 +14328,17 @@
    "source": "FIFA",
    "importance": 15,
    "knockout": false,
-   "expectedHome": 0.257,
+   "expectedHome": 0.258,
    "prediction": {
     "home": {
-     "win": 11.15,
-     "draw": 3.65,
-     "loss": -3.85
+     "win": 11.13,
+     "draw": 3.63,
+     "loss": -3.87
     },
     "away": {
-     "loss": -11.15,
-     "draw": -3.65,
-     "win": 3.85
+     "loss": -11.13,
+     "draw": -3.63,
+     "win": 3.87
     }
    },
    "homeName": "Israel",
@@ -14581,17 +14493,17 @@
    "source": "FIFA",
    "importance": 15,
    "knockout": false,
-   "expectedHome": 0.606,
+   "expectedHome": 0.604,
    "prediction": {
     "home": {
-     "win": 5.91,
-     "draw": -1.59,
-     "loss": -9.09
+     "win": 5.93,
+     "draw": -1.57,
+     "loss": -9.07
     },
     "away": {
-     "loss": -5.91,
-     "draw": 1.59,
-     "win": 9.09
+     "loss": -5.93,
+     "draw": 1.57,
+     "win": 9.07
     }
    },
    "homeName": "Republic of Ireland",
@@ -17459,8 +17371,8 @@
    "name": "Concacaf Nations League",
    "group": "CONCACAF",
    "weight": "I=15 · 25 finals",
-   "results": 40,
-   "fixtures": 11
+   "results": 43,
+   "fixtures": 8
   },
   {
    "name": "Concacaf Series",
