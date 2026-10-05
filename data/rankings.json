@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-05T02:14:54+00:00",
+ "generatedAt": "2026-10-05T09:07:23+00:00",
  "official": {
   "pubDate": "2026-07-20T10:00:00+00:00",
   "nextPubDate": null,
@@ -1916,18 +1916,18 @@
    "rankChange": 1
   },
   {
-   "id": "43913",
-   "code": "NCA",
-   "name": "Nicaragua",
+   "id": "43903",
+   "code": "DOM",
+   "name": "Dominican Republic",
    "confed": "CONCACAF",
-   "officialRank": 131,
-   "officialPoints": 1114.63,
-   "previousRank": 131,
+   "officialRank": 144,
+   "officialPoints": 1076.5,
+   "previousRank": 144,
    "aliases": [],
    "liveRank": 134,
-   "livePoints": 1098.43,
-   "pointsChange": -16.2,
-   "rankChange": -3
+   "livePoints": 1096.58,
+   "pointsChange": 20.08,
+   "rankChange": 10
   },
   {
    "id": "43833",
@@ -1958,18 +1958,18 @@
    "rankChange": 0
   },
   {
-   "id": "43903",
-   "code": "DOM",
-   "name": "Dominican Republic",
+   "id": "43913",
+   "code": "NCA",
+   "name": "Nicaragua",
    "confed": "CONCACAF",
-   "officialRank": 144,
-   "officialPoints": 1076.5,
-   "previousRank": 144,
+   "officialRank": 131,
+   "officialPoints": 1114.63,
+   "previousRank": 131,
    "aliases": [],
    "liveRank": 137,
-   "livePoints": 1088.94,
-   "pointsChange": 12.44,
-   "rankChange": 7
+   "livePoints": 1090.8,
+   "pointsChange": -23.83,
+   "rankChange": -6
   },
   {
    "id": "43815",
@@ -3033,34 +3033,56 @@
  ],
  "results": [
   {
-   "kickoff": "2026-10-05T02:00:00Z",
-   "date": "2026-10-04",
-   "home": "NCA",
-   "away": "DOM",
+   "kickoff": "2026-10-05T09:00:00Z",
+   "date": "2026-10-05",
+   "home": "MAS",
+   "away": "VIE",
    "homeScore": 0,
    "awayScore": 0,
    "homePens": null,
    "awayPens": null,
    "status": 3,
+   "competition": "FIFA ASEAN Cup™",
+   "stage": "FIFA ASEAN Cup",
+   "city": "Jakarta",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.367,
+   "prediction": {
+    "home": {
+     "win": 6.33,
+     "draw": 1.33,
+     "loss": -3.67
+    },
+    "away": {
+     "loss": -6.33,
+     "draw": -1.33,
+     "win": 3.67
+    }
+   },
+   "homeName": "Malaysia",
+   "awayName": "Vietnam",
+   "fifaId": "400022956"
+  },
+  {
+   "kickoff": "2026-10-05T02:00:00Z",
+   "date": "2026-10-04",
+   "home": "NCA",
+   "away": "DOM",
+   "homeScore": 1,
+   "awayScore": 2,
+   "homePens": null,
+   "awayPens": null,
+   "status": 0,
    "competition": "Concacaf Nations League",
    "stage": "League A",
    "city": "Managua",
    "source": "FIFA",
+   "counted": true,
    "importance": 15,
-   "knockout": false,
-   "expectedHome": 0.509,
-   "prediction": {
-    "home": {
-     "win": 7.36,
-     "draw": -0.14,
-     "loss": -7.64
-    },
-    "away": {
-     "loss": -7.36,
-     "draw": 0.14,
-     "win": 7.64
-    }
-   },
+   "homeDelta": -7.64,
+   "awayDelta": 7.64,
    "homeName": "Nicaragua",
    "awayName": "Dominican Republic",
    "fifaId": "22vzmv4uawrvo20ni0z64jzf8"
@@ -9202,39 +9224,6 @@
   }
  ],
  "fixtures": [
-  {
-   "kickoff": "2026-10-05T09:00:00Z",
-   "date": "2026-10-05",
-   "home": "MAS",
-   "away": "VIE",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "FIFA ASEAN Cup™",
-   "stage": "FIFA ASEAN Cup",
-   "city": "Jakarta",
-   "source": "FIFA",
-   "importance": 10,
-   "knockout": false,
-   "expectedHome": 0.367,
-   "prediction": {
-    "home": {
-     "win": 6.33,
-     "draw": 1.33,
-     "loss": -3.67
-    },
-    "away": {
-     "loss": -6.33,
-     "draw": -1.33,
-     "win": 3.67
-    }
-   },
-   "homeName": "Malaysia",
-   "awayName": "Vietnam",
-   "fifaId": "400022956"
-  },
   {
    "kickoff": "2026-10-05T13:00:00Z",
    "date": "2026-10-05",
@@ -17165,8 +17154,8 @@
    "name": "FIFA ASEAN Cup™",
    "group": "Global",
    "weight": "I=10 · 5 outside windows",
-   "results": 19,
-   "fixtures": 2
+   "results": 20,
+   "fixtures": 1
   },
   {
    "name": "CONMEBOL/UEFA Finalissima",
