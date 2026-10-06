@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-06T06:19:51+00:00",
+ "generatedAt": "2026-10-06T13:28:55+00:00",
  "official": {
   "pubDate": "2026-07-20T10:00:00+00:00",
   "nextPubDate": null,
@@ -469,8 +469,8 @@
     "South Korea"
    ],
    "liveRank": 32,
-   "livePoints": 1558.79,
-   "pointsChange": 0.07,
+   "livePoints": 1562.49,
+   "pointsChange": 3.77,
    "rankChange": 0
   },
   {
@@ -857,8 +857,8 @@
    "previousRank": 50,
    "aliases": [],
    "liveRank": 59,
-   "livePoints": 1420.31,
-   "pointsChange": 10.58,
+   "livePoints": 1416.61,
+   "pointsChange": 6.88,
    "rankChange": 1
   },
   {
@@ -3032,6 +3032,61 @@
   }
  ],
  "results": [
+  {
+   "kickoff": "2026-10-06T11:35:00Z",
+   "date": "2026-10-06",
+   "home": "CHN",
+   "away": "TJK",
+   "homeScore": 0,
+   "awayScore": 1,
+   "homePens": null,
+   "awayPens": null,
+   "status": 3,
+   "competition": "Friendlies",
+   "stage": "Friendlies 1",
+   "city": "Chongqing",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.532,
+   "prediction": {
+    "home": {
+     "win": 4.68,
+     "draw": -0.32,
+     "loss": -5.32
+    },
+    "away": {
+     "loss": -4.68,
+     "draw": 0.32,
+     "win": 5.32
+    }
+   },
+   "homeName": "China PR",
+   "awayName": "Tajikistan",
+   "fifaId": "4xq4i3ez07hxqn8vt0jn4ljis"
+  },
+  {
+   "kickoff": "2026-10-06T11:00:00Z",
+   "date": "2026-10-06",
+   "home": "KOR",
+   "away": "UZB",
+   "homeScore": 2,
+   "awayScore": 0,
+   "homePens": null,
+   "awayPens": null,
+   "status": 0,
+   "competition": "Friendlies",
+   "stage": "Friendlies 1",
+   "city": "Yongin-si",
+   "source": "FIFA",
+   "counted": true,
+   "importance": 10,
+   "homeDelta": 3.7,
+   "awayDelta": -3.7,
+   "homeName": "Korea Republic",
+   "awayName": "Uzbekistan",
+   "fifaId": "e4hs4t6kqzx5qo7qf7hqvayvo"
+  },
   {
    "kickoff": "2026-10-06T02:00:00Z",
    "date": "2026-10-05",
@@ -9610,72 +9665,6 @@
  ],
  "fixtures": [
   {
-   "kickoff": "2026-10-06T11:00:00Z",
-   "date": "2026-10-06",
-   "home": "KOR",
-   "away": "UZB",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "Friendlies",
-   "stage": "Friendlies 1",
-   "city": "Yongin-si",
-   "source": "FIFA",
-   "importance": 10,
-   "knockout": false,
-   "expectedHome": 0.63,
-   "prediction": {
-    "home": {
-     "win": 3.7,
-     "draw": -1.3,
-     "loss": -6.3
-    },
-    "away": {
-     "loss": -3.7,
-     "draw": 1.3,
-     "win": 6.3
-    }
-   },
-   "homeName": "Korea Republic",
-   "awayName": "Uzbekistan",
-   "fifaId": "e4hs4t6kqzx5qo7qf7hqvayvo"
-  },
-  {
-   "kickoff": "2026-10-06T11:35:00Z",
-   "date": "2026-10-06",
-   "home": "CHN",
-   "away": "TJK",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "Friendlies",
-   "stage": "Friendlies 1",
-   "city": "Chongqing",
-   "source": "FIFA",
-   "importance": 10,
-   "knockout": false,
-   "expectedHome": 0.532,
-   "prediction": {
-    "home": {
-     "win": 4.68,
-     "draw": -0.32,
-     "loss": -5.32
-    },
-    "away": {
-     "loss": -4.68,
-     "draw": 0.32,
-     "win": 5.32
-    }
-   },
-   "homeName": "China PR",
-   "awayName": "Tajikistan",
-   "fifaId": "4xq4i3ez07hxqn8vt0jn4ljis"
-  },
-  {
    "kickoff": "2026-10-06T14:00:00Z",
    "date": "2026-10-06",
    "home": "IND",
@@ -14262,17 +14251,17 @@
    "source": "FIFA",
    "importance": 35,
    "knockout": false,
-   "expectedHome": 0.567,
+   "expectedHome": 0.564,
    "prediction": {
     "home": {
-     "win": 15.15,
-     "draw": -2.35,
-     "loss": -19.85
+     "win": 15.27,
+     "draw": -2.23,
+     "loss": -19.73
     },
     "away": {
-     "loss": -15.15,
-     "draw": 2.35,
-     "win": 19.85
+     "loss": -15.27,
+     "draw": 2.23,
+     "win": 19.73
     }
    },
    "homeName": "Uzbekistan",
@@ -14460,17 +14449,17 @@
    "source": "FIFA",
    "importance": 35,
    "knockout": false,
-   "expectedHome": 0.869,
+   "expectedHome": 0.871,
    "prediction": {
     "home": {
-     "win": 4.58,
-     "draw": -12.92,
-     "loss": -30.42
+     "win": 4.52,
+     "draw": -12.98,
+     "loss": -30.48
     },
     "away": {
-     "loss": -4.58,
-     "draw": 12.92,
-     "win": 30.42
+     "loss": -4.52,
+     "draw": 12.98,
+     "win": 30.48
     }
    },
    "homeName": "Korea Republic",
@@ -14658,17 +14647,17 @@
    "source": "FIFA",
    "importance": 35,
    "knockout": false,
-   "expectedHome": 0.262,
+   "expectedHome": 0.265,
    "prediction": {
     "home": {
-     "win": 25.81,
-     "draw": 8.31,
-     "loss": -9.19
+     "win": 25.72,
+     "draw": 8.22,
+     "loss": -9.28
     },
     "away": {
-     "loss": -25.81,
-     "draw": -8.31,
-     "win": 9.19
+     "loss": -25.72,
+     "draw": -8.22,
+     "win": 9.28
     }
    },
    "homeName": "DPR Korea",
@@ -14889,17 +14878,17 @@
    "source": "FIFA",
    "importance": 35,
    "knockout": false,
-   "expectedHome": 0.222,
+   "expectedHome": 0.219,
    "prediction": {
     "home": {
-     "win": 27.25,
-     "draw": 9.75,
-     "loss": -7.75
+     "win": 27.33,
+     "draw": 9.83,
+     "loss": -7.67
     },
     "away": {
-     "loss": -27.25,
-     "draw": -9.75,
-     "win": 7.75
+     "loss": -27.33,
+     "draw": -9.83,
+     "win": 7.67
     }
    },
    "homeName": "Vietnam",
@@ -15054,17 +15043,17 @@
    "source": "FIFA",
    "importance": 35,
    "knockout": false,
-   "expectedHome": 0.654,
+   "expectedHome": 0.651,
    "prediction": {
     "home": {
-     "win": 12.11,
-     "draw": -5.39,
-     "loss": -22.89
+     "win": 12.22,
+     "draw": -5.28,
+     "loss": -22.78
     },
     "away": {
-     "loss": -12.11,
-     "draw": 5.39,
-     "win": 22.89
+     "loss": -12.22,
+     "draw": 5.28,
+     "win": 22.78
     }
    },
    "homeName": "Uzbekistan",
@@ -15318,17 +15307,17 @@
    "source": "FIFA",
    "importance": 35,
    "knockout": false,
-   "expectedHome": 0.673,
+   "expectedHome": 0.676,
    "prediction": {
     "home": {
-     "win": 11.44,
-     "draw": -6.06,
-     "loss": -23.56
+     "win": 11.33,
+     "draw": -6.17,
+     "loss": -23.67
     },
     "away": {
-     "loss": -11.44,
-     "draw": 6.06,
-     "win": 23.56
+     "loss": -11.33,
+     "draw": 6.17,
+     "win": 23.67
     }
    },
    "homeName": "Korea Republic",
@@ -16957,8 +16946,8 @@
    "name": "Friendlies",
    "group": "Global",
    "weight": "I=10 · 5 outside windows",
-   "results": 64,
-   "fixtures": 22
+   "results": 66,
+   "fixtures": 20
   },
   {
    "name": "FIFA Series™",
