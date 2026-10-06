@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-06T00:12:51+00:00",
+ "generatedAt": "2026-10-06T06:19:51+00:00",
  "official": {
   "pubDate": "2026-07-20T10:00:00+00:00",
   "nextPubDate": null,
@@ -941,8 +941,8 @@
    "previousRank": 65,
    "aliases": [],
    "liveRank": 65,
-   "livePoints": 1375.6,
-   "pointsChange": -3.37,
+   "livePoints": 1375.4,
+   "pointsChange": -3.57,
    "rankChange": 1
   },
   {
@@ -1001,8 +1001,8 @@
    "previousRank": 71,
    "aliases": [],
    "liveRank": 69,
-   "livePoints": 1361.78,
-   "pointsChange": 3.94,
+   "livePoints": 1361.97,
+   "pointsChange": 4.13,
    "rankChange": 2
   },
   {
@@ -1376,6 +1376,20 @@
    "rankChange": -4
   },
   {
+   "id": "43906",
+   "code": "GUA",
+   "name": "Guatemala",
+   "confed": "CONCACAF",
+   "officialRank": 97,
+   "officialPoints": 1238.74,
+   "previousRank": 97,
+   "aliases": [],
+   "liveRank": 96,
+   "livePoints": 1245.09,
+   "pointsChange": 6.35,
+   "rankChange": 1
+  },
+  {
    "id": "43873",
    "code": "MOZ",
    "name": "Mozambique",
@@ -1384,10 +1398,10 @@
    "officialPoints": 1218.62,
    "previousRank": 103,
    "aliases": [],
-   "liveRank": 96,
+   "liveRank": 97,
    "livePoints": 1241.71,
    "pointsChange": 23.09,
-   "rankChange": 7
+   "rankChange": 6
   },
   {
    "id": "43937",
@@ -1398,24 +1412,10 @@
    "officialPoints": 1242.88,
    "previousRank": 96,
    "aliases": [],
-   "liveRank": 97,
+   "liveRank": 98,
    "livePoints": 1240.55,
    "pointsChange": -2.33,
-   "rankChange": -1
-  },
-  {
-   "id": "43906",
-   "code": "GUA",
-   "name": "Guatemala",
-   "confed": "CONCACAF",
-   "officialRank": 97,
-   "officialPoints": 1238.74,
-   "previousRank": 97,
-   "aliases": [],
-   "liveRank": 98,
-   "livePoints": 1238.93,
-   "pointsChange": 0.19,
-   "rankChange": -1
+   "rankChange": -2
   },
   {
    "id": "43841",
@@ -1760,20 +1760,6 @@
    "rankChange": -1
   },
   {
-   "id": "43919",
-   "code": "SUR",
-   "name": "Suriname",
-   "confed": "CONCACAF",
-   "officialRank": 125,
-   "officialPoints": 1132.43,
-   "previousRank": 125,
-   "aliases": [],
-   "liveRank": 123,
-   "livePoints": 1144.62,
-   "pointsChange": 12.19,
-   "rankChange": 2
-  },
-  {
    "id": "43943",
    "code": "EST",
    "name": "Estonia",
@@ -1782,10 +1768,10 @@
    "officialPoints": 1130.64,
    "previousRank": 127,
    "aliases": [],
-   "liveRank": 124,
+   "liveRank": 123,
    "livePoints": 1144.28,
    "pointsChange": 13.64,
-   "rankChange": 3
+   "rankChange": 4
   },
   {
    "id": "43862",
@@ -1796,10 +1782,10 @@
    "officialPoints": 1108.38,
    "previousRank": 132,
    "aliases": [],
-   "liveRank": 125,
+   "liveRank": 124,
    "livePoints": 1144.02,
    "pointsChange": 35.64,
-   "rankChange": 7
+   "rankChange": 8
   },
   {
    "id": "43939",
@@ -1810,10 +1796,10 @@
    "officialPoints": 1133.25,
    "previousRank": 124,
    "aliases": [],
-   "liveRank": 126,
+   "liveRank": 125,
    "livePoints": 1142.44,
    "pointsChange": 9.19,
-   "rankChange": -2
+   "rankChange": -1
   },
   {
    "id": "43944",
@@ -1824,10 +1810,10 @@
    "officialPoints": 1136.59,
    "previousRank": 123,
    "aliases": [],
-   "liveRank": 127,
+   "liveRank": 126,
    "livePoints": 1139.71,
    "pointsChange": 3.12,
-   "rankChange": -4
+   "rankChange": -3
   },
   {
    "id": "43994",
@@ -1838,10 +1824,24 @@
    "officialPoints": 1132.0,
    "previousRank": 126,
    "aliases": [],
-   "liveRank": 128,
+   "liveRank": 127,
    "livePoints": 1138.96,
    "pointsChange": 6.96,
-   "rankChange": -2
+   "rankChange": -1
+  },
+  {
+   "id": "43919",
+   "code": "SUR",
+   "name": "Suriname",
+   "confed": "CONCACAF",
+   "officialRank": 125,
+   "officialPoints": 1132.43,
+   "previousRank": 125,
+   "aliases": [],
+   "liveRank": 128,
+   "livePoints": 1138.46,
+   "pointsChange": 6.03,
+   "rankChange": -3
   },
   {
    "id": "43868",
@@ -2455,8 +2455,8 @@
    "previousRank": 167,
    "aliases": [],
    "liveRank": 171,
-   "livePoints": 959.25,
-   "pointsChange": -15.8,
+   "livePoints": 951.28,
+   "pointsChange": -23.77,
    "rankChange": -4
   },
   {
@@ -2474,6 +2474,20 @@
    "rankChange": 1
   },
   {
+   "id": "43896",
+   "code": "BRB",
+   "name": "Barbados",
+   "confed": "CONCACAF",
+   "officialRank": 179,
+   "officialPoints": 909.89,
+   "previousRank": 179,
+   "aliases": [],
+   "liveRank": 173,
+   "livePoints": 934.52,
+   "pointsChange": 24.63,
+   "rankChange": 6
+  },
+  {
    "id": "20009",
    "code": "MSR",
    "name": "Montserrat",
@@ -2482,10 +2496,10 @@
    "officialPoints": 916.75,
    "previousRank": 176,
    "aliases": [],
-   "liveRank": 173,
+   "liveRank": 174,
    "livePoints": 933.34,
    "pointsChange": 16.59,
-   "rankChange": 3
+   "rankChange": 2
   },
   {
    "id": "20001",
@@ -2496,24 +2510,10 @@
    "officialPoints": 946.43,
    "previousRank": 172,
    "aliases": [],
-   "liveRank": 174,
+   "liveRank": 175,
    "livePoints": 927.53,
    "pointsChange": -18.9,
-   "rankChange": -2
-  },
-  {
-   "id": "43896",
-   "code": "BRB",
-   "name": "Barbados",
-   "confed": "CONCACAF",
-   "officialRank": 179,
-   "officialPoints": 909.89,
-   "previousRank": 179,
-   "aliases": [],
-   "liveRank": 175,
-   "livePoints": 926.55,
-   "pointsChange": 16.66,
-   "rankChange": 4
+   "rankChange": -3
   },
   {
    "id": "43813",
@@ -3033,34 +3033,45 @@
  ],
  "results": [
   {
+   "kickoff": "2026-10-06T02:00:00Z",
+   "date": "2026-10-05",
+   "home": "HON",
+   "away": "JAM",
+   "homeScore": 1,
+   "awayScore": 1,
+   "homePens": null,
+   "awayPens": null,
+   "status": 0,
+   "competition": "Concacaf Nations League",
+   "stage": "League A",
+   "city": "Tegucigalpa",
+   "source": "FIFA",
+   "counted": true,
+   "importance": 15,
+   "homeDelta": -0.2,
+   "awayDelta": 0.2,
+   "homeName": "Honduras",
+   "awayName": "Jamaica",
+   "fifaId": "20ykmuqp8k53uhonvgo8u4lxw"
+  },
+  {
    "kickoff": "2026-10-06T00:00:00Z",
    "date": "2026-10-05",
    "home": "BER",
    "away": "BRB",
-   "homeScore": 0,
-   "awayScore": 0,
+   "homeScore": 1,
+   "awayScore": 2,
    "homePens": null,
    "awayPens": null,
-   "status": 3,
+   "status": 0,
    "competition": "Concacaf Nations League",
    "stage": "League B",
    "city": "Bridgetown",
    "source": "FIFA",
+   "counted": true,
    "importance": 15,
-   "knockout": false,
-   "expectedHome": 0.531,
-   "prediction": {
-    "home": {
-     "win": 7.03,
-     "draw": -0.47,
-     "loss": -7.97
-    },
-    "away": {
-     "loss": -7.03,
-     "draw": 0.47,
-     "win": 7.97
-    }
-   },
+   "homeDelta": -7.97,
+   "awayDelta": 7.97,
    "homeName": "Bermuda",
    "awayName": "Barbados",
    "fifaId": "dsnxsu82wi8rhiy3bvpim75lg"
@@ -3070,30 +3081,19 @@
    "date": "2026-10-05",
    "home": "GUA",
    "away": "SUR",
-   "homeScore": 0,
+   "homeScore": 1,
    "awayScore": 0,
    "homePens": null,
    "awayPens": null,
-   "status": 3,
+   "status": 0,
    "competition": "Concacaf Nations League",
    "stage": "League A",
    "city": "Guatemala City",
    "source": "FIFA",
+   "counted": true,
    "importance": 15,
-   "knockout": false,
-   "expectedHome": 0.59,
-   "prediction": {
-    "home": {
-     "win": 6.16,
-     "draw": -1.34,
-     "loss": -8.84
-    },
-    "away": {
-     "loss": -6.16,
-     "draw": 1.34,
-     "win": 8.84
-    }
-   },
+   "homeDelta": 6.16,
+   "awayDelta": -6.16,
    "homeName": "Guatemala",
    "awayName": "Suriname",
    "fifaId": "21ci2jqrr1qqtrh6d23ngshzo"
@@ -17041,7 +17041,7 @@
    "name": "Concacaf Nations League",
    "group": "CONCACAF",
    "weight": "I=15 · 25 finals",
-   "results": 48,
+   "results": 49,
    "fixtures": 2
   },
   {
