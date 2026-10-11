@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-11T00:58:50+00:00",
+ "generatedAt": "2026-10-11T13:39:24+00:00",
  "official": {
   "pubDate": "2026-07-20T10:00:00+00:00",
   "nextPubDate": null,
@@ -11316,6 +11316,39 @@
    "fifaId": "1hfb507bu2677jwssrzjqobh0"
   },
   {
+   "kickoff": "2026-11-12T19:00:00Z",
+   "date": "2026-11-12",
+   "home": "CAY",
+   "away": "GUY",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Concacaf Nations League",
+   "stage": "League B",
+   "city": "Leonora",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.288,
+   "prediction": {
+    "home": {
+     "win": 10.67,
+     "draw": 3.17,
+     "loss": -4.33
+    },
+    "away": {
+     "loss": -10.67,
+     "draw": -3.17,
+     "win": 4.33
+    }
+   },
+   "homeName": "Cayman Islands",
+   "awayName": "Guyana",
+   "fifaId": "20w5izenfs9l05g71o30tej9w"
+  },
+  {
    "kickoff": "2026-11-12T19:45:00Z",
    "date": "2026-11-12",
    "home": "CZE",
@@ -11514,6 +11547,39 @@
    "fifaId": "1ijx6ydywqeshfl0wmdbipez8"
   },
   {
+   "kickoff": "2026-11-12T23:00:00Z",
+   "date": "2026-11-12",
+   "home": "ATG",
+   "away": "TRI",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Concacaf Nations League",
+   "stage": "Play-In Round",
+   "city": "North Sound",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.312,
+   "prediction": {
+    "home": {
+     "win": 10.32,
+     "draw": 2.82,
+     "loss": -4.68
+    },
+    "away": {
+     "loss": -10.32,
+     "draw": -2.82,
+     "win": 4.68
+    }
+   },
+   "homeName": "Antigua and Barbuda",
+   "awayName": "Trinidad and Tobago",
+   "fifaId": "1prn3dspg4iqvtt48rh7owufo"
+  },
+  {
    "kickoff": "2026-11-13T00:00:00Z",
    "date": "2026-11-12",
    "home": "COL",
@@ -11545,6 +11611,39 @@
    "homeName": "Colombia",
    "awayName": "Chile",
    "fifaId": "dit49kaj1xto6v8y436kcy49g"
+  },
+  {
+   "kickoff": "2026-11-13T00:00:00Z",
+   "date": "2026-11-12",
+   "home": "CUW",
+   "away": "PAN",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Concacaf Nations League",
+   "stage": "Quarter-finals",
+   "city": "Willemstad",
+   "source": "FIFA",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.341,
+   "prediction": {
+    "home": {
+     "win": 16.48,
+     "draw": 3.98,
+     "loss": -8.52
+    },
+    "away": {
+     "loss": -16.48,
+     "draw": -3.98,
+     "win": 8.52
+    }
+   },
+   "homeName": "Curaçao",
+   "awayName": "Panama",
+   "fifaId": "1dkjfp55yunwobj71lmkfyz9w"
   },
   {
    "kickoff": "2026-11-13T00:00:00Z",
@@ -11677,6 +11776,72 @@
    "homeName": "Moldova",
    "awayName": "Kazakhstan",
    "fifaId": "1jpjop6resgb4rdrg9s6rgs9g"
+  },
+  {
+   "kickoff": "2026-11-13T19:00:00Z",
+   "date": "2026-11-13",
+   "home": "PUR",
+   "away": "DMA",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Concacaf Nations League",
+   "stage": "League B",
+   "city": "Leonora",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.639,
+   "prediction": {
+    "home": {
+     "win": 5.42,
+     "draw": -2.08,
+     "loss": -9.58
+    },
+    "away": {
+     "loss": -5.42,
+     "draw": 2.08,
+     "win": 9.58
+    }
+   },
+   "homeName": "Puerto Rico",
+   "awayName": "Dominica",
+   "fifaId": "21gro6denaskb0u64bha4xrmc"
+  },
+  {
+   "kickoff": "2026-11-13T19:00:00Z",
+   "date": "2026-11-13",
+   "home": "BER",
+   "away": "LCA",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Concacaf Nations League",
+   "stage": "League B",
+   "city": "Le Gosier",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.476,
+   "prediction": {
+    "home": {
+     "win": 7.85,
+     "draw": 0.35,
+     "loss": -7.15
+    },
+    "away": {
+     "loss": -7.85,
+     "draw": -0.35,
+     "win": 7.15
+    }
+   },
+   "homeName": "Bermuda",
+   "awayName": "St Lucia",
+   "fifaId": "2aswob9xod33nsh05iuyg6ec4"
   },
   {
    "kickoff": "2026-11-13T19:45:00Z",
@@ -11974,6 +12139,105 @@
    "homeName": "Andorra",
    "awayName": "Gibraltar",
    "fifaId": "32swn57dbwp2vv56zjp0zkaok"
+  },
+  {
+   "kickoff": "2026-11-13T20:00:00Z",
+   "date": "2026-11-13",
+   "home": "GRN",
+   "away": "SKN",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Concacaf Nations League",
+   "stage": "League B",
+   "city": "Havana",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.43,
+   "prediction": {
+    "home": {
+     "win": 8.55,
+     "draw": 1.05,
+     "loss": -6.45
+    },
+    "away": {
+     "loss": -8.55,
+     "draw": -1.05,
+     "win": 6.45
+    }
+   },
+   "homeName": "Grenada",
+   "awayName": "St Kitts and Nevis",
+   "fifaId": "2jhhp5zvnfc99h72bihrb70no"
+  },
+  {
+   "kickoff": "2026-11-14T00:00:00Z",
+   "date": "2026-11-13",
+   "home": "MSR",
+   "away": "NCA",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Concacaf Nations League",
+   "stage": "Play-In Round",
+   "city": "Santiago De Los Caballeros",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.358,
+   "prediction": {
+    "home": {
+     "win": 9.62,
+     "draw": 2.12,
+     "loss": -5.38
+    },
+    "away": {
+     "loss": -9.62,
+     "draw": -2.12,
+     "win": 5.38
+    }
+   },
+   "homeName": "Montserrat",
+   "awayName": "Nicaragua",
+   "fifaId": "1qnww0ebqv3pfl4rczu9th250"
+  },
+  {
+   "kickoff": "2026-11-14T02:00:00Z",
+   "date": "2026-11-13",
+   "home": "GUA",
+   "away": "CAN",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Concacaf Nations League",
+   "stage": "Quarter-finals",
+   "city": "Guatemala City",
+   "source": "FIFA",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.22,
+   "prediction": {
+    "home": {
+     "win": 19.51,
+     "draw": 7.01,
+     "loss": -5.49
+    },
+    "away": {
+     "loss": -19.51,
+     "draw": -7.01,
+     "win": 5.49
+    }
+   },
+   "homeName": "Guatemala",
+   "awayName": "Canada",
+   "fifaId": "1e1f80549k7zyf4gukmhzu710"
   },
   {
    "kickoff": "2026-11-14T10:15:00Z",
@@ -12303,6 +12567,105 @@
    "homeName": "Sweden",
    "awayName": "Bosnia and Herzegovina",
    "fifaId": "f4tmo506z0ywyojuc1oulhp1w"
+  },
+  {
+   "kickoff": "2026-11-14T21:30:00Z",
+   "date": "2026-11-14",
+   "home": "HAI",
+   "away": "USA",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Concacaf Nations League",
+   "stage": "Quarter-finals",
+   "city": "Kingston",
+   "source": "FIFA",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.164,
+   "prediction": {
+    "home": {
+     "win": 20.9,
+     "draw": 8.4,
+     "loss": -4.1
+    },
+    "away": {
+     "loss": -20.9,
+     "draw": -8.4,
+     "win": 4.1
+    }
+   },
+   "homeName": "Haiti",
+   "awayName": "USA",
+   "fifaId": "1efkjt064xpr4nq8zla4k2gwk"
+  },
+  {
+   "kickoff": "2026-11-15T00:00:00Z",
+   "date": "2026-11-14",
+   "home": "VIN",
+   "away": "BLZ",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Concacaf Nations League",
+   "stage": "League B",
+   "city": "Kingstown",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.571,
+   "prediction": {
+    "home": {
+     "win": 6.43,
+     "draw": -1.07,
+     "loss": -8.57
+    },
+    "away": {
+     "loss": -6.43,
+     "draw": 1.07,
+     "win": 8.57
+    }
+   },
+   "homeName": "St Vincent and the Grenadines",
+   "awayName": "Belize",
+   "fifaId": "2thkbklnjw2j4xxfiwqbqt5as"
+  },
+  {
+   "kickoff": "2026-11-15T01:00:00Z",
+   "date": "2026-11-14",
+   "home": "JAM",
+   "away": "MEX",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Concacaf Nations League",
+   "stage": "Quarter-finals",
+   "city": "Kingston",
+   "source": "FIFA",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.191,
+   "prediction": {
+    "home": {
+     "win": 20.23,
+     "draw": 7.73,
+     "loss": -4.77
+    },
+    "away": {
+     "loss": -20.23,
+     "draw": -7.73,
+     "win": 4.77
+    }
+   },
+   "homeName": "Jamaica",
+   "awayName": "Mexico",
+   "fifaId": "1etm5y6aeefzlb6twdfsrt15g"
   },
   {
    "kickoff": "2026-11-15T03:00:00Z",
@@ -13338,6 +13701,39 @@
    "fifaId": "7iigzv7r2sdlaepzls4qvvf9w"
   },
   {
+   "kickoff": "2026-11-15T23:00:00Z",
+   "date": "2026-11-15",
+   "home": "PAN",
+   "away": "CUW",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Concacaf Nations League",
+   "stage": "Quarter-finals",
+   "city": "Panama City",
+   "source": "FIFA",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.659,
+   "prediction": {
+    "home": {
+     "win": 8.52,
+     "draw": -3.98,
+     "loss": -16.48
+    },
+    "away": {
+     "loss": -8.52,
+     "draw": 3.98,
+     "win": 16.48
+    }
+   },
+   "homeName": "Panama",
+   "awayName": "Curaçao",
+   "fifaId": "1f7vt854nufezvldwryxrdqfo"
+  },
+  {
    "kickoff": "2026-11-16T00:00:00Z",
    "date": "2026-11-16",
    "home": "AND",
@@ -13536,6 +13932,39 @@
    "fifaId": "bqh5qliu34afi3optj72ehk44"
   },
   {
+   "kickoff": "2026-11-16T19:00:00Z",
+   "date": "2026-11-16",
+   "home": "GUY",
+   "away": "PUR",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Concacaf Nations League",
+   "stage": "League B",
+   "city": "Leonora",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.537,
+   "prediction": {
+    "home": {
+     "win": 6.95,
+     "draw": -0.55,
+     "loss": -8.05
+    },
+    "away": {
+     "loss": -6.95,
+     "draw": 0.55,
+     "win": 8.05
+    }
+   },
+   "homeName": "Guyana",
+   "awayName": "Puerto Rico",
+   "fifaId": "21xy9kn5qjl1cinwmjl6qvml0"
+  },
+  {
    "kickoff": "2026-11-16T19:45:00Z",
    "date": "2026-11-16",
    "home": "GER",
@@ -13701,6 +14130,39 @@
    "fifaId": "500av5xfaflwl7k9fidbekis4"
   },
   {
+   "kickoff": "2026-11-16T20:00:00Z",
+   "date": "2026-11-16",
+   "home": "CUB",
+   "away": "GRN",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Concacaf Nations League",
+   "stage": "League B",
+   "city": "Havana",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.522,
+   "prediction": {
+    "home": {
+     "win": 7.17,
+     "draw": -0.33,
+     "loss": -7.83
+    },
+    "away": {
+     "loss": -7.17,
+     "draw": 0.33,
+     "win": 7.83
+    }
+   },
+   "homeName": "Cuba",
+   "awayName": "Grenada",
+   "fifaId": "2jxmqwj2qaeay96o6s6dxehp0"
+  },
+  {
    "kickoff": "2026-11-17T00:00:00Z",
    "date": "2026-11-17",
    "home": "JPN",
@@ -13767,6 +14229,72 @@
    "fifaId": "4dit1tfqeqe25fozfl3ozjlec"
   },
   {
+   "kickoff": "2026-11-17T00:00:00Z",
+   "date": "2026-11-16",
+   "home": "TRI",
+   "away": "ATG",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Concacaf Nations League",
+   "stage": "Play-In Round",
+   "city": "Port of Spain",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.688,
+   "prediction": {
+    "home": {
+     "win": 4.68,
+     "draw": -2.82,
+     "loss": -10.32
+    },
+    "away": {
+     "loss": -4.68,
+     "draw": 2.82,
+     "win": 10.32
+    }
+   },
+   "homeName": "Trinidad and Tobago",
+   "awayName": "Antigua and Barbuda",
+   "fifaId": "1rf7u0690sfu8t19avfde9rmc"
+  },
+  {
+   "kickoff": "2026-11-17T01:00:00Z",
+   "date": "2026-11-16",
+   "home": "CAN",
+   "away": "GUA",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Concacaf Nations League",
+   "stage": "Quarter-finals",
+   "city": "Toronto",
+   "source": "FIFA",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.78,
+   "prediction": {
+    "home": {
+     "win": 5.49,
+     "draw": -7.01,
+     "loss": -19.51
+    },
+    "away": {
+     "loss": -5.49,
+     "draw": 7.01,
+     "win": 19.51
+    }
+   },
+   "homeName": "Canada",
+   "awayName": "Guatemala",
+   "fifaId": "1fhbxm7lp25nc2p4l9l3wh34k"
+  },
+  {
    "kickoff": "2026-11-17T10:00:00Z",
    "date": "2026-11-17",
    "home": "SGP",
@@ -13830,6 +14358,72 @@
    },
    "homeName": "Togo",
    "awayName": "Algeria"
+  },
+  {
+   "kickoff": "2026-11-17T19:00:00Z",
+   "date": "2026-11-17",
+   "home": "LCA",
+   "away": "BRB",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Concacaf Nations League",
+   "stage": "League B",
+   "city": "Le Gosier",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.54,
+   "prediction": {
+    "home": {
+     "win": 6.91,
+     "draw": -0.59,
+     "loss": -8.09
+    },
+    "away": {
+     "loss": -6.91,
+     "draw": 0.59,
+     "win": 8.09
+    }
+   },
+   "homeName": "St Lucia",
+   "awayName": "Barbados",
+   "fifaId": "2bgc7tnshffx2lwimvl0zhu6s"
+  },
+  {
+   "kickoff": "2026-11-17T19:00:00Z",
+   "date": "2026-11-17",
+   "home": "DMA",
+   "away": "CAY",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Concacaf Nations League",
+   "stage": "League B",
+   "city": "Leonora",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.546,
+   "prediction": {
+    "home": {
+     "win": 6.8,
+     "draw": -0.7,
+     "loss": -8.2
+    },
+    "away": {
+     "loss": -6.8,
+     "draw": 0.7,
+     "win": 8.2
+    }
+   },
+   "homeName": "Dominica",
+   "awayName": "Cayman Islands",
+   "fifaId": "2298clkq4hjzw5f3vfqcdhlw4"
   },
   {
    "kickoff": "2026-11-17T19:45:00Z",
@@ -14094,6 +14688,105 @@
    "homeName": "Republic of Ireland",
    "awayName": "Kosovo",
    "fifaId": "2qm9jrorrcn5gxx9wf37ajv8"
+  },
+  {
+   "kickoff": "2026-11-18T00:00:00Z",
+   "date": "2026-11-17",
+   "home": "USA",
+   "away": "HAI",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Concacaf Nations League",
+   "stage": "Quarter-finals",
+   "city": "Cincinnati",
+   "source": "FIFA",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.836,
+   "prediction": {
+    "home": {
+     "win": 4.1,
+     "draw": -8.4,
+     "loss": -20.9
+    },
+    "away": {
+     "loss": -4.1,
+     "draw": 8.4,
+     "win": 20.9
+    }
+   },
+   "homeName": "USA",
+   "awayName": "Haiti",
+   "fifaId": "1fqts80nhxtbqmsgp7tpsc26s"
+  },
+  {
+   "kickoff": "2026-11-18T02:30:00Z",
+   "date": "2026-11-17",
+   "home": "MEX",
+   "away": "JAM",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Concacaf Nations League",
+   "stage": "Quarter-finals",
+   "city": "Monterrey",
+   "source": "FIFA",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.809,
+   "prediction": {
+    "home": {
+     "win": 4.77,
+     "draw": -7.73,
+     "loss": -20.23
+    },
+    "away": {
+     "loss": -4.77,
+     "draw": 7.73,
+     "win": 20.23
+    }
+   },
+   "homeName": "Mexico",
+   "awayName": "Jamaica",
+   "fifaId": "1g091x1or4hli5y3xindgu4gk"
+  },
+  {
+   "kickoff": "2026-11-18T03:00:00Z",
+   "date": "2026-11-17",
+   "home": "NCA",
+   "away": "MSR",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Concacaf Nations League",
+   "stage": "Play-In Round",
+   "city": "Managua",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.642,
+   "prediction": {
+    "home": {
+     "win": 5.38,
+     "draw": -2.12,
+     "loss": -9.62
+    },
+    "away": {
+     "loss": -5.38,
+     "draw": 2.12,
+     "win": 9.62
+    }
+   },
+   "homeName": "Nicaragua",
+   "awayName": "Montserrat",
+   "fifaId": "1s0zcuyvx5hbuxen1vevs0ydw"
   },
   {
    "kickoff": "2026-11-19T00:00:00Z",
@@ -16957,7 +17650,7 @@
    "group": "CONCACAF",
    "weight": "I=15 · 25 finals",
    "results": 51,
-   "fixtures": 0
+   "fixtures": 21
   },
   {
    "name": "Concacaf Series",
