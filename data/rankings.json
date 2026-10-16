@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-16T15:25:24+00:00",
+ "generatedAt": "2026-10-16T18:52:53+00:00",
  "official": {
   "pubDate": "2026-07-20T10:00:00+00:00",
   "nextPubDate": null,
@@ -10481,6 +10481,39 @@
    "fifaId": "2ocqcriq7jx27zm8l4rqfxpg4"
   },
   {
+   "kickoff": "2026-11-11T12:00:00Z",
+   "date": "2026-11-11",
+   "home": "VIE",
+   "away": "TPE",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 3",
+   "city": "Nam Định (Nam Dinh)",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.766,
+   "prediction": {
+    "home": {
+     "win": 2.34,
+     "draw": -2.66,
+     "loss": -7.66
+    },
+    "away": {
+     "loss": -2.34,
+     "draw": 2.66,
+     "win": 7.66
+    }
+   },
+   "homeName": "Vietnam",
+   "awayName": "Chinese Taipei",
+   "fifaId": "bvn89pbrh91oaq2k7rmgrn28k"
+  },
+  {
    "date": "2026-11-11",
    "kickoff": "2026-11-11T12:00:00Z",
    "home": "GAB",
@@ -11680,6 +11713,39 @@
    "fifaId": "5mz4ghtu4ewty2n7g60sxyj2s"
   },
   {
+   "kickoff": "2026-11-13T12:00:00Z",
+   "date": "2026-11-13",
+   "home": "TPE",
+   "away": "KGZ",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 3",
+   "city": "Nam Định (Nam Dinh)",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.257,
+   "prediction": {
+    "home": {
+     "win": 7.43,
+     "draw": 2.43,
+     "loss": -2.57
+    },
+    "away": {
+     "loss": -7.43,
+     "draw": -2.43,
+     "win": 2.57
+    }
+   },
+   "homeName": "Chinese Taipei",
+   "awayName": "Kyrgyz Republic",
+   "fifaId": "bvv6hm9iz75efvt3jiba878d0"
+  },
+  {
    "date": "2026-11-13",
    "kickoff": "2026-11-13T12:00:00Z",
    "home": "EGY",
@@ -12172,6 +12238,39 @@
    "homeName": "Grenada",
    "awayName": "St Kitts and Nevis",
    "fifaId": "2jhhp5zvnfc99h72bihrb70no"
+  },
+  {
+   "kickoff": "2026-11-14T00:00:00Z",
+   "date": "2026-11-14",
+   "home": "CHN",
+   "away": "MAS",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 1",
+   "city": "Guangzhou",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.631,
+   "prediction": {
+    "home": {
+     "win": 3.69,
+     "draw": -1.31,
+     "loss": -6.31
+    },
+    "away": {
+     "loss": -3.69,
+     "draw": 1.31,
+     "win": 6.31
+    }
+   },
+   "homeName": "China PR",
+   "awayName": "Malaysia",
+   "fifaId": "3417ghtxpemovfac3aymnc2dw"
   },
   {
    "kickoff": "2026-11-14T00:00:00Z",
@@ -12699,6 +12798,39 @@
    "homeName": "New Zealand",
    "awayName": "India",
    "fifaId": "7i8gty68v89luvus6e28qt5g"
+  },
+  {
+   "kickoff": "2026-11-15T12:00:00Z",
+   "date": "2026-11-15",
+   "home": "KGZ",
+   "away": "VIE",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 3",
+   "city": "Nam Định (Nam Dinh)",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.468,
+   "prediction": {
+    "home": {
+     "win": 5.32,
+     "draw": 0.32,
+     "loss": -4.68
+    },
+    "away": {
+     "loss": -5.32,
+     "draw": -0.32,
+     "win": 4.68
+    }
+   },
+   "homeName": "Kyrgyz Republic",
+   "awayName": "Vietnam",
+   "fifaId": "bw32yp26ek096xtwf3jum9ixg"
   },
   {
    "date": "2026-11-15",
@@ -13702,39 +13834,6 @@
    "fifaId": "1f7vt854nufezvldwryxrdqfo"
   },
   {
-   "kickoff": "2026-11-16T00:00:00Z",
-   "date": "2026-11-16",
-   "home": "AND",
-   "away": "AZE",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "Friendlies",
-   "stage": "Friendlies 2",
-   "city": "Encamp",
-   "source": "FIFA",
-   "importance": 10,
-   "knockout": false,
-   "expectedHome": 0.308,
-   "prediction": {
-    "home": {
-     "win": 6.92,
-     "draw": 1.92,
-     "loss": -3.08
-    },
-    "away": {
-     "loss": -6.92,
-     "draw": -1.92,
-     "win": 3.08
-    }
-   },
-   "homeName": "Andorra",
-   "awayName": "Azerbaijan",
-   "fifaId": "atzve2bxbw2fkck1ifh6m37dg"
-  },
-  {
    "kickoff": "2026-11-16T15:00:00Z",
    "date": "2026-11-16",
    "home": "KAZ",
@@ -13898,6 +13997,39 @@
    "homeName": "Lithuania",
    "awayName": "Liechtenstein",
    "fifaId": "bqh5qliu34afi3optj72ehk44"
+  },
+  {
+   "kickoff": "2026-11-16T18:00:00Z",
+   "date": "2026-11-16",
+   "home": "AND",
+   "away": "AZE",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 2",
+   "city": "Encamp",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.308,
+   "prediction": {
+    "home": {
+     "win": 6.92,
+     "draw": 1.92,
+     "loss": -3.08
+    },
+    "away": {
+     "loss": -6.92,
+     "draw": -1.92,
+     "win": 3.08
+    }
+   },
+   "homeName": "Andorra",
+   "awayName": "Azerbaijan",
+   "fifaId": "atzve2bxbw2fkck1ifh6m37dg"
   },
   {
    "kickoff": "2026-11-16T19:00:00Z",
@@ -14133,39 +14265,6 @@
   {
    "kickoff": "2026-11-17T00:00:00Z",
    "date": "2026-11-17",
-   "home": "JPN",
-   "away": "PAR",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "Friendlies",
-   "stage": "Friendlies 1",
-   "city": "Singapore",
-   "source": "FIFA",
-   "importance": 10,
-   "knockout": false,
-   "expectedHome": 0.624,
-   "prediction": {
-    "home": {
-     "win": 3.76,
-     "draw": -1.24,
-     "loss": -6.24
-    },
-    "away": {
-     "loss": -3.76,
-     "draw": 1.24,
-     "win": 6.24
-    }
-   },
-   "homeName": "Japan",
-   "awayName": "Paraguay",
-   "fifaId": "5o0pycy2w79g7ibqt8ucr4jdg"
-  },
-  {
-   "kickoff": "2026-11-17T00:00:00Z",
-   "date": "2026-11-17",
    "home": "JOR",
    "away": "AUS",
    "homeScore": null,
@@ -14228,6 +14327,39 @@
    "homeName": "Trinidad and Tobago",
    "awayName": "Antigua and Barbuda",
    "fifaId": "1rf7u0690sfu8t19avfde9rmc"
+  },
+  {
+   "kickoff": "2026-11-17T00:00:00Z",
+   "date": "2026-11-17",
+   "home": "MAS",
+   "away": "YEM",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 3",
+   "city": "Guangzhou",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.535,
+   "prediction": {
+    "home": {
+     "win": 4.65,
+     "draw": -0.35,
+     "loss": -5.35
+    },
+    "away": {
+     "loss": -4.65,
+     "draw": 0.35,
+     "win": 5.35
+    }
+   },
+   "homeName": "Malaysia",
+   "awayName": "Yemen",
+   "fifaId": "2jd5m2lyo7war3s32uv6cp7h0"
   },
   {
    "kickoff": "2026-11-17T01:00:00Z",
@@ -14326,6 +14458,39 @@
    },
    "homeName": "Malawi",
    "awayName": "Egypt"
+  },
+  {
+   "kickoff": "2026-11-17T13:10:00Z",
+   "date": "2026-11-17",
+   "home": "JPN",
+   "away": "PAR",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 1",
+   "city": "Singapore",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.624,
+   "prediction": {
+    "home": {
+     "win": 3.76,
+     "draw": -1.24,
+     "loss": -6.24
+    },
+    "away": {
+     "loss": -3.76,
+     "draw": 1.24,
+     "win": 6.24
+    }
+   },
+   "homeName": "Japan",
+   "awayName": "Paraguay",
+   "fifaId": "5o0pycy2w79g7ibqt8ucr4jdg"
   },
   {
    "date": "2026-11-17",
@@ -14820,6 +14985,39 @@
    "homeName": "Chile",
    "awayName": "Colombia",
    "fifaId": "dj5ammmwqr0w5to4cb8gjlixg"
+  },
+  {
+   "kickoff": "2026-12-05T17:30:00Z",
+   "date": "2026-12-05",
+   "home": "ENG",
+   "away": "UKR",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 1",
+   "city": "London",
+   "source": "FIFA",
+   "importance": 5,
+   "knockout": false,
+   "expectedHome": 0.817,
+   "prediction": {
+    "home": {
+     "win": 0.91,
+     "draw": -1.59,
+     "loss": -4.09
+    },
+    "away": {
+     "loss": -0.91,
+     "draw": 1.59,
+     "win": 4.09
+    }
+   },
+   "homeName": "England",
+   "awayName": "Ukraine",
+   "fifaId": "4vgxhbbeqrni19x9iffnwfrpw"
   },
   {
    "kickoff": "2027-01-07T00:00:00Z",
@@ -17566,7 +17764,7 @@
    "group": "Global",
    "weight": "I=10 · 5 outside windows",
    "results": 75,
-   "fixtures": 12
+   "fixtures": 18
   },
   {
    "name": "FIFA Series™",
