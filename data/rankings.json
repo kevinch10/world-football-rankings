@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-21T06:49:23+00:00",
+ "generatedAt": "2026-10-21T12:36:12+00:00",
  "official": {
   "pubDate": "2026-07-20T10:00:00+00:00",
   "nextPubDate": null,
@@ -10898,6 +10898,39 @@
    "awayName": "Tanzania"
   },
   {
+   "kickoff": "2026-11-12T00:00:00Z",
+   "date": "2026-11-12",
+   "home": "UZB",
+   "away": "RUS",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 1",
+   "city": "Tashkent",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.386,
+   "prediction": {
+    "home": {
+     "win": 6.14,
+     "draw": 1.14,
+     "loss": -3.86
+    },
+    "away": {
+     "loss": -6.14,
+     "draw": -1.14,
+     "win": 3.86
+    }
+   },
+   "homeName": "Uzbekistan",
+   "awayName": "Russia",
+   "fifaId": "75m4a2n1ly7f0jdniu5ej1gr8"
+  },
+  {
    "kickoff": "2026-11-12T06:00:00Z",
    "date": "2026-11-12",
    "home": "NZL",
@@ -14724,6 +14757,39 @@
    "fifaId": "5o0pycy2w79g7ibqt8ucr4jdg"
   },
   {
+   "kickoff": "2026-11-17T17:00:00Z",
+   "date": "2026-11-17",
+   "home": "RUS",
+   "away": "VEN",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 1",
+   "city": "Krasnodar",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.568,
+   "prediction": {
+    "home": {
+     "win": 4.32,
+     "draw": -0.68,
+     "loss": -5.68
+    },
+    "away": {
+     "loss": -4.32,
+     "draw": 0.68,
+     "win": 5.68
+    }
+   },
+   "homeName": "Russia",
+   "awayName": "Venezuela",
+   "fifaId": "761cezkir40if6zjchy4zglxw"
+  },
+  {
    "date": "2026-11-17",
    "kickoff": "2026-11-17T17:00:00Z",
    "home": "TOG",
@@ -15249,6 +15315,39 @@
    "homeName": "England",
    "awayName": "Ukraine",
    "fifaId": "4vgxhbbeqrni19x9iffnwfrpw"
+  },
+  {
+   "kickoff": "2026-12-13T20:30:00Z",
+   "date": "2026-12-13",
+   "home": "USA",
+   "away": "JAM",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 1",
+   "city": "Fort Lauderdale",
+   "source": "FIFA",
+   "importance": 5,
+   "knockout": false,
+   "expectedHome": 0.789,
+   "prediction": {
+    "home": {
+     "win": 1.06,
+     "draw": -1.44,
+     "loss": -3.94
+    },
+    "away": {
+     "loss": -1.06,
+     "draw": 1.44,
+     "win": 3.94
+    }
+   },
+   "homeName": "USA",
+   "awayName": "Jamaica",
+   "fifaId": "8b2r1x3hjqlwdxpekqq60gkyc"
   },
   {
    "kickoff": "2027-01-07T00:00:00Z",
@@ -17995,7 +18094,7 @@
    "group": "Global",
    "weight": "I=10 · 5 outside windows",
    "results": 75,
-   "fixtures": 25
+   "fixtures": 28
   },
   {
    "name": "FIFA Series™",
