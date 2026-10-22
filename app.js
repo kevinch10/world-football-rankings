@@ -88,35 +88,54 @@ function moveBadge(n) {
 
 // ---------- header ----------
 
-function renderMeta({ official, generatedAt, results, matchesSince }) {
+function renderMeta({ official, generatedAt, results }) {
   const counted = results.filter(m => m.counted).length;
   const stale = Date.now() - new Date(generatedAt) > 3 * 3600 * 1000;
-  const items = [
-    ['Last official FIFA ranking', fmtDate(official.pubDate)],
-    ['Matches counted since', String(counted)],
-    ['Updated', ago(generatedAt), new Date(generatedAt).toLocaleString(), stale],
+  const parts = [
+    `<span class="${stale ? 'stale' : ''}" title="${esc(new Date(generatedAt).toLocaleString())}">Updated ${ago(generatedAt)}${stale ? ', may be out of date' : ''}.</span>`,
+    `Live table from the official FIFA ranking of ${fmtDate(official.pubDate)}, plus ${counted} matches played since.`,
   ];
-  if (state.liveCheckedAt) items.push(['Live scores', `checked ${ago(state.liveCheckedAt.toISOString())}`]);
-  if (official.nextPubDate) items.push(['Next official release', fmtDate(official.nextPubDate)]);
-  $('meta').innerHTML = items.map(([k, v, title, warn]) =>
-    `<div class="${warn ? 'stale' : ''}" ${title ? `title="${esc(title)}"` : ''}><dt>${k}</dt><dd>${esc(v)}${warn ? ' · may be out of date' : ''}</dd></div>`).join('');
+  if (state.liveCheckedAt) parts.push(`<span class="live-dot" aria-hidden="true"></span>Live scores checked ${ago(state.liveCheckedAt.toISOString())}.`);
+  if (official.nextPubDate) parts.push(`Next official ranking ${fmtDate(official.nextPubDate)}.`);
+  $('meta').innerHTML = parts.join(' ');
+}
+
+function teamButton(t, text = t.name) {
+  return `<button type="button" class="team-link" data-team="${t.code}">${esc(text)}</button>`;
+}
+
+// The top of the live table is the hero: a giant striped 1 and the chasing nine.
+function renderHero(teams) {
+  const top = teams[0];
+  $('leader').innerHTML = `
+    <span class="big-rank" aria-hidden="true">${top.liveRank}</span>
+    <div class="leader-team">
+      <p class="leader-label">Number ${top.liveRank} in the world</p>
+      <h2>${flag(top.code)}${teamButton(top)}</h2>
+      <p class="leader-points"><span class="pts">${top.livePoints.toFixed(2)}</span> points
+        ${top.pointsChange ? `<span class="${tone(top.pointsChange)}">${signed(top.pointsChange)} since the official ranking</span>` : ''}</p>
+    </div>`;
+  $('top10').innerHTML = teams.slice(1, 10).map(t => `
+    <li data-confed="${t.confed}">
+      <span class="r">${t.liveRank}</span>${flag(t.code)}${teamButton(t)}
+      <span class="p">${t.livePoints.toFixed(2)}</span>
+      <span class="m">${t.rankChange ? moveBadge(t.rankChange) : ''}</span>
+    </li>`).join('');
 }
 
 function renderMovers(teams) {
+  renderHero(teams);
   const byPts = [...teams].sort((a, b) => b.pointsChange - a.pointsChange);
   const byRank = [...teams].sort((a, b) => b.rankChange - a.rankChange);
-  const cards = [
-    ['Biggest gain', byPts[0], signed(byPts[0].pointsChange)],
-    ['Biggest drop', byPts.at(-1), signed(byPts.at(-1).pointsChange)],
-    ['Most places up', byRank[0], `▲${byRank[0].rankChange}`],
-    ['Most places down', byRank.at(-1), `▼${-byRank.at(-1).rankChange}`],
-  ];
-  $('movers').innerHTML = cards.map(([label, t, value]) => `
-    <div class="mover">
-      <div class="label">${label}</div>
-      <div class="team">${flag(t.code)}<span>${esc(t.name)}</span></div>
-      <div class="value">${esc(value)}</div>
-    </div>`).join('');
+  const gain = byPts[0], drop = byPts.at(-1), up = byRank[0], down = byRank.at(-1);
+  const bits = [];
+  if (gain.pointsChange > 0) bits.push(`${teamButton(gain)} gained the most, <span class="up">${signed(gain.pointsChange)} points</span>`);
+  if (drop.pointsChange < 0) bits.push(`${teamButton(drop)} lost the most, <span class="down">${signed(drop.pointsChange)}</span>`);
+  if (up.rankChange > 0) bits.push(`${teamButton(up)} climbed <span class="up">${up.rankChange} place${up.rankChange === 1 ? '' : 's'}</span>`);
+  if (down.rankChange < 0) bits.push(`${teamButton(down)} fell <span class="down">${-down.rankChange} place${down.rankChange === -1 ? '' : 's'}</span>`);
+  $('movers').innerHTML = bits.length
+    ? `Since the official ranking, ${bits.slice(0, -1).join(', ')}${bits.length > 1 ? ' and ' : ''}${bits.at(-1)}.`
+    : 'No matches have been played since the official ranking yet.';
 }
 
 // ---------- results history ----------
@@ -287,7 +306,7 @@ function detailRow(t) {
   const body = ms.length
     ? `<ul>${ms.map(m => {
         const d = m.home === t.code ? m.homeDelta : m.awayDelta;
-        return `<li>${fmtShort(m.date)} · ${esc(m.homeName)} ${scoreText(m)} ${esc(m.awayName)} · ${esc(m.competition)} (weight ${m.importance}) · <span class="${tone(d)}">${signed(d)}</span></li>`;
+        return `<li><span class="d-date">${fmtShort(m.date)}</span><span class="d-match">${esc(m.homeName)} ${scoreText(m)} ${esc(m.awayName)}</span><span class="d-comp">${esc(m.competition)}, weight ${m.importance}</span><span class="d-pts ${tone(d)}">${signed(d)}</span></li>`;
       }).join('')}</ul>`
     : 'No matches since the last official ranking.';
   return `<tr class="detail"><td colspan="5">${body}</td></tr>`;
@@ -340,13 +359,12 @@ function scoreText(m) {
   return `${m.homeScore}–${m.awayScore}${pens}`;
 }
 
-const OUTCOMES = [['win', 'W'], ['draw', 'D'], ['loss', 'L'], ['pensWin', 'W pens'], ['pensLoss', 'L pens']];
+const OUTCOMES = [['win', 'Win'], ['draw', 'Draw'], ['loss', 'Loss'], ['pensWin', 'Win on pens'], ['pensLoss', 'Lose on pens']];
 
 function predictionBlock(m) {
   if (!m.prediction) return '';
   const col = (side, name) => `
     <div class="pred-side">
-      <div class="pred-name">${esc(name)}</div>
       <div class="pred-chips">${OUTCOMES.filter(([k]) => k in m.prediction[side]).map(([k, label]) => {
         const v = m.prediction[side][k];
         return `<span class="pred ${tone(v)}"><b>${label}</b>${signed(v)}</span>`;
@@ -355,7 +373,7 @@ function predictionBlock(m) {
   return `
     <div class="prediction">
       <div class="pred-head">Points at stake <button class="help-q" type="button" data-help="help-weights" aria-label="What do these numbers mean?">?</button>
-        <span>Match weight ${m.importance}${m.knockout ? ' · knockout: the loser keeps its points' : ''}</span></div>
+        <span>Match weight ${m.importance}${m.knockout ? '. Knockout, so the loser keeps its points' : ''}</span></div>
       <div class="pred-grid">${col('home', m.homeName)}${col('away', m.awayName)}</div>
     </div>`;
 }
@@ -379,7 +397,7 @@ function matchRow(m, fixture) {
   return `
     <li class="match${state.favs.has(m.home) || state.favs.has(m.away) ? ' is-fav' : ''}" data-confed="${state.confedOf[m.home] || ''}">
       <div class="teams">${side(m.home, m.homeName, m.homeDelta, 'l')}${middle}${side(m.away, m.awayName, m.awayDelta, 'r')}</div>
-      <div class="sub">${esc(m.competition)}${m.stage && !m.stage.startsWith('Friendlies') ? ` · ${esc(m.stage)}` : ''}${m.city ? ` · ${esc(m.city)}` : ''} ${tags}</div>
+      <div class="sub"><span>${esc(m.competition)}${m.stage && !m.stage.startsWith('Friendlies') ? `, ${esc(m.stage)}` : ''}</span>${m.city ? `<span>${esc(m.city)}</span>` : ''}${tags}</div>
       ${fixture ? predictionBlock(m) : ''}
     </li>`;
 }
@@ -582,8 +600,9 @@ function applyData() {
   renderMeta(state.data);
   renderMovers(state.data.teams);
   const weekAgo = new Date(); weekAgo.setDate(weekAgo.getDate() - 7);
-  $('results-count').textContent = state.data.results.filter(m => m.date >= ymd(weekAgo)).length;
-  $('fixtures-count').textContent = state.data.fixtures.length;
+  const weekCount = state.data.results.filter(m => m.date >= ymd(weekAgo)).length;
+  $('results-count').textContent = weekCount || '';
+  $('fixtures-count').textContent = state.data.fixtures.length || '';
   render();
 }
 
@@ -656,7 +675,7 @@ async function init() {
   renderMeta(state.data);
   renderMovers(state.data.teams);
   const weekAgo = new Date(); weekAgo.setDate(weekAgo.getDate() - 7);
-  $('results-count').textContent = state.data.results.filter(m => m.date >= ymd(weekAgo)).length;
+  $('results-count').textContent = state.data.results.filter(m => m.date >= ymd(weekAgo)).length || '';
   $('results-count').title = 'Results in the past week';
   $('fixtures-count').textContent = state.data.fixtures.length;
   render();

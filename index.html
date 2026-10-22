@@ -8,46 +8,55 @@
   <link rel="icon" type="image/png" href="icons/favicon-32.png">
   <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
   <link rel="manifest" href="manifest.webmanifest">
-  <meta name="theme-color" content="#0b0b1f" media="(prefers-color-scheme: light)">
-  <meta name="theme-color" content="#0b0b1f" media="(prefers-color-scheme: dark)">
+  <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0f1a33" media="(prefers-color-scheme: dark)">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-title" content="Football Rankings">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,500..900&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Barlow+Condensed:wght@500;600;700&family=Monoton&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header class="hero">
-    <div class="hero-bg" aria-hidden="true"><span></span><span></span><span></span><span></span></div>
-    <div class="wrap">
-      <div class="brand">
-        <h1><span class="wm-world">World</span> <span class="wm-rank">Football Rankings</span></h1>
-      </div>
-      <p class="tagline">Updated FIFA rankings · <button class="help-link" id="help-open" type="button">How it works</button></p>
-      <dl class="meta" id="meta"></dl>
+  <header class="masthead wrap">
+    <div class="brand">
+      <h1 class="wordmark">World Football Rankings</h1>
+      <p class="tagline">Updated FIFA rankings. <button class="help-link" id="help-open" type="button">How it works</button></p>
     </div>
-    <div class="stripe" aria-hidden="true"></div>
-  </header>
-
-  <main class="wrap">
-    <section class="movers" id="movers" aria-label="Biggest movers"></section>
-
     <nav class="views" role="tablist" aria-label="Views">
       <button role="tab" data-view="rankings" aria-selected="true">Rankings</button>
       <button role="tab" data-view="results" aria-selected="false">Results <span class="count" id="results-count"></span></button>
       <button role="tab" data-view="fixtures" aria-selected="false">Fixtures <span class="count" id="fixtures-count"></span></button>
       <button role="tab" data-view="fantasy" aria-selected="false">Fantasy</button>
     </nav>
+  </header>
 
-    <section class="card">
+  <section class="hero wrap" aria-label="Top of the live table">
+    <div class="leader" id="leader"></div>
+    <ol class="top10" id="top10" start="2"></ol>
+    <p class="status" id="meta"></p>
+  </section>
+
+  <div class="stripes" aria-hidden="true"><span></span><span></span><span></span><span></span><span></span><span></span></div>
+  <ul class="legend wrap" aria-label="Confederation colours">
+    <li data-confed="UEFA"><b>UEFA</b> Europe</li>
+    <li data-confed="CONMEBOL"><b>CONMEBOL</b> South America</li>
+    <li data-confed="CONCACAF"><b>CONCACAF</b> North and Central America</li>
+    <li data-confed="CAF"><b>CAF</b> Africa</li>
+    <li data-confed="AFC"><b>AFC</b> Asia</li>
+    <li data-confed="OFC"><b>OFC</b> Oceania</li>
+  </ul>
+  <p class="movers wrap" id="movers"></p>
+
+  <main class="wrap">
+    <section class="board">
       <div class="controls">
         <input id="search" type="search" placeholder="Search team, e.g. Brazil or South Korea" aria-label="Search team" title="Tip: press / to search">
         <button class="clear-filters" id="clear-filters" type="button" hidden>Clear filters</button>
         <div class="tabs" id="confeds" aria-label="Confederation"></div>
         <div class="combo" id="competition" hidden>
           <button type="button" class="combo-btn" id="comp-btn" aria-haspopup="listbox" aria-expanded="false">
-            <span aria-hidden="true">🏆</span> <span id="comp-label">All competitions</span> <span class="caret" aria-hidden="true">▾</span>
+            <span id="comp-label">All competitions</span> <span class="caret" aria-hidden="true">▾</span>
           </button>
           <div class="combo-pop" id="comp-pop" hidden>
             <input type="search" id="comp-search" placeholder="Search competitions…" aria-label="Search competitions" autocomplete="off">
@@ -62,7 +71,7 @@
           <option value="365">Past year</option>
         </select>
         <div class="date-filter" id="date-filter" hidden>
-          <label for="date" class="date-label">📅</label>
+          <label for="date" class="date-label">Day</label>
           <input type="date" id="date" aria-label="Filter by date">
           <button id="date-clear" type="button" aria-label="Show all dates" hidden>✕</button>
         </div>
@@ -72,7 +81,7 @@
         <table class="ranking">
           <thead>
             <tr>
-              <th>Live</th>
+              <th>Live rank</th>
               <th class="num hide-sm">Official</th>
               <th>Team</th>
               <th class="num">Points</th>
@@ -116,7 +125,7 @@
       <tr><td>Friendly outside an international window</td><td>5</td></tr>
       <tr><td>Friendly in a window, or a regional cup</td><td>10</td></tr>
       <tr><td>Nations League (league phase and play-offs)</td><td>15</td></tr>
-      <tr><td>Nations League finals · World Cup and continental qualifiers</td><td>25</td></tr>
+      <tr><td>Nations League finals, World Cup and continental qualifiers</td><td>25</td></tr>
       <tr><td>Continental finals (EURO, AFCON, Asian Cup…): before / from quarter-finals</td><td>35 / 40</td></tr>
       <tr><td>World Cup finals: before / from quarter-finals</td><td>50 / 60</td></tr>
     </table>
