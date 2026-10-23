@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-23T04:43:21+00:00",
+ "generatedAt": "2026-10-23T14:26:35+00:00",
  "official": {
   "pubDate": "2026-07-20T10:00:00+00:00",
   "nextPubDate": null,
@@ -11222,6 +11222,39 @@
    "fifaId": "1hfb507bu2677jwssrzjqobh0"
   },
   {
+   "kickoff": "2026-11-12T17:30:00Z",
+   "date": "2026-11-12",
+   "home": "MLT",
+   "away": "SWZ",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 2",
+   "city": "Ta' Qali",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.527,
+   "prediction": {
+    "home": {
+     "win": 4.73,
+     "draw": -0.27,
+     "loss": -5.27
+    },
+    "away": {
+     "loss": -4.73,
+     "draw": 0.27,
+     "win": 5.27
+    }
+   },
+   "homeName": "Malta",
+   "awayName": "Eswatini",
+   "fifaId": "9mybktirbw3fjdgp8fy66vaqc"
+  },
+  {
    "kickoff": "2026-11-12T19:00:00Z",
    "date": "2026-11-12",
    "home": "CAY",
@@ -11876,6 +11909,39 @@
    },
    "homeName": "Burkina Faso",
    "awayName": "Mauritania"
+  },
+  {
+   "kickoff": "2026-11-13T14:30:00Z",
+   "date": "2026-11-13",
+   "home": "KSA",
+   "away": "KOR",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 1",
+   "city": "",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.378,
+   "prediction": {
+    "home": {
+     "win": 6.22,
+     "draw": 1.22,
+     "loss": -3.78
+    },
+    "away": {
+     "loss": -6.22,
+     "draw": -1.22,
+     "win": 3.78
+    }
+   },
+   "homeName": "Saudi Arabia",
+   "awayName": "Korea Republic",
+   "fifaId": "deizqizgjioobmieqcj3izllg"
   },
   {
    "kickoff": "2026-11-13T14:45:00Z",
@@ -14757,6 +14823,72 @@
    "fifaId": "5o0pycy2w79g7ibqt8ucr4jdg"
   },
   {
+   "kickoff": "2026-11-17T14:00:00Z",
+   "date": "2026-11-17",
+   "home": "QAT",
+   "away": "KOR",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 1",
+   "city": "Doha",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.359,
+   "prediction": {
+    "home": {
+     "win": 6.41,
+     "draw": 1.41,
+     "loss": -3.59
+    },
+    "away": {
+     "loss": -6.41,
+     "draw": -1.41,
+     "win": 3.59
+    }
+   },
+   "homeName": "Qatar",
+   "awayName": "Korea Republic",
+   "fifaId": "c1i0rne2h4icq3mmv1jnyplas"
+  },
+  {
+   "kickoff": "2026-11-17T15:00:00Z",
+   "date": "2026-11-17",
+   "home": "KSA",
+   "away": "UZB",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 1",
+   "city": "",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.515,
+   "prediction": {
+    "home": {
+     "win": 4.85,
+     "draw": -0.15,
+     "loss": -5.15
+    },
+    "away": {
+     "loss": -4.85,
+     "draw": 0.15,
+     "win": 5.15
+    }
+   },
+   "homeName": "Saudi Arabia",
+   "awayName": "Uzbekistan",
+   "fifaId": "df1ifrs9bypbcsyf4ehxos26s"
+  },
+  {
    "kickoff": "2026-11-17T17:00:00Z",
    "date": "2026-11-17",
    "home": "RUS",
@@ -15348,6 +15480,39 @@
    "homeName": "USA",
    "awayName": "Jamaica",
    "fifaId": "8b2r1x3hjqlwdxpekqq60gkyc"
+  },
+  {
+   "kickoff": "2026-12-27T15:00:00Z",
+   "date": "2026-12-27",
+   "home": "KSA",
+   "away": "QAT",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 1",
+   "city": "",
+   "source": "FIFA",
+   "importance": 5,
+   "knockout": false,
+   "expectedHome": 0.52,
+   "prediction": {
+    "home": {
+     "win": 2.4,
+     "draw": -0.1,
+     "loss": -2.6
+    },
+    "away": {
+     "loss": -2.4,
+     "draw": 0.1,
+     "win": 2.6
+    }
+   },
+   "homeName": "Saudi Arabia",
+   "awayName": "Qatar",
+   "fifaId": "dfb9db9cfbp0mnp44hvhohp90"
   },
   {
    "kickoff": "2027-01-07T00:00:00Z",
@@ -18094,7 +18259,7 @@
    "group": "Global",
    "weight": "I=10 · 5 outside windows",
    "results": 75,
-   "fixtures": 28
+   "fixtures": 33
   },
   {
    "name": "FIFA Series™",
