@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-25T12:13:32+00:00",
+ "generatedAt": "2026-10-26T13:56:35+00:00",
  "official": {
   "pubDate": "2026-07-20T10:00:00+00:00",
   "nextPubDate": null,
@@ -14337,39 +14337,6 @@
   },
   {
    "kickoff": "2026-11-17T00:00:00Z",
-   "date": "2026-11-17",
-   "home": "JOR",
-   "away": "AUS",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "Friendlies",
-   "stage": "Friendlies 1",
-   "city": "Amman",
-   "source": "FIFA",
-   "importance": 10,
-   "knockout": false,
-   "expectedHome": 0.293,
-   "prediction": {
-    "home": {
-     "win": 7.07,
-     "draw": 2.07,
-     "loss": -2.93
-    },
-    "away": {
-     "loss": -7.07,
-     "draw": -2.07,
-     "win": 2.93
-    }
-   },
-   "homeName": "Jordan",
-   "awayName": "Australia",
-   "fifaId": "4dit1tfqeqe25fozfl3ozjlec"
-  },
-  {
-   "kickoff": "2026-11-17T00:00:00Z",
    "date": "2026-11-16",
    "home": "TRI",
    "away": "ATG",
@@ -14887,6 +14854,39 @@
    "homeName": "Saudi Arabia",
    "awayName": "Uzbekistan",
    "fifaId": "df1ifrs9bypbcsyf4ehxos26s"
+  },
+  {
+   "kickoff": "2026-11-17T16:00:00Z",
+   "date": "2026-11-17",
+   "home": "JOR",
+   "away": "AUS",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 1",
+   "city": "Amman",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.293,
+   "prediction": {
+    "home": {
+     "win": 7.07,
+     "draw": 2.07,
+     "loss": -2.93
+    },
+    "away": {
+     "loss": -7.07,
+     "draw": -2.07,
+     "win": 2.93
+    }
+   },
+   "homeName": "Jordan",
+   "awayName": "Australia",
+   "fifaId": "4dit1tfqeqe25fozfl3ozjlec"
   },
   {
    "kickoff": "2026-11-17T17:00:00Z",
