@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-27T13:47:28+00:00",
+ "generatedAt": "2026-10-28T14:46:00+00:00",
  "official": {
   "pubDate": "2026-07-20T10:00:00+00:00",
   "nextPubDate": null,
@@ -11553,39 +11553,6 @@
   },
   {
    "kickoff": "2026-11-13T00:00:00Z",
-   "date": "2026-11-12",
-   "home": "COL",
-   "away": "CHI",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "Friendlies",
-   "stage": "Friendlies 1",
-   "city": "Cali",
-   "source": "FIFA",
-   "importance": 10,
-   "knockout": false,
-   "expectedHome": 0.743,
-   "prediction": {
-    "home": {
-     "win": 2.57,
-     "draw": -2.43,
-     "loss": -7.43
-    },
-    "away": {
-     "loss": -2.57,
-     "draw": 2.43,
-     "win": 7.43
-    }
-   },
-   "homeName": "Colombia",
-   "awayName": "Chile",
-   "fifaId": "dit49kaj1xto6v8y436kcy49g"
-  },
-  {
-   "kickoff": "2026-11-13T00:00:00Z",
    "date": "2026-11-13",
    "home": "ECU",
    "away": "CRC",
@@ -11682,6 +11649,39 @@
    "homeName": "Peru",
    "awayName": "Bolivia",
    "fifaId": "c5bp316lz82r9xymtqwfbkpp0"
+  },
+  {
+   "kickoff": "2026-11-13T00:00:00Z",
+   "date": "2026-11-13",
+   "home": "UAE",
+   "away": "HON",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 1",
+   "city": "",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.495,
+   "prediction": {
+    "home": {
+     "win": 5.05,
+     "draw": 0.05,
+     "loss": -4.95
+    },
+    "away": {
+     "loss": -5.05,
+     "draw": -0.05,
+     "win": 4.95
+    }
+   },
+   "homeName": "United Arab Emirates",
+   "awayName": "Honduras",
+   "fifaId": "dmheq8096f2v700uqz4rk19g4"
   },
   {
    "kickoff": "2026-11-13T00:00:00Z",
@@ -11909,6 +11909,39 @@
    },
    "homeName": "Burkina Faso",
    "awayName": "Mauritania"
+  },
+  {
+   "kickoff": "2026-11-13T14:00:00Z",
+   "date": "2026-11-13",
+   "home": "KUW",
+   "away": "SYR",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 3",
+   "city": "Kuwait City",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.339,
+   "prediction": {
+    "home": {
+     "win": 6.61,
+     "draw": 1.61,
+     "loss": -3.39
+    },
+    "away": {
+     "loss": -6.61,
+     "draw": -1.61,
+     "win": 3.39
+    }
+   },
+   "homeName": "Kuwait",
+   "awayName": "Syria",
+   "fifaId": "92ciliiaq22ddhm4j5vbxozdg"
   },
   {
    "kickoff": "2026-11-13T14:30:00Z",
@@ -12404,6 +12437,39 @@
    "homeName": "Grenada",
    "awayName": "St Kitts and Nevis",
    "fifaId": "2jhhp5zvnfc99h72bihrb70no"
+  },
+  {
+   "kickoff": "2026-11-14T00:00:00Z",
+   "date": "2026-11-13",
+   "home": "COL",
+   "away": "CHI",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 1",
+   "city": "Cali",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.743,
+   "prediction": {
+    "home": {
+     "win": 2.57,
+     "draw": -2.43,
+     "loss": -7.43
+    },
+    "away": {
+     "loss": -2.57,
+     "draw": 2.43,
+     "win": 7.43
+    }
+   },
+   "homeName": "Colombia",
+   "awayName": "Chile",
+   "fifaId": "dit49kaj1xto6v8y436kcy49g"
   },
   {
    "kickoff": "2026-11-14T00:00:00Z",
@@ -14334,6 +14400,39 @@
    "homeName": "Ecuador",
    "awayName": "Bolivia",
    "fifaId": "ffi4h8l4utp83ib8potj6bdg"
+  },
+  {
+   "kickoff": "2026-11-17T00:00:00Z",
+   "date": "2026-11-17",
+   "home": "KUW",
+   "away": "HON",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 1",
+   "city": "",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.263,
+   "prediction": {
+    "home": {
+     "win": 7.37,
+     "draw": 2.37,
+     "loss": -2.63
+    },
+    "away": {
+     "loss": -7.37,
+     "draw": -2.37,
+     "win": 2.63
+    }
+   },
+   "homeName": "Kuwait",
+   "awayName": "Honduras",
+   "fifaId": "dmzosbcba1m268i1vv4zda2vo"
   },
   {
    "kickoff": "2026-11-17T00:00:00Z",
@@ -18259,7 +18358,7 @@
    "group": "Global",
    "weight": "I=10 · 5 outside windows",
    "results": 75,
-   "fixtures": 33
+   "fixtures": 36
   },
   {
    "name": "FIFA Series™",
