@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-01T14:26:15+00:00",
+ "generatedAt": "2026-11-02T19:12:37+00:00",
  "official": {
   "pubDate": "2026-07-20T10:00:00+00:00",
   "nextPubDate": null,
@@ -12615,7 +12615,7 @@
    "status": 1,
    "competition": "Friendlies",
    "stage": "Friendlies 1",
-   "city": "Guangzhou",
+   "city": "Zhaoqing",
    "source": "FIFA",
    "importance": 10,
    "knockout": false,
@@ -14578,7 +14578,7 @@
    "status": 1,
    "competition": "Friendlies",
    "stage": "Friendlies 1",
-   "city": "Guangzhou",
+   "city": "Zhaoqing",
    "source": "FIFA",
    "importance": 10,
    "knockout": false,
@@ -15612,39 +15612,6 @@
    "homeName": "Chile",
    "awayName": "Colombia",
    "fifaId": "dj5ammmwqr0w5to4cb8gjlixg"
-  },
-  {
-   "kickoff": "2026-11-28T17:00:00Z",
-   "date": "2026-11-28",
-   "home": "ESP",
-   "away": "CHI",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "Friendlies",
-   "stage": "Friendlies 1",
-   "city": "Leon",
-   "source": "FIFA",
-   "importance": 5,
-   "knockout": false,
-   "expectedHome": 0.893,
-   "prediction": {
-    "home": {
-     "win": 0.54,
-     "draw": -1.96,
-     "loss": -4.46
-    },
-    "away": {
-     "loss": -0.54,
-     "draw": 1.96,
-     "win": 4.46
-    }
-   },
-   "homeName": "Spain",
-   "awayName": "Chile",
-   "fifaId": "eehe65nqvpttm6cb8gshg74es"
   },
   {
    "kickoff": "2026-12-05T17:30:00Z",
@@ -18490,7 +18457,7 @@
    "group": "Global",
    "weight": "I=10 · 5 outside windows",
    "results": 75,
-   "fixtures": 40
+   "fixtures": 39
   },
   {
    "name": "FIFA Series™",
