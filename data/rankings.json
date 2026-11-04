@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T16:30:50+00:00",
+ "generatedAt": "2026-11-04T01:58:02+00:00",
  "official": {
   "pubDate": "2026-07-20T10:00:00+00:00",
   "nextPubDate": null,
@@ -10516,38 +10516,6 @@
   {
    "date": "2026-11-11",
    "kickoff": "2026-11-11T12:00:00Z",
-   "home": "GAB",
-   "away": "LES",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "city": "",
-   "status": 1,
-   "competition": "CAF Africa Cup of Nations Qualifiers",
-   "stage": "Group stage",
-   "source": "Wikipedia",
-   "importance": 25,
-   "knockout": false,
-   "expectedHome": 0.705,
-   "prediction": {
-    "home": {
-     "win": 7.37,
-     "draw": -5.13,
-     "loss": -17.63
-    },
-    "away": {
-     "loss": -7.37,
-     "draw": 5.13,
-     "win": 17.63
-    }
-   },
-   "homeName": "Gabon",
-   "awayName": "Lesotho"
-  },
-  {
-   "date": "2026-11-11",
-   "kickoff": "2026-11-11T12:00:00Z",
    "home": "CMR",
    "away": "NAM",
    "homeScore": null,
@@ -11686,38 +11654,6 @@
   {
    "date": "2026-11-13",
    "kickoff": "2026-11-13T12:00:00Z",
-   "home": "MAR",
-   "away": "NIG",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "city": "",
-   "status": 1,
-   "competition": "CAF Africa Cup of Nations Qualifiers",
-   "stage": "Group stage",
-   "source": "Wikipedia",
-   "importance": 25,
-   "knockout": false,
-   "expectedHome": 0.919,
-   "prediction": {
-    "home": {
-     "win": 2.03,
-     "draw": -10.47,
-     "loss": -22.97
-    },
-    "away": {
-     "loss": -2.03,
-     "draw": 10.47,
-     "win": 22.97
-    }
-   },
-   "homeName": "Morocco",
-   "awayName": "Niger"
-  },
-  {
-   "date": "2026-11-13",
-   "kickoff": "2026-11-13T12:00:00Z",
    "home": "EGY",
    "away": "MWI",
    "homeScore": null,
@@ -11909,6 +11845,38 @@
    "homeName": "Qatar",
    "awayName": "Australia",
    "fifaId": "b350euln40z62ytujdhrsn95g"
+  },
+  {
+   "date": "2026-11-13",
+   "kickoff": "2026-11-13T16:00:00Z",
+   "home": "GAB",
+   "away": "LES",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "city": "Franceville",
+   "status": 1,
+   "competition": "CAF Africa Cup of Nations Qualifiers",
+   "stage": "Group stage",
+   "source": "Wikipedia",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.705,
+   "prediction": {
+    "home": {
+     "win": 7.37,
+     "draw": -5.13,
+     "loss": -17.63
+    },
+    "away": {
+     "loss": -7.37,
+     "draw": 5.13,
+     "win": 17.63
+    }
+   },
+   "homeName": "Gabon",
+   "awayName": "Lesotho"
   },
   {
    "kickoff": "2026-11-13T17:00:00Z",
@@ -12338,6 +12306,38 @@
    "homeName": "Grenada",
    "awayName": "St Kitts and Nevis",
    "fifaId": "2jhhp5zvnfc99h72bihrb70no"
+  },
+  {
+   "date": "2026-11-13",
+   "kickoff": "2026-11-13T20:00:00Z",
+   "home": "MAR",
+   "away": "NIG",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "city": "Casablanca",
+   "status": 1,
+   "competition": "CAF Africa Cup of Nations Qualifiers",
+   "stage": "Group stage",
+   "source": "Wikipedia",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.919,
+   "prediction": {
+    "home": {
+     "win": 2.03,
+     "draw": -10.47,
+     "loss": -22.97
+    },
+    "away": {
+     "loss": -2.03,
+     "draw": 10.47,
+     "win": 22.97
+    }
+   },
+   "homeName": "Morocco",
+   "awayName": "Niger"
   },
   {
    "kickoff": "2026-11-14T00:00:00Z",
@@ -14635,70 +14635,6 @@
   {
    "date": "2026-11-17",
    "kickoff": "2026-11-17T12:00:00Z",
-   "home": "LES",
-   "away": "GAB",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "city": "",
-   "status": 1,
-   "competition": "CAF Africa Cup of Nations Qualifiers",
-   "stage": "Group stage",
-   "source": "Wikipedia",
-   "importance": 25,
-   "knockout": false,
-   "expectedHome": 0.295,
-   "prediction": {
-    "home": {
-     "win": 17.63,
-     "draw": 5.13,
-     "loss": -7.37
-    },
-    "away": {
-     "loss": -17.63,
-     "draw": -5.13,
-     "win": 7.37
-    }
-   },
-   "homeName": "Lesotho",
-   "awayName": "Gabon"
-  },
-  {
-   "date": "2026-11-17",
-   "kickoff": "2026-11-17T12:00:00Z",
-   "home": "NIG",
-   "away": "MAR",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "city": "",
-   "status": 1,
-   "competition": "CAF Africa Cup of Nations Qualifiers",
-   "stage": "Group stage",
-   "source": "Wikipedia",
-   "importance": 25,
-   "knockout": false,
-   "expectedHome": 0.081,
-   "prediction": {
-    "home": {
-     "win": 22.97,
-     "draw": 10.47,
-     "loss": -2.03
-    },
-    "away": {
-     "loss": -22.97,
-     "draw": -10.47,
-     "win": 2.03
-    }
-   },
-   "homeName": "Niger",
-   "awayName": "Morocco"
-  },
-  {
-   "date": "2026-11-17",
-   "kickoff": "2026-11-17T12:00:00Z",
    "home": "SSD",
    "away": "ANG",
    "homeScore": null,
@@ -14887,6 +14823,38 @@
    },
    "homeName": "Mauritania",
    "awayName": "Burkina Faso"
+  },
+  {
+   "date": "2026-11-17",
+   "kickoff": "2026-11-17T13:00:00Z",
+   "home": "LES",
+   "away": "GAB",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "city": "Polokwane (South Africa)",
+   "status": 1,
+   "competition": "CAF Africa Cup of Nations Qualifiers",
+   "stage": "Group stage",
+   "source": "Wikipedia",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.295,
+   "prediction": {
+    "home": {
+     "win": 17.63,
+     "draw": 5.13,
+     "loss": -7.37
+    },
+    "away": {
+     "loss": -17.63,
+     "draw": -5.13,
+     "win": 7.37
+    }
+   },
+   "homeName": "Lesotho",
+   "awayName": "Gabon"
   },
   {
    "kickoff": "2026-11-17T13:10:00Z",
@@ -15414,6 +15382,38 @@
    "homeName": "Republic of Ireland",
    "awayName": "Kosovo",
    "fifaId": "2qm9jrorrcn5gxx9wf37ajv8"
+  },
+  {
+   "date": "2026-11-17",
+   "kickoff": "2026-11-17T20:00:00Z",
+   "home": "NIG",
+   "away": "MAR",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "city": "Rabat (Morocco)",
+   "status": 1,
+   "competition": "CAF Africa Cup of Nations Qualifiers",
+   "stage": "Group stage",
+   "source": "Wikipedia",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.081,
+   "prediction": {
+    "home": {
+     "win": 22.97,
+     "draw": 10.47,
+     "loss": -2.03
+    },
+    "away": {
+     "loss": -22.97,
+     "draw": -10.47,
+     "win": 2.03
+    }
+   },
+   "homeName": "Niger",
+   "awayName": "Morocco"
   },
   {
    "kickoff": "2026-11-17T23:30:00Z",
