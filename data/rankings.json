@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T01:58:02+00:00",
+ "generatedAt": "2026-11-04T16:34:23+00:00",
  "official": {
   "pubDate": "2026-07-20T10:00:00+00:00",
   "nextPubDate": null,
@@ -3173,7 +3173,7 @@
    "awayScore": 1,
    "homePens": null,
    "awayPens": null,
-   "city": "Luanda",
+   "city": "Talatona",
    "status": 0,
    "competition": "CAF Africa Cup of Nations Qualifiers",
    "stage": "Group stage",
@@ -10866,39 +10866,6 @@
    "awayName": "Tanzania"
   },
   {
-   "kickoff": "2026-11-12T00:00:00Z",
-   "date": "2026-11-12",
-   "home": "UZB",
-   "away": "RUS",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "Friendlies",
-   "stage": "Friendlies 1",
-   "city": "Tashkent",
-   "source": "FIFA",
-   "importance": 10,
-   "knockout": false,
-   "expectedHome": 0.386,
-   "prediction": {
-    "home": {
-     "win": 6.14,
-     "draw": 1.14,
-     "loss": -3.86
-    },
-    "away": {
-     "loss": -6.14,
-     "draw": -1.14,
-     "win": 3.86
-    }
-   },
-   "homeName": "Uzbekistan",
-   "awayName": "Russia",
-   "fifaId": "75m4a2n1ly7f0jdniu5ej1gr8"
-  },
-  {
    "kickoff": "2026-11-12T06:00:00Z",
    "date": "2026-11-12",
    "home": "NZL",
@@ -11124,6 +11091,39 @@
    "awayName": "Central African Republic"
   },
   {
+   "kickoff": "2026-11-12T15:00:00Z",
+   "date": "2026-11-12",
+   "home": "UZB",
+   "away": "RUS",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 1",
+   "city": "Tashkent",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.386,
+   "prediction": {
+    "home": {
+     "win": 6.14,
+     "draw": 1.14,
+     "loss": -3.86
+    },
+    "away": {
+     "loss": -6.14,
+     "draw": -1.14,
+     "win": 3.86
+    }
+   },
+   "homeName": "Uzbekistan",
+   "awayName": "Russia",
+   "fifaId": "75m4a2n1ly7f0jdniu5ej1gr8"
+  },
+  {
    "kickoff": "2026-11-12T17:00:00Z",
    "date": "2026-11-12",
    "home": "TUR",
@@ -11188,6 +11188,39 @@
    "homeName": "Armenia",
    "awayName": "Cyprus",
    "fifaId": "1hfb507bu2677jwssrzjqobh0"
+  },
+  {
+   "kickoff": "2026-11-12T17:00:00Z",
+   "date": "2026-11-12",
+   "home": "LTU",
+   "away": "SUR",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 2",
+   "city": "Kaunas",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.425,
+   "prediction": {
+    "home": {
+     "win": 5.75,
+     "draw": 0.75,
+     "loss": -4.25
+    },
+    "away": {
+     "loss": -5.75,
+     "draw": -0.75,
+     "win": 4.25
+    }
+   },
+   "homeName": "Lithuania",
+   "awayName": "Suriname",
+   "fifaId": "8cx0tzduzu5mzs9ch2xhx0sno"
   },
   {
    "kickoff": "2026-11-12T17:30:00Z",
@@ -11654,38 +11687,6 @@
   {
    "date": "2026-11-13",
    "kickoff": "2026-11-13T12:00:00Z",
-   "home": "EGY",
-   "away": "MWI",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "city": "Cairo",
-   "status": 1,
-   "competition": "CAF Africa Cup of Nations Qualifiers",
-   "stage": "Group stage",
-   "source": "Wikipedia",
-   "importance": 25,
-   "knockout": false,
-   "expectedHome": 0.856,
-   "prediction": {
-    "home": {
-     "win": 3.61,
-     "draw": -8.89,
-     "loss": -21.39
-    },
-    "away": {
-     "loss": -3.61,
-     "draw": 8.89,
-     "win": 21.39
-    }
-   },
-   "homeName": "Egypt",
-   "awayName": "Malawi"
-  },
-  {
-   "date": "2026-11-13",
-   "kickoff": "2026-11-13T12:00:00Z",
    "home": "RSA",
    "away": "KEN",
    "homeScore": null,
@@ -11976,6 +11977,38 @@
    "homeName": "Bermuda",
    "awayName": "St Lucia",
    "fifaId": "2aswob9xod33nsh05iuyg6ec4"
+  },
+  {
+   "date": "2026-11-13",
+   "kickoff": "2026-11-13T19:00:00Z",
+   "home": "EGY",
+   "away": "MWI",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "city": "Cairo",
+   "status": 1,
+   "competition": "CAF Africa Cup of Nations Qualifiers",
+   "stage": "Group stage",
+   "source": "Wikipedia",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.856,
+   "prediction": {
+    "home": {
+     "win": 3.61,
+     "draw": -8.89,
+     "loss": -21.39
+    },
+    "away": {
+     "loss": -3.61,
+     "draw": 8.89,
+     "win": 21.39
+    }
+   },
+   "homeName": "Egypt",
+   "awayName": "Malawi"
   },
   {
    "kickoff": "2026-11-13T19:45:00Z",
@@ -12374,39 +12407,6 @@
   },
   {
    "kickoff": "2026-11-14T00:00:00Z",
-   "date": "2026-11-14",
-   "home": "PLE",
-   "away": "IRN",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "Friendlies",
-   "stage": "Friendlies 1",
-   "city": "",
-   "source": "FIFA",
-   "importance": 10,
-   "knockout": false,
-   "expectedHome": 0.211,
-   "prediction": {
-    "home": {
-     "win": 7.89,
-     "draw": 2.89,
-     "loss": -2.11
-    },
-    "away": {
-     "loss": -7.89,
-     "draw": -2.89,
-     "win": 2.11
-    }
-   },
-   "homeName": "Palestine",
-   "awayName": "IR Iran",
-   "fifaId": "80cwb9a5cvd662ref32xf39jo"
-  },
-  {
-   "kickoff": "2026-11-14T00:00:00Z",
    "date": "2026-11-13",
    "home": "ECU",
    "away": "CRC",
@@ -12670,38 +12670,6 @@
    "fifaId": "bvv6hm9iz75efvt3jiba878d0"
   },
   {
-   "date": "2026-11-14",
-   "kickoff": "2026-11-14T12:00:00Z",
-   "home": "ANG",
-   "away": "SSD",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "city": "",
-   "status": 1,
-   "competition": "CAF Africa Cup of Nations Qualifiers",
-   "stage": "Group stage",
-   "source": "Wikipedia",
-   "importance": 25,
-   "knockout": false,
-   "expectedHome": 0.775,
-   "prediction": {
-    "home": {
-     "win": 5.63,
-     "draw": -6.87,
-     "loss": -19.37
-    },
-    "away": {
-     "loss": -5.63,
-     "draw": 6.87,
-     "win": 19.37
-    }
-   },
-   "homeName": "Angola",
-   "awayName": "South Sudan"
-  },
-  {
    "kickoff": "2026-11-14T14:00:00Z",
    "date": "2026-11-14",
    "home": "KOS",
@@ -12733,6 +12701,39 @@
    "homeName": "Kosovo",
    "awayName": "Israel",
    "fifaId": "f1xiwulsj0cnwtavtrhm4wsus"
+  },
+  {
+   "kickoff": "2026-11-14T16:00:00Z",
+   "date": "2026-11-14",
+   "home": "PLE",
+   "away": "IRN",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 1",
+   "city": "",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.211,
+   "prediction": {
+    "home": {
+     "win": 7.89,
+     "draw": 2.89,
+     "loss": -2.11
+    },
+    "away": {
+     "loss": -7.89,
+     "draw": -2.89,
+     "win": 2.11
+    }
+   },
+   "homeName": "Palestine",
+   "awayName": "IR Iran",
+   "fifaId": "80cwb9a5cvd662ref32xf39jo"
   },
   {
    "kickoff": "2026-11-14T17:00:00Z",
@@ -12799,6 +12800,38 @@
    "homeName": "Georgia",
    "awayName": "Hungary",
    "fifaId": "f2ihb8zzsuhnejbwu1t2cb2ms"
+  },
+  {
+   "date": "2026-11-14",
+   "kickoff": "2026-11-14T19:00:00Z",
+   "home": "ANG",
+   "away": "SSD",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "city": "Talatona",
+   "status": 1,
+   "competition": "CAF Africa Cup of Nations Qualifiers",
+   "stage": "Group stage",
+   "source": "Wikipedia",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.775,
+   "prediction": {
+    "home": {
+     "win": 5.63,
+     "draw": -6.87,
+     "loss": -19.37
+    },
+    "away": {
+     "loss": -5.63,
+     "draw": 6.87,
+     "win": 19.37
+    }
+   },
+   "homeName": "Angola",
+   "awayName": "South Sudan"
   },
   {
    "date": "2026-11-14",
@@ -14635,70 +14668,6 @@
   {
    "date": "2026-11-17",
    "kickoff": "2026-11-17T12:00:00Z",
-   "home": "SSD",
-   "away": "ANG",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "city": "",
-   "status": 1,
-   "competition": "CAF Africa Cup of Nations Qualifiers",
-   "stage": "Group stage",
-   "source": "Wikipedia",
-   "importance": 25,
-   "knockout": false,
-   "expectedHome": 0.225,
-   "prediction": {
-    "home": {
-     "win": 19.37,
-     "draw": 6.87,
-     "loss": -5.63
-    },
-    "away": {
-     "loss": -19.37,
-     "draw": -6.87,
-     "win": 5.63
-    }
-   },
-   "homeName": "South Sudan",
-   "awayName": "Angola"
-  },
-  {
-   "date": "2026-11-17",
-   "kickoff": "2026-11-17T12:00:00Z",
-   "home": "MWI",
-   "away": "EGY",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "city": "Lilongwe",
-   "status": 1,
-   "competition": "CAF Africa Cup of Nations Qualifiers",
-   "stage": "Group stage",
-   "source": "Wikipedia",
-   "importance": 25,
-   "knockout": false,
-   "expectedHome": 0.144,
-   "prediction": {
-    "home": {
-     "win": 21.39,
-     "draw": 8.89,
-     "loss": -3.61
-    },
-    "away": {
-     "loss": -21.39,
-     "draw": -8.89,
-     "win": 3.61
-    }
-   },
-   "homeName": "Malawi",
-   "awayName": "Egypt"
-  },
-  {
-   "date": "2026-11-17",
-   "kickoff": "2026-11-17T12:00:00Z",
    "home": "GAM",
    "away": "CIV",
    "homeScore": null,
@@ -14857,6 +14826,70 @@
    "awayName": "Gabon"
   },
   {
+   "date": "2026-11-17",
+   "kickoff": "2026-11-17T13:00:00Z",
+   "home": "SSD",
+   "away": "ANG",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "city": "",
+   "status": 1,
+   "competition": "CAF Africa Cup of Nations Qualifiers",
+   "stage": "Group stage",
+   "source": "Wikipedia",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.225,
+   "prediction": {
+    "home": {
+     "win": 19.37,
+     "draw": 6.87,
+     "loss": -5.63
+    },
+    "away": {
+     "loss": -19.37,
+     "draw": -6.87,
+     "win": 5.63
+    }
+   },
+   "homeName": "South Sudan",
+   "awayName": "Angola"
+  },
+  {
+   "date": "2026-11-17",
+   "kickoff": "2026-11-17T13:00:00Z",
+   "home": "MWI",
+   "away": "EGY",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "city": "Lilongwe",
+   "status": 1,
+   "competition": "CAF Africa Cup of Nations Qualifiers",
+   "stage": "Group stage",
+   "source": "Wikipedia",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.144,
+   "prediction": {
+    "home": {
+     "win": 21.39,
+     "draw": 8.89,
+     "loss": -3.61
+    },
+    "away": {
+     "loss": -21.39,
+     "draw": -8.89,
+     "win": 3.61
+    }
+   },
+   "homeName": "Malawi",
+   "awayName": "Egypt"
+  },
+  {
    "kickoff": "2026-11-17T13:10:00Z",
    "date": "2026-11-17",
    "home": "JPN",
@@ -14989,7 +15022,7 @@
    "fifaId": "4dit1tfqeqe25fozfl3ozjlec"
   },
   {
-   "kickoff": "2026-11-17T17:00:00Z",
+   "kickoff": "2026-11-17T16:00:00Z",
    "date": "2026-11-17",
    "home": "RUS",
    "away": "VEN",
@@ -18457,7 +18490,7 @@
    "group": "Global",
    "weight": "I=10 · 5 outside windows",
    "results": 75,
-   "fixtures": 39
+   "fixtures": 40
   },
   {
    "name": "FIFA Series™",
