@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T16:34:23+00:00",
+ "generatedAt": "2026-11-04T22:11:26+00:00",
  "official": {
   "pubDate": "2026-07-20T10:00:00+00:00",
   "nextPubDate": null,
@@ -10901,70 +10901,6 @@
   {
    "date": "2026-11-12",
    "kickoff": "2026-11-12T12:00:00Z",
-   "home": "GHA",
-   "away": "SOM",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "city": "",
-   "status": 1,
-   "competition": "CAF Africa Cup of Nations Qualifiers",
-   "stage": "Group stage",
-   "source": "Wikipedia",
-   "importance": 25,
-   "knockout": false,
-   "expectedHome": 0.884,
-   "prediction": {
-    "home": {
-     "win": 2.9,
-     "draw": -9.6,
-     "loss": -22.1
-    },
-    "away": {
-     "loss": -2.9,
-     "draw": 9.6,
-     "win": 22.1
-    }
-   },
-   "homeName": "Ghana",
-   "awayName": "Somalia"
-  },
-  {
-   "date": "2026-11-12",
-   "kickoff": "2026-11-12T12:00:00Z",
-   "home": "CIV",
-   "away": "GAM",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "city": "",
-   "status": 1,
-   "competition": "CAF Africa Cup of Nations Qualifiers",
-   "stage": "Group stage",
-   "source": "Wikipedia",
-   "importance": 25,
-   "knockout": false,
-   "expectedHome": 0.815,
-   "prediction": {
-    "home": {
-     "win": 4.62,
-     "draw": -7.88,
-     "loss": -20.38
-    },
-    "away": {
-     "loss": -4.62,
-     "draw": 7.88,
-     "win": 20.38
-    }
-   },
-   "homeName": "Côte d'Ivoire",
-   "awayName": "The Gambia"
-  },
-  {
-   "date": "2026-11-12",
-   "kickoff": "2026-11-12T12:00:00Z",
    "home": "GUI",
    "away": "ERI",
    "homeScore": null,
@@ -11122,6 +11058,38 @@
    "homeName": "Uzbekistan",
    "awayName": "Russia",
    "fifaId": "75m4a2n1ly7f0jdniu5ej1gr8"
+  },
+  {
+   "date": "2026-11-12",
+   "kickoff": "2026-11-12T15:00:00Z",
+   "home": "GHA",
+   "away": "SOM",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "city": "Essipong",
+   "status": 1,
+   "competition": "CAF Africa Cup of Nations Qualifiers",
+   "stage": "Group stage",
+   "source": "Wikipedia",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.884,
+   "prediction": {
+    "home": {
+     "win": 2.9,
+     "draw": -9.6,
+     "loss": -22.1
+    },
+    "away": {
+     "loss": -2.9,
+     "draw": 9.6,
+     "win": 22.1
+    }
+   },
+   "homeName": "Ghana",
+   "awayName": "Somalia"
   },
   {
    "kickoff": "2026-11-12T17:00:00Z",
@@ -11287,6 +11255,38 @@
    "homeName": "Cayman Islands",
    "awayName": "Guyana",
    "fifaId": "20w5izenfs9l05g71o30tej9w"
+  },
+  {
+   "date": "2026-11-12",
+   "kickoff": "2026-11-12T19:00:00Z",
+   "home": "CIV",
+   "away": "GAM",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "city": "Bouaké",
+   "status": 1,
+   "competition": "CAF Africa Cup of Nations Qualifiers",
+   "stage": "Group stage",
+   "source": "Wikipedia",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.815,
+   "prediction": {
+    "home": {
+     "win": 4.62,
+     "draw": -7.88,
+     "loss": -20.38
+    },
+    "away": {
+     "loss": -4.62,
+     "draw": 7.88,
+     "win": 20.38
+    }
+   },
+   "homeName": "Côte d'Ivoire",
+   "awayName": "The Gambia"
   },
   {
    "kickoff": "2026-11-12T19:45:00Z",
@@ -13814,38 +13814,6 @@
   {
    "date": "2026-11-16",
    "kickoff": "2026-11-16T12:00:00Z",
-   "home": "SOM",
-   "away": "GHA",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "city": "",
-   "status": 1,
-   "competition": "CAF Africa Cup of Nations Qualifiers",
-   "stage": "Group stage",
-   "source": "Wikipedia",
-   "importance": 25,
-   "knockout": false,
-   "expectedHome": 0.116,
-   "prediction": {
-    "home": {
-     "win": 22.1,
-     "draw": 9.6,
-     "loss": -2.9
-    },
-    "away": {
-     "loss": -22.1,
-     "draw": -9.6,
-     "win": 2.9
-    }
-   },
-   "homeName": "Somalia",
-   "awayName": "Ghana"
-  },
-  {
-   "date": "2026-11-16",
-   "kickoff": "2026-11-16T12:00:00Z",
    "home": "ERI",
    "away": "GUI",
    "homeScore": null,
@@ -14004,6 +13972,38 @@
    "homeName": "Faroe Islands",
    "awayName": "Moldova",
    "fifaId": "1odi989t2i46q4slqtil91t04"
+  },
+  {
+   "date": "2026-11-16",
+   "kickoff": "2026-11-16T15:00:00Z",
+   "home": "SOM",
+   "away": "GHA",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "city": "Essipong (Ghana)",
+   "status": 1,
+   "competition": "CAF Africa Cup of Nations Qualifiers",
+   "stage": "Group stage",
+   "source": "Wikipedia",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.116,
+   "prediction": {
+    "home": {
+     "win": 22.1,
+     "draw": 9.6,
+     "loss": -2.9
+    },
+    "away": {
+     "loss": -22.1,
+     "draw": -9.6,
+     "win": 2.9
+    }
+   },
+   "homeName": "Somalia",
+   "awayName": "Ghana"
   },
   {
    "kickoff": "2026-11-16T17:00:00Z",
@@ -14668,38 +14668,6 @@
   {
    "date": "2026-11-17",
    "kickoff": "2026-11-17T12:00:00Z",
-   "home": "GAM",
-   "away": "CIV",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "city": "",
-   "status": 1,
-   "competition": "CAF Africa Cup of Nations Qualifiers",
-   "stage": "Group stage",
-   "source": "Wikipedia",
-   "importance": 25,
-   "knockout": false,
-   "expectedHome": 0.185,
-   "prediction": {
-    "home": {
-     "win": 20.38,
-     "draw": 7.88,
-     "loss": -4.62
-    },
-    "away": {
-     "loss": -20.38,
-     "draw": -7.88,
-     "win": 4.62
-    }
-   },
-   "homeName": "The Gambia",
-   "awayName": "Côte d'Ivoire"
-  },
-  {
-   "date": "2026-11-17",
-   "kickoff": "2026-11-17T12:00:00Z",
    "home": "KEN",
    "away": "RSA",
    "homeScore": null,
@@ -15053,6 +15021,38 @@
    "homeName": "Russia",
    "awayName": "Venezuela",
    "fifaId": "761cezkir40if6zjchy4zglxw"
+  },
+  {
+   "date": "2026-11-17",
+   "kickoff": "2026-11-17T16:00:00Z",
+   "home": "GAM",
+   "away": "CIV",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "city": "Bakau",
+   "status": 1,
+   "competition": "CAF Africa Cup of Nations Qualifiers",
+   "stage": "Group stage",
+   "source": "Wikipedia",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.185,
+   "prediction": {
+    "home": {
+     "win": 20.38,
+     "draw": 7.88,
+     "loss": -4.62
+    },
+    "away": {
+     "loss": -20.38,
+     "draw": -7.88,
+     "win": 4.62
+    }
+   },
+   "homeName": "The Gambia",
+   "awayName": "Côte d'Ivoire"
   },
   {
    "date": "2026-11-17",
