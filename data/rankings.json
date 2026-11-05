@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T02:23:39+00:00",
+ "generatedAt": "2026-11-05T17:38:55+00:00",
  "official": {
   "pubDate": "2026-07-20T10:00:00+00:00",
   "nextPubDate": null,
@@ -10579,38 +10579,6 @@
   {
    "date": "2026-11-11",
    "kickoff": "2026-11-11T12:00:00Z",
-   "home": "TUN",
-   "away": "LBY",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "city": "",
-   "status": 1,
-   "competition": "CAF Africa Cup of Nations Qualifiers",
-   "stage": "Group stage",
-   "source": "Wikipedia",
-   "importance": 25,
-   "knockout": false,
-   "expectedHome": 0.72,
-   "prediction": {
-    "home": {
-     "win": 6.99,
-     "draw": -5.51,
-     "loss": -18.01
-    },
-    "away": {
-     "loss": -6.99,
-     "draw": 5.51,
-     "win": 18.01
-    }
-   },
-   "homeName": "Tunisia",
-   "awayName": "Libya"
-  },
-  {
-   "date": "2026-11-11",
-   "kickoff": "2026-11-11T12:00:00Z",
    "home": "ZAM",
    "away": "BDI",
    "homeScore": null,
@@ -11845,6 +11813,38 @@
    },
    "homeName": "South Africa",
    "awayName": "Kenya"
+  },
+  {
+   "date": "2026-11-13",
+   "kickoff": "2026-11-13T16:00:00Z",
+   "home": "TUN",
+   "away": "LBY",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "city": "Sfax",
+   "status": 1,
+   "competition": "CAF Africa Cup of Nations Qualifiers",
+   "stage": "Group stage",
+   "source": "Wikipedia",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.72,
+   "prediction": {
+    "home": {
+     "win": 6.99,
+     "draw": -5.51,
+     "loss": -18.01
+    },
+    "away": {
+     "loss": -6.99,
+     "draw": 5.51,
+     "win": 18.01
+    }
+   },
+   "homeName": "Tunisia",
+   "awayName": "Libya"
   },
   {
    "kickoff": "2026-11-13T17:00:00Z",
