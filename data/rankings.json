@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T17:38:55+00:00",
+ "generatedAt": "2026-11-06T02:58:11+00:00",
  "official": {
   "pubDate": "2026-07-20T10:00:00+00:00",
   "nextPubDate": null,
@@ -10283,39 +10283,6 @@
  ],
  "fixtures": [
   {
-   "kickoff": "2026-11-05T00:00:00Z",
-   "date": "2026-11-05",
-   "home": "IND",
-   "away": "PAK",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "SAFF Championship",
-   "stage": "Group Stage",
-   "city": "Dhaka",
-   "source": "FIFA",
-   "importance": 5,
-   "knockout": false,
-   "expectedHome": 0.721,
-   "prediction": {
-    "home": {
-     "win": 1.4,
-     "draw": -1.1,
-     "loss": -3.6
-    },
-    "away": {
-     "loss": -1.4,
-     "draw": 1.1,
-     "win": 3.6
-    }
-   },
-   "homeName": "India",
-   "awayName": "Pakistan",
-   "fifaId": "2nclcvmjhnftz2dvletfqeqz8"
-  },
-  {
    "kickoff": "2026-11-07T00:00:00Z",
    "date": "2026-11-07",
    "home": "SRI",
@@ -18618,7 +18585,7 @@
    "group": "AFC",
    "weight": "I=10 · 5 outside windows",
    "results": 0,
-   "fixtures": 5
+   "fixtures": 4
   },
   {
    "name": "EAFF E-1 Championship",
