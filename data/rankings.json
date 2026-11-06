@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T17:36:43+00:00",
+ "generatedAt": "2026-11-06T22:22:47+00:00",
  "official": {
   "pubDate": "2026-07-20T10:00:00+00:00",
   "nextPubDate": null,
@@ -11424,39 +11424,6 @@
   {
    "kickoff": "2026-11-13T00:00:00Z",
    "date": "2026-11-13",
-   "home": "ARG",
-   "away": "URU",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "Friendlies",
-   "stage": "Friendlies 1",
-   "city": "Ciudad de Buenos Aires",
-   "source": "FIFA",
-   "importance": 10,
-   "knockout": false,
-   "expectedHome": 0.785,
-   "prediction": {
-    "home": {
-     "win": 2.15,
-     "draw": -2.85,
-     "loss": -7.85
-    },
-    "away": {
-     "loss": -2.15,
-     "draw": 2.85,
-     "win": 7.85
-    }
-   },
-   "homeName": "Argentina",
-   "awayName": "Uruguay",
-   "fifaId": "9xs81le77u4xfupf8p61p5bf8"
-  },
-  {
-   "kickoff": "2026-11-13T00:00:00Z",
-   "date": "2026-11-13",
    "home": "UAE",
    "away": "HON",
    "homeScore": null,
@@ -11496,7 +11463,7 @@
    "awayScore": null,
    "homePens": null,
    "awayPens": null,
-   "status": 1,
+   "status": 8,
    "competition": "Friendlies",
    "stage": "Friendlies 1",
    "city": "Amman",
@@ -12305,6 +12272,39 @@
    },
    "homeName": "Morocco",
    "awayName": "Niger"
+  },
+  {
+   "kickoff": "2026-11-13T23:00:00Z",
+   "date": "2026-11-13",
+   "home": "ARG",
+   "away": "URU",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 1",
+   "city": "Ciudad de Buenos Aires",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.785,
+   "prediction": {
+    "home": {
+     "win": 2.15,
+     "draw": -2.85,
+     "loss": -7.85
+    },
+    "away": {
+     "loss": -2.15,
+     "draw": 2.85,
+     "win": 7.85
+    }
+   },
+   "homeName": "Argentina",
+   "awayName": "Uruguay",
+   "fifaId": "9xs81le77u4xfupf8p61p5bf8"
   },
   {
    "kickoff": "2026-11-14T00:00:00Z",
@@ -14479,7 +14479,7 @@
    "status": 1,
    "competition": "Friendlies",
    "stage": "Friendlies 3",
-   "city": "Guangzhou",
+   "city": "Zhaoqing",
    "source": "FIFA",
    "importance": 10,
    "knockout": false,
@@ -14837,7 +14837,7 @@
    "status": 1,
    "competition": "Friendlies",
    "stage": "Friendlies 1",
-   "city": "",
+   "city": "Doha",
    "source": "FIFA",
    "importance": 10,
    "knockout": false,
@@ -15383,6 +15383,39 @@
    "awayName": "Morocco"
   },
   {
+   "kickoff": "2026-11-17T23:00:00Z",
+   "date": "2026-11-17",
+   "home": "CHI",
+   "away": "COL",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 1",
+   "city": "Santiago",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.257,
+   "prediction": {
+    "home": {
+     "win": 7.43,
+     "draw": 2.43,
+     "loss": -2.57
+    },
+    "away": {
+     "loss": -7.43,
+     "draw": -2.43,
+     "win": 2.57
+    }
+   },
+   "homeName": "Chile",
+   "awayName": "Colombia",
+   "fifaId": "dj5ammmwqr0w5to4cb8gjlixg"
+  },
+  {
    "kickoff": "2026-11-17T23:30:00Z",
    "date": "2026-11-17",
    "home": "URU",
@@ -15548,39 +15581,6 @@
    "fifaId": "1s0zcuyvx5hbuxen1vevs0ydw"
   },
   {
-   "kickoff": "2026-11-19T00:00:00Z",
-   "date": "2026-11-18",
-   "home": "CHI",
-   "away": "COL",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "Friendlies",
-   "stage": "Friendlies 1",
-   "city": "Santiago",
-   "source": "FIFA",
-   "importance": 5,
-   "knockout": false,
-   "expectedHome": 0.257,
-   "prediction": {
-    "home": {
-     "win": 3.72,
-     "draw": 1.22,
-     "loss": -1.28
-    },
-    "away": {
-     "loss": -3.72,
-     "draw": -1.22,
-     "win": 1.28
-    }
-   },
-   "homeName": "Chile",
-   "awayName": "Colombia",
-   "fifaId": "dj5ammmwqr0w5to4cb8gjlixg"
-  },
-  {
    "kickoff": "2026-12-05T17:30:00Z",
    "date": "2026-12-05",
    "home": "ENG",
@@ -15655,7 +15655,7 @@
    "awayScore": null,
    "homePens": null,
    "awayPens": null,
-   "status": 1,
+   "status": 8,
    "competition": "Friendlies",
    "stage": "Friendlies 1",
    "city": "",
