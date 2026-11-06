@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T02:58:11+00:00",
+ "generatedAt": "2026-11-06T10:25:57+00:00",
  "official": {
   "pubDate": "2026-07-20T10:00:00+00:00",
   "nextPubDate": null,
@@ -11456,39 +11456,6 @@
   },
   {
    "kickoff": "2026-11-13T00:00:00Z",
-   "date": "2026-11-12",
-   "home": "CUW",
-   "away": "PAN",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "Concacaf Nations League",
-   "stage": "Quarter-finals",
-   "city": "Willemstad",
-   "source": "FIFA",
-   "importance": 25,
-   "knockout": false,
-   "expectedHome": 0.341,
-   "prediction": {
-    "home": {
-     "win": 16.48,
-     "draw": 3.98,
-     "loss": -8.52
-    },
-    "away": {
-     "loss": -16.48,
-     "draw": -3.98,
-     "win": 8.52
-    }
-   },
-   "homeName": "Curaçao",
-   "awayName": "Panama",
-   "fifaId": "1dkjfp55yunwobj71lmkfyz9w"
-  },
-  {
-   "kickoff": "2026-11-13T00:00:00Z",
    "date": "2026-11-13",
    "home": "UAE",
    "away": "HON",
@@ -11552,6 +11519,39 @@
    "homeName": "Jordan",
    "awayName": "Indonesia",
    "fifaId": "4d5hhhwye4jk62apqsr9nnod0"
+  },
+  {
+   "kickoff": "2026-11-13T00:30:00Z",
+   "date": "2026-11-12",
+   "home": "CUW",
+   "away": "PAN",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Concacaf Nations League",
+   "stage": "Quarter-finals",
+   "city": "Willemstad",
+   "source": "FIFA",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.341,
+   "prediction": {
+    "home": {
+     "win": 16.48,
+     "draw": 3.98,
+     "loss": -8.52
+    },
+    "away": {
+     "loss": -16.48,
+     "draw": -3.98,
+     "win": 8.52
+    }
+   },
+   "homeName": "Curaçao",
+   "awayName": "Panama",
+   "fifaId": "1dkjfp55yunwobj71lmkfyz9w"
   },
   {
    "kickoff": "2026-11-13T12:00:00Z",
