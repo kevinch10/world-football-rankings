@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T01:57:05+00:00",
+ "generatedAt": "2026-11-08T15:34:40+00:00",
  "official": {
   "pubDate": "2026-07-20T10:00:00+00:00",
   "nextPubDate": null,
@@ -11391,39 +11391,6 @@
   {
    "kickoff": "2026-11-13T00:00:00Z",
    "date": "2026-11-13",
-   "home": "UAE",
-   "away": "HON",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "Friendlies",
-   "stage": "Friendlies 1",
-   "city": "Abu Dhabi",
-   "source": "FIFA",
-   "importance": 10,
-   "knockout": false,
-   "expectedHome": 0.495,
-   "prediction": {
-    "home": {
-     "win": 5.05,
-     "draw": 0.05,
-     "loss": -4.95
-    },
-    "away": {
-     "loss": -5.05,
-     "draw": -0.05,
-     "win": 4.95
-    }
-   },
-   "homeName": "United Arab Emirates",
-   "awayName": "Honduras",
-   "fifaId": "dmheq8096f2v700uqz4rk19g4"
-  },
-  {
-   "kickoff": "2026-11-13T00:00:00Z",
-   "date": "2026-11-13",
    "home": "JOR",
    "away": "IDN",
    "homeScore": null,
@@ -11586,6 +11553,39 @@
    "fifaId": "92ciliiaq22ddhm4j5vbxozdg"
   },
   {
+   "kickoff": "2026-11-13T14:10:00Z",
+   "date": "2026-11-13",
+   "home": "UAE",
+   "away": "HON",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 1",
+   "city": "Abu Dhabi",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.495,
+   "prediction": {
+    "home": {
+     "win": 5.05,
+     "draw": 0.05,
+     "loss": -4.95
+    },
+    "away": {
+     "loss": -5.05,
+     "draw": -0.05,
+     "win": 4.95
+    }
+   },
+   "homeName": "United Arab Emirates",
+   "awayName": "Honduras",
+   "fifaId": "dmheq8096f2v700uqz4rk19g4"
+  },
+  {
    "kickoff": "2026-11-13T14:30:00Z",
    "date": "2026-11-13",
    "home": "KSA",
@@ -11597,7 +11597,7 @@
    "status": 1,
    "competition": "Friendlies",
    "stage": "Friendlies 1",
-   "city": "",
+   "city": "Doha",
    "source": "FIFA",
    "importance": 10,
    "knockout": false,
@@ -11650,6 +11650,39 @@
    "homeName": "Qatar",
    "awayName": "Australia",
    "fifaId": "b350euln40z62ytujdhrsn95g"
+  },
+  {
+   "kickoff": "2026-11-13T15:00:00Z",
+   "date": "2026-11-13",
+   "home": "IRQ",
+   "away": "LBN",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 3",
+   "city": "al-Baṣra (Basra)",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.71,
+   "prediction": {
+    "home": {
+     "win": 2.9,
+     "draw": -2.1,
+     "loss": -7.1
+    },
+    "away": {
+     "loss": -2.9,
+     "draw": 2.1,
+     "win": 7.1
+    }
+   },
+   "homeName": "Iraq",
+   "awayName": "Lebanon",
+   "fifaId": "e93scyuwjicojmiaqenngl4ic"
   },
   {
    "date": "2026-11-13",
@@ -12604,7 +12637,7 @@
    "fifaId": "f1xiwulsj0cnwtavtrhm4wsus"
   },
   {
-   "kickoff": "2026-11-14T16:00:00Z",
+   "kickoff": "2026-11-14T15:00:00Z",
    "date": "2026-11-14",
    "home": "PLE",
    "away": "IRN",
@@ -12615,7 +12648,7 @@
    "status": 1,
    "competition": "Friendlies",
    "stage": "Friendlies 1",
-   "city": "",
+   "city": "al-Baṣra (Basra)",
    "source": "FIFA",
    "importance": 10,
    "knockout": false,
@@ -14337,39 +14370,6 @@
   },
   {
    "kickoff": "2026-11-17T00:00:00Z",
-   "date": "2026-11-17",
-   "home": "UAE",
-   "away": "SYR",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "Friendlies",
-   "stage": "Friendlies 2",
-   "city": "Al-'Ayn (Al Ain)",
-   "source": "FIFA",
-   "importance": 10,
-   "knockout": false,
-   "expectedHome": 0.586,
-   "prediction": {
-    "home": {
-     "win": 4.14,
-     "draw": -0.86,
-     "loss": -5.86
-    },
-    "away": {
-     "loss": -4.14,
-     "draw": 0.86,
-     "win": 5.86
-    }
-   },
-   "homeName": "United Arab Emirates",
-   "awayName": "Syria",
-   "fifaId": "o074x3y1xk8xta1o1wr3d4b8"
-  },
-  {
-   "kickoff": "2026-11-17T00:00:00Z",
    "date": "2026-11-16",
    "home": "TRI",
    "away": "ATG",
@@ -14631,6 +14631,39 @@
    "awayName": "Burkina Faso"
   },
   {
+   "kickoff": "2026-11-17T13:00:00Z",
+   "date": "2026-11-17",
+   "home": "LBN",
+   "away": "PLE",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 3",
+   "city": "al-Baṣra (Basra)",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.421,
+   "prediction": {
+    "home": {
+     "win": 5.79,
+     "draw": 0.79,
+     "loss": -4.21
+    },
+    "away": {
+     "loss": -5.79,
+     "draw": -0.79,
+     "win": 4.21
+    }
+   },
+   "homeName": "Lebanon",
+   "awayName": "Palestine",
+   "fifaId": "e9b5w9ckmoayn2nue7bs5y2hg"
+  },
+  {
    "date": "2026-11-17",
    "kickoff": "2026-11-17T13:00:00Z",
    "home": "LES",
@@ -14791,6 +14824,39 @@
    "homeName": "Qatar",
    "awayName": "Korea Republic",
    "fifaId": "c1i0rne2h4icq3mmv1jnyplas"
+  },
+  {
+   "kickoff": "2026-11-17T14:10:00Z",
+   "date": "2026-11-17",
+   "home": "UAE",
+   "away": "SYR",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 2",
+   "city": "Al-'Ayn (Al Ain)",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.586,
+   "prediction": {
+    "home": {
+     "win": 4.14,
+     "draw": -0.86,
+     "loss": -5.86
+    },
+    "away": {
+     "loss": -4.14,
+     "draw": 0.86,
+     "win": 5.86
+    }
+   },
+   "homeName": "United Arab Emirates",
+   "awayName": "Syria",
+   "fifaId": "o074x3y1xk8xta1o1wr3d4b8"
   },
   {
    "kickoff": "2026-11-17T15:30:00Z",
@@ -14954,6 +15020,39 @@
    },
    "homeName": "Kenya",
    "awayName": "South Africa"
+  },
+  {
+   "kickoff": "2026-11-17T16:15:00Z",
+   "date": "2026-11-17",
+   "home": "IRQ",
+   "away": "IRN",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 1",
+   "city": "al-Baṣra (Basra)",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.323,
+   "prediction": {
+    "home": {
+     "win": 6.77,
+     "draw": 1.77,
+     "loss": -3.23
+    },
+    "away": {
+     "loss": -6.77,
+     "draw": -1.77,
+     "win": 3.23
+    }
+   },
+   "homeName": "Iraq",
+   "awayName": "IR Iran",
+   "fifaId": "44mp1e3xz8jose32hsasfcbv8"
   },
   {
    "date": "2026-11-17",
@@ -18391,7 +18490,7 @@
    "group": "Global",
    "weight": "I=10 · 5 outside windows",
    "results": 75,
-   "fixtures": 40
+   "fixtures": 43
   },
   {
    "name": "FIFA Series™",
