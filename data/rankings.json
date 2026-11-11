@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T12:52:48+00:00",
+ "generatedAt": "2026-11-11T19:56:19+00:00",
  "official": {
   "pubDate": "2026-07-20T10:00:00+00:00",
   "nextPubDate": null,
@@ -1427,8 +1427,8 @@
    "previousRank": 99,
    "aliases": [],
    "liveRank": 99,
-   "livePoints": 1232.72,
-   "pointsChange": 5.52,
+   "livePoints": 1235.06,
+   "pointsChange": 7.86,
    "rankChange": 0
   },
   {
@@ -2527,8 +2527,8 @@
     "Taiwan"
    ],
    "liveRank": 176,
-   "livePoints": 923.78,
-   "pointsChange": 0.0,
+   "livePoints": 921.44,
+   "pointsChange": -2.34,
    "rankChange": -2
   },
   {
@@ -3032,6 +3032,28 @@
   }
  ],
  "results": [
+  {
+   "kickoff": "2026-11-11T12:00:00Z",
+   "date": "2026-11-11",
+   "home": "VIE",
+   "away": "TPE",
+   "homeScore": 2,
+   "awayScore": 0,
+   "homePens": null,
+   "awayPens": null,
+   "status": 0,
+   "competition": "Friendlies",
+   "stage": "Friendlies 3",
+   "city": "Nam Định (Nam Dinh)",
+   "source": "FIFA",
+   "counted": true,
+   "importance": 10,
+   "homeDelta": 2.34,
+   "awayDelta": -2.34,
+   "homeName": "Vietnam",
+   "awayName": "Chinese Taipei",
+   "fifaId": "bvn89pbrh91oaq2k7rmgrn28k"
+  },
   {
    "kickoff": "2026-10-07T02:30:00Z",
    "date": "2026-10-06",
@@ -10316,39 +10338,6 @@
    "fifaId": "2ocqcriq7jx27zm8l4rqfxpg4"
   },
   {
-   "kickoff": "2026-11-11T12:00:00Z",
-   "date": "2026-11-11",
-   "home": "VIE",
-   "away": "TPE",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "Friendlies",
-   "stage": "Friendlies 3",
-   "city": "Nam Định (Nam Dinh)",
-   "source": "FIFA",
-   "importance": 10,
-   "knockout": false,
-   "expectedHome": 0.766,
-   "prediction": {
-    "home": {
-     "win": 2.34,
-     "draw": -2.66,
-     "loss": -7.66
-    },
-    "away": {
-     "loss": -2.34,
-     "draw": 2.66,
-     "win": 7.66
-    }
-   },
-   "homeName": "Vietnam",
-   "awayName": "Chinese Taipei",
-   "fifaId": "bvn89pbrh91oaq2k7rmgrn28k"
-  },
-  {
    "date": "2026-11-11",
    "kickoff": "2026-11-11T12:00:00Z",
    "home": "CMR",
@@ -11487,7 +11476,7 @@
    "fifaId": "92ciliiaq22ddhm4j5vbxozdg"
   },
   {
-   "kickoff": "2026-11-13T14:10:00Z",
+   "kickoff": "2026-11-13T14:15:00Z",
    "date": "2026-11-13",
    "home": "UAE",
    "away": "HON",
@@ -12406,6 +12395,39 @@
    "fifaId": "1e1f80549k7zyf4gukmhzu710"
   },
   {
+   "kickoff": "2026-11-14T05:30:00Z",
+   "date": "2026-11-13",
+   "home": "TAH",
+   "away": "COK",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 3",
+   "city": "Faa'a",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.628,
+   "prediction": {
+    "home": {
+     "win": 3.72,
+     "draw": -1.28,
+     "loss": -6.28
+    },
+    "away": {
+     "loss": -3.72,
+     "draw": 1.28,
+     "win": 6.28
+    }
+   },
+   "homeName": "Tahiti",
+   "awayName": "Cook Islands",
+   "fifaId": "buzlt1c71kuvz1nbkpt6c7h1w"
+  },
+  {
    "kickoff": "2026-11-14T06:00:00Z",
    "date": "2026-11-14",
    "home": "BHR",
@@ -12520,17 +12542,17 @@
    "source": "FIFA",
    "importance": 10,
    "knockout": false,
-   "expectedHome": 0.257,
+   "expectedHome": 0.256,
    "prediction": {
     "home": {
-     "win": 7.43,
-     "draw": 2.43,
-     "loss": -2.57
+     "win": 7.44,
+     "draw": 2.44,
+     "loss": -2.56
     },
     "away": {
-     "loss": -7.43,
-     "draw": -2.43,
-     "win": 2.57
+     "loss": -7.44,
+     "draw": -2.44,
+     "win": 2.56
     }
    },
    "homeName": "Chinese Taipei",
@@ -13039,7 +13061,7 @@
    "awayScore": null,
    "homePens": null,
    "awayPens": null,
-   "city": "",
+   "city": "Brazzaville",
    "status": 1,
    "competition": "CAF Africa Cup of Nations Qualifiers",
    "stage": "Group stage",
@@ -13071,7 +13093,7 @@
    "awayScore": null,
    "homePens": null,
    "awayPens": null,
-   "city": "",
+   "city": "Gaborone (Botswana)",
    "status": 1,
    "competition": "CAF Africa Cup of Nations Qualifiers",
    "stage": "Group stage",
@@ -13103,7 +13125,7 @@
    "awayScore": null,
    "homePens": null,
    "awayPens": null,
-   "city": "",
+   "city": "Gaborone",
    "status": 1,
    "competition": "CAF Africa Cup of Nations Qualifiers",
    "stage": "Group stage",
@@ -13135,7 +13157,7 @@
    "awayScore": null,
    "homePens": null,
    "awayPens": null,
-   "city": "",
+   "city": "Tripoli",
    "status": 1,
    "competition": "CAF Africa Cup of Nations Qualifiers",
    "stage": "Group stage",
@@ -13167,7 +13189,7 @@
    "awayScore": null,
    "homePens": null,
    "awayPens": null,
-   "city": "",
+   "city": "Bujumbura",
    "status": 1,
    "competition": "CAF Africa Cup of Nations Qualifiers",
    "stage": "Group stage",
@@ -13199,7 +13221,7 @@
    "awayScore": null,
    "homePens": null,
    "awayPens": null,
-   "city": "",
+   "city": "Bahir Dar",
    "status": 1,
    "competition": "CAF Africa Cup of Nations Qualifiers",
    "stage": "Group stage",
@@ -13231,7 +13253,7 @@
    "awayScore": null,
    "homePens": null,
    "awayPens": null,
-   "city": "",
+   "city": "Juba (South Sudan)",
    "status": 1,
    "competition": "CAF Africa Cup of Nations Qualifiers",
    "stage": "Group stage",
@@ -13263,7 +13285,7 @@
    "awayScore": null,
    "homePens": null,
    "awayPens": null,
-   "city": "",
+   "city": "Paynesville",
    "status": 1,
    "competition": "CAF Africa Cup of Nations Qualifiers",
    "stage": "Group stage",
@@ -13295,7 +13317,7 @@
    "awayScore": null,
    "homePens": null,
    "awayPens": null,
-   "city": "",
+   "city": "Kigali",
    "status": 1,
    "competition": "CAF Africa Cup of Nations Qualifiers",
    "stage": "Group stage",
@@ -13327,7 +13349,7 @@
    "awayScore": null,
    "homePens": null,
    "awayPens": null,
-   "city": "",
+   "city": "Bissau",
    "status": 1,
    "competition": "CAF Africa Cup of Nations Qualifiers",
    "stage": "Group stage",
@@ -13359,7 +13381,7 @@
    "awayScore": null,
    "homePens": null,
    "awayPens": null,
-   "city": "",
+   "city": "Zanzibar City",
    "status": 1,
    "competition": "CAF Africa Cup of Nations Qualifiers",
    "stage": "Group stage",
@@ -13513,6 +13535,39 @@
    "homeName": "Finland",
    "awayName": "San Marino",
    "fifaId": "1npnii4tn6hh1pu68iqkdx8gk"
+  },
+  {
+   "kickoff": "2026-11-15T17:00:00Z",
+   "date": "2026-11-15",
+   "home": "SUR",
+   "away": "SWZ",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 2",
+   "city": "'s-Hertogenbosch",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.648,
+   "prediction": {
+    "home": {
+     "win": 3.52,
+     "draw": -1.48,
+     "loss": -6.48
+    },
+    "away": {
+     "loss": -3.52,
+     "draw": 1.48,
+     "win": 6.48
+    }
+   },
+   "homeName": "Suriname",
+   "awayName": "Eswatini",
+   "fifaId": "4aafdkfmw67m6ovxjwdfzk55g"
   },
   {
    "kickoff": "2026-11-15T19:45:00Z",
@@ -13688,7 +13743,7 @@
    "awayScore": null,
    "homePens": null,
    "awayPens": null,
-   "city": "",
+   "city": "Douala (Cameroon)",
    "status": 1,
    "competition": "CAF Africa Cup of Nations Qualifiers",
    "stage": "Group stage",
@@ -14238,39 +14293,6 @@
   },
   {
    "kickoff": "2026-11-17T00:00:00Z",
-   "date": "2026-11-16",
-   "home": "ARG",
-   "away": "CRC",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "Friendlies",
-   "stage": "Friendlies 1",
-   "city": "Córdoba",
-   "source": "FIFA",
-   "importance": 10,
-   "knockout": false,
-   "expectedHome": 0.884,
-   "prediction": {
-    "home": {
-     "win": 1.16,
-     "draw": -3.84,
-     "loss": -8.84
-    },
-    "away": {
-     "loss": -1.16,
-     "draw": 3.84,
-     "win": 8.84
-    }
-   },
-   "homeName": "Argentina",
-   "awayName": "Costa Rica",
-   "fifaId": "9yd9bddl6u73abqzdhqtc9ij8"
-  },
-  {
-   "kickoff": "2026-11-17T00:00:00Z",
    "date": "2026-11-17",
    "home": "KUW",
    "away": "HON",
@@ -14367,6 +14389,39 @@
    "homeName": "Canada",
    "awayName": "Guatemala",
    "fifaId": "1fhbxm7lp25nc2p4l9l3wh34k"
+  },
+  {
+   "kickoff": "2026-11-17T05:30:00Z",
+   "date": "2026-11-16",
+   "home": "TAH",
+   "away": "COK",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 3",
+   "city": "Faa'a",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.628,
+   "prediction": {
+    "home": {
+     "win": 3.72,
+     "draw": -1.28,
+     "loss": -6.28
+    },
+    "away": {
+     "loss": -3.72,
+     "draw": 1.28,
+     "win": 6.28
+    }
+   },
+   "homeName": "Tahiti",
+   "awayName": "Cook Islands",
+   "fifaId": "bv7kpy9o5uieh65il2spux7h0"
   },
   {
    "kickoff": "2026-11-17T06:00:00Z",
@@ -14483,17 +14538,17 @@
    "source": "FIFA",
    "importance": 10,
    "knockout": false,
-   "expectedHome": 0.468,
+   "expectedHome": 0.466,
    "prediction": {
     "home": {
-     "win": 5.32,
-     "draw": 0.32,
-     "loss": -4.68
+     "win": 5.34,
+     "draw": 0.34,
+     "loss": -4.66
     },
     "away": {
-     "loss": -5.32,
-     "draw": -0.32,
-     "win": 4.68
+     "loss": -5.34,
+     "draw": -0.34,
+     "win": 4.66
     }
    },
    "homeName": "Kyrgyz Republic",
@@ -14509,7 +14564,7 @@
    "awayScore": null,
    "homePens": null,
    "awayPens": null,
-   "city": "",
+   "city": "Nouakchott",
    "status": 1,
    "competition": "CAF Africa Cup of Nations Qualifiers",
    "stage": "Group stage",
@@ -14606,7 +14661,7 @@
    "awayScore": null,
    "homePens": null,
    "awayPens": null,
-   "city": "",
+   "city": "Juba",
    "status": 1,
    "competition": "CAF Africa Cup of Nations Qualifiers",
    "stage": "Group stage",
@@ -14738,7 +14793,7 @@
    "awayPens": null,
    "status": 1,
    "competition": "Friendlies",
-   "stage": "Friendlies 2",
+   "stage": "Friendlies 1",
    "city": "Al-'Ayn (Al Ain)",
    "source": "FIFA",
    "importance": 10,
@@ -15381,6 +15436,39 @@
    },
    "homeName": "Niger",
    "awayName": "Morocco"
+  },
+  {
+   "kickoff": "2026-11-17T23:00:00Z",
+   "date": "2026-11-17",
+   "home": "ARG",
+   "away": "CRC",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 1",
+   "city": "Córdoba",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.884,
+   "prediction": {
+    "home": {
+     "win": 1.16,
+     "draw": -3.84,
+     "loss": -8.84
+    },
+    "away": {
+     "loss": -1.16,
+     "draw": 3.84,
+     "win": 8.84
+    }
+   },
+   "homeName": "Argentina",
+   "awayName": "Costa Rica",
+   "fifaId": "9yd9bddl6u73abqzdhqtc9ij8"
   },
   {
    "kickoff": "2026-11-17T23:00:00Z",
@@ -16058,17 +16146,17 @@
    "source": "FIFA",
    "importance": 35,
    "knockout": false,
-   "expectedHome": 0.629,
+   "expectedHome": 0.627,
    "prediction": {
     "home": {
-     "win": 12.98,
-     "draw": -4.52,
-     "loss": -22.02
+     "win": 13.06,
+     "draw": -4.44,
+     "loss": -21.94
     },
     "away": {
-     "loss": -12.98,
-     "draw": 4.52,
-     "win": 22.02
+     "loss": -13.06,
+     "draw": 4.44,
+     "win": 21.94
     }
    },
    "homeName": "United Arab Emirates",
@@ -16355,17 +16443,17 @@
    "source": "FIFA",
    "importance": 35,
    "knockout": false,
-   "expectedHome": 0.22,
+   "expectedHome": 0.222,
    "prediction": {
     "home": {
-     "win": 27.3,
-     "draw": 9.8,
-     "loss": -7.7
+     "win": 27.25,
+     "draw": 9.75,
+     "loss": -7.75
     },
     "away": {
-     "loss": -27.3,
-     "draw": -9.8,
-     "win": 7.7
+     "loss": -27.25,
+     "draw": -9.75,
+     "win": 7.75
     }
    },
    "homeName": "Vietnam",
@@ -16850,17 +16938,17 @@
    "source": "FIFA",
    "importance": 35,
    "knockout": false,
-   "expectedHome": 0.655,
+   "expectedHome": 0.657,
    "prediction": {
     "home": {
-     "win": 12.06,
-     "draw": -5.44,
-     "loss": -22.94
+     "win": 11.99,
+     "draw": -5.51,
+     "loss": -23.01
     },
     "away": {
-     "loss": -12.06,
-     "draw": 5.44,
-     "win": 22.94
+     "loss": -11.99,
+     "draw": 5.51,
+     "win": 23.01
     }
    },
    "homeName": "Vietnam",
@@ -18423,8 +18511,8 @@
    "name": "Friendlies",
    "group": "Global",
    "weight": "I=10 · 5 outside windows",
-   "results": 75,
-   "fixtures": 43
+   "results": 76,
+   "fixtures": 45
   },
   {
    "name": "FIFA Series™",
