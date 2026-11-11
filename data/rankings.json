@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T19:05:14+00:00",
+ "generatedAt": "2026-11-11T05:28:07+00:00",
  "official": {
   "pubDate": "2026-07-20T10:00:00+00:00",
   "nextPubDate": null,
@@ -10283,39 +10283,6 @@
  ],
  "fixtures": [
   {
-   "kickoff": "2026-11-10T00:00:00Z",
-   "date": "2026-11-10",
-   "home": "BHU",
-   "away": "BAN",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "SAFF Championship",
-   "stage": "Group Stage",
-   "city": "Dhaka",
-   "source": "FIFA",
-   "importance": 10,
-   "knockout": false,
-   "expectedHome": 0.478,
-   "prediction": {
-    "home": {
-     "win": 5.22,
-     "draw": 0.22,
-     "loss": -4.78
-    },
-    "away": {
-     "loss": -5.22,
-     "draw": -0.22,
-     "win": 4.78
-    }
-   },
-   "homeName": "Bhutan",
-   "awayName": "Bangladesh",
-   "fifaId": "7yuypdr28ajyswnzzzrpnmdw"
-  },
-  {
    "kickoff": "2026-11-11T00:00:00Z",
    "date": "2026-11-11",
    "home": "MDV",
@@ -18618,7 +18585,7 @@
    "group": "AFC",
    "weight": "I=10 · 5 outside windows",
    "results": 0,
-   "fixtures": 2
+   "fixtures": 1
   },
   {
    "name": "EAFF E-1 Championship",
