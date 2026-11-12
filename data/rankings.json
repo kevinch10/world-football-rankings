@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T08:59:19+00:00",
+ "generatedAt": "2026-11-12T17:25:34+00:00",
  "official": {
   "pubDate": "2026-07-20T10:00:00+00:00",
   "nextPubDate": null,
@@ -511,8 +511,8 @@
    "previousRank": 35,
    "aliases": [],
    "liveRank": 35,
-   "livePoints": 1537.44,
-   "pointsChange": 7.84,
+   "livePoints": 1541.31,
+   "pointsChange": 11.71,
    "rankChange": 0
   },
   {
@@ -848,20 +848,6 @@
    "rankChange": -6
   },
   {
-   "id": "44005",
-   "code": "UZB",
-   "name": "Uzbekistan",
-   "confed": "AFC",
-   "officialRank": 60,
-   "officialPoints": 1409.73,
-   "previousRank": 50,
-   "aliases": [],
-   "liveRank": 59,
-   "livePoints": 1416.61,
-   "pointsChange": 6.88,
-   "rankChange": 1
-  },
-  {
    "id": "43888",
    "code": "TUN",
    "name": "Tunisia",
@@ -870,10 +856,24 @@
    "officialPoints": 1426.58,
    "previousRank": 45,
    "aliases": [],
-   "liveRank": 60,
+   "liveRank": 59,
    "livePoints": 1415.38,
    "pointsChange": -11.2,
-   "rankChange": -3
+   "rankChange": -2
+  },
+  {
+   "id": "44005",
+   "code": "UZB",
+   "name": "Uzbekistan",
+   "confed": "AFC",
+   "officialRank": 60,
+   "officialPoints": 1409.73,
+   "previousRank": 50,
+   "aliases": [],
+   "liveRank": 60,
+   "livePoints": 1412.75,
+   "pointsChange": 3.02,
+   "rankChange": 0
   },
   {
    "id": "43834",
@@ -992,20 +992,6 @@
    "rankChange": 0
   },
   {
-   "id": "43910",
-   "code": "JAM",
-   "name": "Jamaica",
-   "confed": "CONCACAF",
-   "officialRank": 71,
-   "officialPoints": 1357.84,
-   "previousRank": 71,
-   "aliases": [],
-   "liveRank": 69,
-   "livePoints": 1361.97,
-   "pointsChange": 4.13,
-   "rankChange": 2
-  },
-  {
    "id": "43860",
    "code": "GHA",
    "name": "Ghana",
@@ -1014,10 +1000,24 @@
    "officialPoints": 1387.0,
    "previousRank": 73,
    "aliases": [],
+   "liveRank": 69,
+   "livePoints": 1364.17,
+   "pointsChange": -22.83,
+   "rankChange": -4
+  },
+  {
+   "id": "43910",
+   "code": "JAM",
+   "name": "Jamaica",
+   "confed": "CONCACAF",
+   "officialRank": 71,
+   "officialPoints": 1357.84,
+   "previousRank": 71,
+   "aliases": [],
    "liveRank": 70,
-   "livePoints": 1361.27,
-   "pointsChange": -25.73,
-   "rankChange": -5
+   "livePoints": 1361.97,
+   "pointsChange": 4.13,
+   "rankChange": 1
   },
   {
    "id": "44000",
@@ -2858,20 +2858,6 @@
    "rankChange": 1
   },
   {
-   "id": "43882",
-   "code": "SOM",
-   "name": "Somalia",
-   "confed": "CAF",
-   "officialRank": 199,
-   "officialPoints": 839.17,
-   "previousRank": 199,
-   "aliases": [],
-   "liveRank": 200,
-   "livePoints": 832.14,
-   "pointsChange": -7.03,
-   "rankChange": -1
-  },
-  {
    "id": "1941613",
    "code": "GIB",
    "name": "Gibraltar",
@@ -2880,10 +2866,24 @@
    "officialPoints": 820.26,
    "previousRank": 202,
    "aliases": [],
-   "liveRank": 201,
+   "liveRank": 200,
    "livePoints": 829.49,
    "pointsChange": 9.23,
-   "rankChange": 1
+   "rankChange": 2
+  },
+  {
+   "id": "43882",
+   "code": "SOM",
+   "name": "Somalia",
+   "confed": "CAF",
+   "officialRank": 199,
+   "officialPoints": 839.17,
+   "previousRank": 199,
+   "aliases": [],
+   "liveRank": 201,
+   "livePoints": 829.24,
+   "pointsChange": -9.93,
+   "rankChange": -2
   },
   {
    "id": "1890334",
@@ -3032,6 +3032,148 @@
   }
  ],
  "results": [
+  {
+   "kickoff": "2026-11-12T17:00:00Z",
+   "date": "2026-11-12",
+   "home": "LTU",
+   "away": "SUR",
+   "homeScore": 0,
+   "awayScore": 0,
+   "homePens": null,
+   "awayPens": null,
+   "status": 3,
+   "competition": "Friendlies",
+   "stage": "Friendlies 2",
+   "city": "Kaunas",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.425,
+   "prediction": {
+    "home": {
+     "win": 5.75,
+     "draw": 0.75,
+     "loss": -4.25
+    },
+    "away": {
+     "loss": -5.75,
+     "draw": -0.75,
+     "win": 4.25
+    }
+   },
+   "homeName": "Lithuania",
+   "awayName": "Suriname",
+   "fifaId": "8cx0tzduzu5mzs9ch2xhx0sno"
+  },
+  {
+   "kickoff": "2026-11-12T17:00:00Z",
+   "date": "2026-11-12",
+   "home": "ARM",
+   "away": "CYP",
+   "homeScore": 0,
+   "awayScore": 1,
+   "homePens": null,
+   "awayPens": null,
+   "status": 3,
+   "competition": "UEFA Nations League",
+   "stage": "League C",
+   "city": "Yerevan",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.539,
+   "prediction": {
+    "home": {
+     "win": 6.91,
+     "draw": -0.59,
+     "loss": -8.09
+    },
+    "away": {
+     "loss": -6.91,
+     "draw": 0.59,
+     "win": 8.09
+    }
+   },
+   "homeName": "Armenia",
+   "awayName": "Cyprus",
+   "fifaId": "1hfb507bu2677jwssrzjqobh0"
+  },
+  {
+   "kickoff": "2026-11-12T17:00:00Z",
+   "date": "2026-11-12",
+   "home": "TUR",
+   "away": "BEL",
+   "homeScore": 1,
+   "awayScore": 0,
+   "homePens": null,
+   "awayPens": null,
+   "status": 3,
+   "competition": "UEFA Nations League",
+   "stage": "League A",
+   "city": "İzmir",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.304,
+   "prediction": {
+    "home": {
+     "win": 10.44,
+     "draw": 2.94,
+     "loss": -4.56
+    },
+    "away": {
+     "loss": -10.44,
+     "draw": -2.94,
+     "win": 4.56
+    }
+   },
+   "homeName": "Türkiye",
+   "awayName": "Belgium",
+   "fifaId": "7cmhkeym2i0pvl8m8t1zzmihg"
+  },
+  {
+   "date": "2026-11-12",
+   "kickoff": "2026-11-12T15:00:00Z",
+   "home": "GHA",
+   "away": "SOM",
+   "homeScore": 2,
+   "awayScore": 0,
+   "homePens": null,
+   "awayPens": null,
+   "city": "Essipong",
+   "status": 0,
+   "competition": "CAF Africa Cup of Nations Qualifiers",
+   "stage": "Group stage",
+   "source": "Wikipedia",
+   "counted": true,
+   "importance": 25,
+   "homeDelta": 2.9,
+   "awayDelta": -2.9,
+   "homeName": "Ghana",
+   "awayName": "Somalia"
+  },
+  {
+   "kickoff": "2026-11-12T15:00:00Z",
+   "date": "2026-11-12",
+   "home": "UZB",
+   "away": "RUS",
+   "homeScore": 2,
+   "awayScore": 3,
+   "homePens": null,
+   "awayPens": null,
+   "status": 0,
+   "competition": "Friendlies",
+   "stage": "Friendlies 1",
+   "city": "Tashkent",
+   "source": "FIFA",
+   "counted": true,
+   "importance": 10,
+   "homeDelta": -3.86,
+   "awayDelta": 3.86,
+   "homeName": "Uzbekistan",
+   "awayName": "Russia",
+   "fifaId": "75m4a2n1ly7f0jdniu5ej1gr8"
+  },
   {
    "kickoff": "2026-11-12T06:10:00Z",
    "date": "2026-11-12",
@@ -10359,69 +10501,36 @@
    "awayName": "Central African Republic"
   },
   {
-   "kickoff": "2026-11-12T15:00:00Z",
    "date": "2026-11-12",
-   "home": "UZB",
-   "away": "RUS",
+   "kickoff": "2026-11-12T12:00:00Z",
+   "home": "MAD",
+   "away": "GNB",
    "homeScore": null,
    "awayScore": null,
    "homePens": null,
    "awayPens": null,
-   "status": 1,
-   "competition": "Friendlies",
-   "stage": "Friendlies 1",
-   "city": "Tashkent",
-   "source": "FIFA",
-   "importance": 10,
-   "knockout": false,
-   "expectedHome": 0.386,
-   "prediction": {
-    "home": {
-     "win": 6.14,
-     "draw": 1.14,
-     "loss": -3.86
-    },
-    "away": {
-     "loss": -6.14,
-     "draw": -1.14,
-     "win": 3.86
-    }
-   },
-   "homeName": "Uzbekistan",
-   "awayName": "Russia",
-   "fifaId": "75m4a2n1ly7f0jdniu5ej1gr8"
-  },
-  {
-   "date": "2026-11-12",
-   "kickoff": "2026-11-12T15:00:00Z",
-   "home": "GHA",
-   "away": "SOM",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "city": "Essipong",
+   "city": "Meknes (Morocco)",
    "status": 1,
    "competition": "CAF Africa Cup of Nations Qualifiers",
    "stage": "Group stage",
    "source": "Wikipedia",
    "importance": 25,
    "knockout": false,
-   "expectedHome": 0.884,
+   "expectedHome": 0.551,
    "prediction": {
     "home": {
-     "win": 2.9,
-     "draw": -9.6,
-     "loss": -22.1
+     "win": 11.23,
+     "draw": -1.27,
+     "loss": -13.77
     },
     "away": {
-     "loss": -2.9,
-     "draw": 9.6,
-     "win": 22.1
+     "loss": -11.23,
+     "draw": 1.27,
+     "win": 13.77
     }
    },
-   "homeName": "Ghana",
-   "awayName": "Somalia"
+   "homeName": "Madagascar",
+   "awayName": "Guinea-Bissau"
   },
   {
    "date": "2026-11-12",
@@ -10518,105 +10627,6 @@
    },
    "homeName": "Equatorial Guinea",
    "awayName": "Zimbabwe"
-  },
-  {
-   "kickoff": "2026-11-12T17:00:00Z",
-   "date": "2026-11-12",
-   "home": "TUR",
-   "away": "BEL",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "UEFA Nations League",
-   "stage": "League A",
-   "city": "İzmir",
-   "source": "FIFA",
-   "importance": 15,
-   "knockout": false,
-   "expectedHome": 0.304,
-   "prediction": {
-    "home": {
-     "win": 10.44,
-     "draw": 2.94,
-     "loss": -4.56
-    },
-    "away": {
-     "loss": -10.44,
-     "draw": -2.94,
-     "win": 4.56
-    }
-   },
-   "homeName": "Türkiye",
-   "awayName": "Belgium",
-   "fifaId": "7cmhkeym2i0pvl8m8t1zzmihg"
-  },
-  {
-   "kickoff": "2026-11-12T17:00:00Z",
-   "date": "2026-11-12",
-   "home": "ARM",
-   "away": "CYP",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "UEFA Nations League",
-   "stage": "League C",
-   "city": "Yerevan",
-   "source": "FIFA",
-   "importance": 15,
-   "knockout": false,
-   "expectedHome": 0.539,
-   "prediction": {
-    "home": {
-     "win": 6.91,
-     "draw": -0.59,
-     "loss": -8.09
-    },
-    "away": {
-     "loss": -6.91,
-     "draw": 0.59,
-     "win": 8.09
-    }
-   },
-   "homeName": "Armenia",
-   "awayName": "Cyprus",
-   "fifaId": "1hfb507bu2677jwssrzjqobh0"
-  },
-  {
-   "kickoff": "2026-11-12T17:00:00Z",
-   "date": "2026-11-12",
-   "home": "LTU",
-   "away": "SUR",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "Friendlies",
-   "stage": "Friendlies 2",
-   "city": "Kaunas",
-   "source": "FIFA",
-   "importance": 10,
-   "knockout": false,
-   "expectedHome": 0.425,
-   "prediction": {
-    "home": {
-     "win": 5.75,
-     "draw": 0.75,
-     "loss": -4.25
-    },
-    "away": {
-     "loss": -5.75,
-     "draw": -0.75,
-     "win": 4.25
-    }
-   },
-   "homeName": "Lithuania",
-   "awayName": "Suriname",
-   "fifaId": "8cx0tzduzu5mzs9ch2xhx0sno"
   },
   {
    "kickoff": "2026-11-12T17:30:00Z",
@@ -11077,6 +11087,38 @@
    },
    "homeName": "Burkina Faso",
    "awayName": "Mauritania"
+  },
+  {
+   "date": "2026-11-13",
+   "kickoff": "2026-11-13T12:00:00Z",
+   "home": "NGA",
+   "away": "TAN",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "city": "Uyo",
+   "status": 1,
+   "competition": "CAF Africa Cup of Nations Qualifiers",
+   "stage": "Group stage",
+   "source": "Wikipedia",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.823,
+   "prediction": {
+    "home": {
+     "win": 4.42,
+     "draw": -8.08,
+     "loss": -20.58
+    },
+    "away": {
+     "loss": -4.42,
+     "draw": 8.08,
+     "win": 20.58
+    }
+   },
+   "homeName": "Nigeria",
+   "awayName": "Tanzania"
   },
   {
    "kickoff": "2026-11-13T14:00:00Z",
@@ -13516,17 +13558,17 @@
    "source": "Wikipedia",
    "importance": 25,
    "knockout": false,
-   "expectedHome": 0.116,
+   "expectedHome": 0.114,
    "prediction": {
     "home": {
-     "win": 22.1,
-     "draw": 9.6,
-     "loss": -2.9
+     "win": 22.16,
+     "draw": 9.66,
+     "loss": -2.84
     },
     "away": {
-     "loss": -22.1,
-     "draw": -9.6,
-     "win": 2.9
+     "loss": -22.16,
+     "draw": -9.66,
+     "win": 2.84
     }
    },
    "homeName": "Somalia",
@@ -14467,17 +14509,17 @@
    "source": "FIFA",
    "importance": 10,
    "knockout": false,
-   "expectedHome": 0.515,
+   "expectedHome": 0.519,
    "prediction": {
     "home": {
-     "win": 4.85,
-     "draw": -0.15,
-     "loss": -5.15
+     "win": 4.81,
+     "draw": -0.19,
+     "loss": -5.19
     },
     "away": {
-     "loss": -4.85,
-     "draw": 0.15,
-     "win": 5.15
+     "loss": -4.81,
+     "draw": 0.19,
+     "win": 5.19
     }
    },
    "homeName": "Saudi Arabia",
@@ -14533,17 +14575,17 @@
    "source": "FIFA",
    "importance": 10,
    "knockout": false,
-   "expectedHome": 0.568,
+   "expectedHome": 0.572,
    "prediction": {
     "home": {
-     "win": 4.32,
-     "draw": -0.68,
-     "loss": -5.68
+     "win": 4.28,
+     "draw": -0.72,
+     "loss": -5.72
     },
     "away": {
-     "loss": -4.32,
-     "draw": 0.68,
-     "win": 5.68
+     "loss": -4.28,
+     "draw": 0.72,
+     "win": 5.72
     }
    },
    "homeName": "Russia",
@@ -15452,17 +15494,17 @@
    "source": "FIFA",
    "importance": 35,
    "knockout": false,
-   "expectedHome": 0.563,
+   "expectedHome": 0.559,
    "prediction": {
     "home": {
-     "win": 15.3,
-     "draw": -2.2,
-     "loss": -19.7
+     "win": 15.43,
+     "draw": -2.07,
+     "loss": -19.57
     },
     "away": {
-     "loss": -15.3,
-     "draw": 2.2,
-     "win": 19.7
+     "loss": -15.43,
+     "draw": 2.07,
+     "win": 19.57
     }
    },
    "homeName": "Uzbekistan",
@@ -15848,17 +15890,17 @@
    "source": "FIFA",
    "importance": 35,
    "knockout": false,
-   "expectedHome": 0.265,
+   "expectedHome": 0.268,
    "prediction": {
     "home": {
-     "win": 25.72,
-     "draw": 8.22,
-     "loss": -9.28
+     "win": 25.62,
+     "draw": 8.12,
+     "loss": -9.38
     },
     "away": {
-     "loss": -25.72,
-     "draw": -8.22,
-     "win": 9.28
+     "loss": -25.62,
+     "draw": -8.12,
+     "win": 9.38
     }
    },
    "homeName": "DPR Korea",
@@ -16244,17 +16286,17 @@
    "source": "FIFA",
    "importance": 35,
    "knockout": false,
-   "expectedHome": 0.651,
+   "expectedHome": 0.647,
    "prediction": {
     "home": {
-     "win": 12.22,
-     "draw": -5.28,
-     "loss": -22.78
+     "win": 12.34,
+     "draw": -5.16,
+     "loss": -22.66
     },
     "away": {
-     "loss": -12.22,
-     "draw": 5.28,
-     "win": 22.78
+     "loss": -12.34,
+     "draw": 5.16,
+     "win": 22.66
     }
    },
    "homeName": "Uzbekistan",
@@ -16735,17 +16777,17 @@
    "source": "Wikipedia",
    "importance": 25,
    "knockout": false,
-   "expectedHome": 0.31,
+   "expectedHome": 0.313,
    "prediction": {
     "home": {
-     "win": 17.24,
-     "draw": 4.74,
-     "loss": -7.76
+     "win": 17.18,
+     "draw": 4.68,
+     "loss": -7.82
     },
     "away": {
-     "loss": -17.24,
-     "draw": -4.74,
-     "win": 7.76
+     "loss": -17.18,
+     "draw": -4.68,
+     "win": 7.82
     }
    },
    "homeName": "Ghana",
@@ -16767,17 +16809,17 @@
    "source": "Wikipedia",
    "importance": 25,
    "knockout": false,
-   "expectedHome": 0.207,
+   "expectedHome": 0.205,
    "prediction": {
     "home": {
-     "win": 19.83,
-     "draw": 7.33,
-     "loss": -5.17
+     "win": 19.88,
+     "draw": 7.38,
+     "loss": -5.12
     },
     "away": {
-     "loss": -19.83,
-     "draw": -7.33,
-     "win": 5.17
+     "loss": -19.88,
+     "draw": -7.38,
+     "win": 5.12
     }
    },
    "homeName": "Somalia",
@@ -17503,17 +17545,17 @@
    "source": "Wikipedia",
    "importance": 25,
    "knockout": false,
-   "expectedHome": 0.335,
+   "expectedHome": 0.333,
    "prediction": {
     "home": {
-     "win": 16.62,
-     "draw": 4.12,
-     "loss": -8.38
+     "win": 16.69,
+     "draw": 4.19,
+     "loss": -8.31
     },
     "away": {
-     "loss": -16.62,
-     "draw": -4.12,
-     "win": 8.38
+     "loss": -16.69,
+     "draw": -4.19,
+     "win": 8.31
     }
    },
    "homeName": "The Gambia",
@@ -17535,17 +17577,17 @@
    "source": "Wikipedia",
    "importance": 25,
    "knockout": false,
-   "expectedHome": 0.944,
+   "expectedHome": 0.945,
    "prediction": {
     "home": {
-     "win": 1.39,
-     "draw": -11.11,
-     "loss": -23.61
+     "win": 1.38,
+     "draw": -11.12,
+     "loss": -23.62
     },
     "away": {
-     "loss": -1.39,
-     "draw": 11.11,
-     "win": 23.61
+     "loss": -1.38,
+     "draw": 11.12,
+     "win": 23.62
     }
    },
    "homeName": "Côte d'Ivoire",
@@ -18147,8 +18189,8 @@
    "name": "Friendlies",
    "group": "Global",
    "weight": "I=10 · 5 outside windows",
-   "results": 77,
-   "fixtures": 44
+   "results": 79,
+   "fixtures": 42
   },
   {
    "name": "FIFA Series™",
@@ -18196,8 +18238,8 @@
    "name": "UEFA Nations League",
    "group": "UEFA",
    "weight": "I=15 · 25 play-offs & finals",
-   "results": 104,
-   "fixtures": 52
+   "results": 106,
+   "fixtures": 50
   },
   {
    "name": "Baltic Cup",
@@ -18252,8 +18294,8 @@
    "name": "CAF Africa Cup of Nations Qualifiers",
    "group": "CAF",
    "weight": "I=25",
-   "results": 48,
-   "fixtures": 86
+   "results": 49,
+   "fixtures": 87
   },
   {
    "name": "COSAFA Cup",
