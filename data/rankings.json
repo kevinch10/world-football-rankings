@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T22:48:40+00:00",
+ "generatedAt": "2026-11-13T03:03:35+00:00",
  "official": {
   "pubDate": "2026-07-20T10:00:00+00:00",
   "nextPubDate": null,
@@ -659,20 +659,6 @@
    "rankChange": 0
   },
   {
-   "id": "43914",
-   "code": "PAN",
-   "name": "Panama",
-   "confed": "CONCACAF",
-   "officialRank": 44,
-   "officialPoints": 1478.41,
-   "previousRank": 34,
-   "aliases": [],
-   "liveRank": 46,
-   "livePoints": 1476.97,
-   "pointsChange": -1.44,
-   "rankChange": -2
-  },
-  {
    "id": "43869",
    "code": "MLI",
    "name": "Mali",
@@ -681,10 +667,24 @@
    "officialPoints": 1455.59,
    "previousRank": 55,
    "aliases": [],
-   "liveRank": 47,
+   "liveRank": 46,
    "livePoints": 1474.14,
    "pointsChange": 18.55,
-   "rankChange": 6
+   "rankChange": 7
+  },
+  {
+   "id": "43914",
+   "code": "PAN",
+   "name": "Panama",
+   "confed": "CONCACAF",
+   "officialRank": 44,
+   "officialPoints": 1478.41,
+   "previousRank": 34,
+   "aliases": [],
+   "liveRank": 47,
+   "livePoints": 1472.98,
+   "pointsChange": -5.43,
+   "rankChange": -3
   },
   {
    "id": "43883",
@@ -1159,8 +1159,8 @@
     "Curacao"
    ],
    "liveRank": 80,
-   "livePoints": 1304.97,
-   "pointsChange": 19.33,
+   "livePoints": 1308.96,
+   "pointsChange": 23.32,
    "rankChange": 2
   },
   {
@@ -1474,6 +1474,20 @@
    "rankChange": -2
   },
   {
+   "id": "43920",
+   "code": "TRI",
+   "name": "Trinidad and Tobago",
+   "confed": "CONCACAF",
+   "officialRank": 102,
+   "officialPoints": 1219.59,
+   "previousRank": 102,
+   "aliases": [],
+   "liveRank": 103,
+   "livePoints": 1203.53,
+   "pointsChange": -16.06,
+   "rankChange": -1
+  },
+  {
    "id": "43999",
    "code": "KGZ",
    "name": "Kyrgyz Republic",
@@ -1484,24 +1498,10 @@
    "aliases": [
     "Kyrgyzstan"
    ],
-   "liveRank": 103,
+   "liveRank": 104,
    "livePoints": 1199.74,
    "pointsChange": 7.58,
-   "rankChange": 3
-  },
-  {
-   "id": "43920",
-   "code": "TRI",
-   "name": "Trinidad and Tobago",
-   "confed": "CONCACAF",
-   "officialRank": 102,
-   "officialPoints": 1219.59,
-   "previousRank": 102,
-   "aliases": [],
-   "liveRank": 104,
-   "livePoints": 1198.86,
-   "pointsChange": -20.73,
-   "rankChange": -2
+   "rankChange": 2
   },
   {
    "id": "43856",
@@ -2313,20 +2313,6 @@
    "rankChange": -1
   },
   {
-   "id": "1882218",
-   "code": "ATG",
-   "name": "Antigua and Barbuda",
-   "confed": "CONCACAF",
-   "officialRank": 162,
-   "officialPoints": 986.58,
-   "previousRank": 162,
-   "aliases": [],
-   "liveRank": 162,
-   "livePoints": 992.54,
-   "pointsChange": 5.96,
-   "rankChange": 0
-  },
-  {
    "id": "43902",
    "code": "CUB",
    "name": "Cuba",
@@ -2335,10 +2321,24 @@
    "officialPoints": 981.42,
    "previousRank": 164,
    "aliases": [],
-   "liveRank": 163,
+   "liveRank": 162,
    "livePoints": 990.45,
    "pointsChange": 9.03,
-   "rankChange": 1
+   "rankChange": 2
+  },
+  {
+   "id": "1882218",
+   "code": "ATG",
+   "name": "Antigua and Barbuda",
+   "confed": "CONCACAF",
+   "officialRank": 162,
+   "officialPoints": 986.58,
+   "previousRank": 162,
+   "aliases": [],
+   "liveRank": 163,
+   "livePoints": 987.86,
+   "pointsChange": 1.28,
+   "rankChange": -1
   },
   {
    "id": "43885",
@@ -3032,6 +3032,50 @@
   }
  ],
  "results": [
+  {
+   "kickoff": "2026-11-13T00:30:00Z",
+   "date": "2026-11-12",
+   "home": "CUW",
+   "away": "PAN",
+   "homeScore": 0,
+   "awayScore": 0,
+   "homePens": null,
+   "awayPens": null,
+   "status": 0,
+   "competition": "Concacaf Nations League",
+   "stage": "Quarter-finals",
+   "city": "Willemstad",
+   "source": "FIFA",
+   "counted": true,
+   "importance": 25,
+   "homeDelta": 3.98,
+   "awayDelta": -3.98,
+   "homeName": "Curaçao",
+   "awayName": "Panama",
+   "fifaId": "1dkjfp55yunwobj71lmkfyz9w"
+  },
+  {
+   "kickoff": "2026-11-12T23:00:00Z",
+   "date": "2026-11-12",
+   "home": "ATG",
+   "away": "TRI",
+   "homeScore": 2,
+   "awayScore": 3,
+   "homePens": null,
+   "awayPens": null,
+   "status": 0,
+   "competition": "Concacaf Nations League",
+   "stage": "Play-In Round",
+   "city": "North Sound",
+   "source": "FIFA",
+   "counted": true,
+   "importance": 15,
+   "homeDelta": -4.68,
+   "awayDelta": 4.68,
+   "homeName": "Antigua and Barbuda",
+   "awayName": "Trinidad and Tobago",
+   "fifaId": "1prn3dspg4iqvtt48rh7owufo"
+  },
   {
    "date": "2026-11-12",
    "kickoff": "2026-11-12T20:00:00Z",
@@ -10780,39 +10824,6 @@
  ],
  "fixtures": [
   {
-   "kickoff": "2026-11-12T23:00:00Z",
-   "date": "2026-11-12",
-   "home": "ATG",
-   "away": "TRI",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "Concacaf Nations League",
-   "stage": "Play-In Round",
-   "city": "North Sound",
-   "source": "FIFA",
-   "importance": 15,
-   "knockout": false,
-   "expectedHome": 0.312,
-   "prediction": {
-    "home": {
-     "win": 10.32,
-     "draw": 2.82,
-     "loss": -4.68
-    },
-    "away": {
-     "loss": -10.32,
-     "draw": -2.82,
-     "win": 4.68
-    }
-   },
-   "homeName": "Antigua and Barbuda",
-   "awayName": "Trinidad and Tobago",
-   "fifaId": "1prn3dspg4iqvtt48rh7owufo"
-  },
-  {
    "kickoff": "2026-11-13T00:00:00Z",
    "date": "2026-11-13",
    "home": "JOR",
@@ -10844,39 +10855,6 @@
    "homeName": "Jordan",
    "awayName": "Indonesia",
    "fifaId": "4d5hhhwye4jk62apqsr9nnod0"
-  },
-  {
-   "kickoff": "2026-11-13T00:30:00Z",
-   "date": "2026-11-12",
-   "home": "CUW",
-   "away": "PAN",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "Concacaf Nations League",
-   "stage": "Quarter-finals",
-   "city": "Willemstad",
-   "source": "FIFA",
-   "importance": 25,
-   "knockout": false,
-   "expectedHome": 0.341,
-   "prediction": {
-    "home": {
-     "win": 16.48,
-     "draw": 3.98,
-     "loss": -8.52
-    },
-    "away": {
-     "loss": -16.48,
-     "draw": -3.98,
-     "win": 8.52
-    }
-   },
-   "homeName": "Curaçao",
-   "awayName": "Panama",
-   "fifaId": "1dkjfp55yunwobj71lmkfyz9w"
   },
   {
    "kickoff": "2026-11-13T12:00:00Z",
@@ -10942,6 +10920,134 @@
    },
    "homeName": "Burkina Faso",
    "awayName": "Mauritania"
+  },
+  {
+   "date": "2026-11-13",
+   "kickoff": "2026-11-13T12:00:00Z",
+   "home": "COM",
+   "away": "CGO",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "city": "Iconi",
+   "status": 1,
+   "competition": "CAF Africa Cup of Nations Qualifiers",
+   "stage": "Group stage",
+   "source": "Wikipedia",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.585,
+   "prediction": {
+    "home": {
+     "win": 10.37,
+     "draw": -2.13,
+     "loss": -14.63
+    },
+    "away": {
+     "loss": -10.37,
+     "draw": 2.13,
+     "win": 14.63
+    }
+   },
+   "homeName": "Comoros",
+   "awayName": "Congo"
+  },
+  {
+   "date": "2026-11-13",
+   "kickoff": "2026-11-13T12:00:00Z",
+   "home": "MOZ",
+   "away": "ETH",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "city": "Maputo",
+   "status": 1,
+   "competition": "CAF Africa Cup of Nations Qualifiers",
+   "stage": "Group stage",
+   "source": "Wikipedia",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.664,
+   "prediction": {
+    "home": {
+     "win": 8.41,
+     "draw": -4.09,
+     "loss": -16.59
+    },
+    "away": {
+     "loss": -8.41,
+     "draw": 4.09,
+     "win": 16.59
+    }
+   },
+   "homeName": "Mozambique",
+   "awayName": "Ethiopia"
+  },
+  {
+   "date": "2026-11-13",
+   "kickoff": "2026-11-13T12:00:00Z",
+   "home": "CPV",
+   "away": "LBR",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "city": "Praia",
+   "status": 1,
+   "competition": "CAF Africa Cup of Nations Qualifiers",
+   "stage": "Group stage",
+   "source": "Wikipedia",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.766,
+   "prediction": {
+    "home": {
+     "win": 5.85,
+     "draw": -6.65,
+     "loss": -19.15
+    },
+    "away": {
+     "loss": -5.85,
+     "draw": 6.65,
+     "win": 19.15
+    }
+   },
+   "homeName": "Cabo Verde",
+   "awayName": "Liberia"
+  },
+  {
+   "date": "2026-11-13",
+   "kickoff": "2026-11-13T12:00:00Z",
+   "home": "MLI",
+   "away": "RWA",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "city": "Bamako",
+   "status": 1,
+   "competition": "CAF Africa Cup of Nations Qualifiers",
+   "stage": "Group stage",
+   "source": "Wikipedia",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.772,
+   "prediction": {
+    "home": {
+     "win": 5.7,
+     "draw": -6.8,
+     "loss": -19.3
+    },
+    "away": {
+     "loss": -5.7,
+     "draw": 6.8,
+     "win": 19.3
+    }
+   },
+   "homeName": "Mali",
+   "awayName": "Rwanda"
   },
   {
    "date": "2026-11-13",
@@ -13250,17 +13356,17 @@
    "source": "FIFA",
    "importance": 25,
    "knockout": false,
-   "expectedHome": 0.659,
+   "expectedHome": 0.652,
    "prediction": {
     "home": {
-     "win": 8.52,
-     "draw": -3.98,
-     "loss": -16.48
+     "win": 8.69,
+     "draw": -3.81,
+     "loss": -16.31
     },
     "away": {
-     "loss": -8.52,
-     "draw": 3.98,
-     "win": 16.48
+     "loss": -8.69,
+     "draw": 3.81,
+     "win": 16.31
     }
    },
    "homeName": "Panama",
@@ -13873,17 +13979,17 @@
    "source": "FIFA",
    "importance": 15,
    "knockout": false,
-   "expectedHome": 0.688,
+   "expectedHome": 0.696,
    "prediction": {
     "home": {
-     "win": 4.68,
-     "draw": -2.82,
-     "loss": -10.32
+     "win": 4.56,
+     "draw": -2.94,
+     "loss": -10.44
     },
     "away": {
-     "loss": -4.68,
-     "draw": 2.82,
-     "win": 10.32
+     "loss": -4.56,
+     "draw": 2.94,
+     "win": 10.44
     }
    },
    "homeName": "Trinidad and Tobago",
@@ -18128,8 +18234,8 @@
    "name": "Concacaf Nations League",
    "group": "CONCACAF",
    "weight": "I=15 · 25 finals",
-   "results": 52,
-   "fixtures": 20
+   "results": 54,
+   "fixtures": 18
   },
   {
    "name": "Concacaf Series",
@@ -18150,7 +18256,7 @@
    "group": "CAF",
    "weight": "I=25",
    "results": 57,
-   "fixtures": 81
+   "fixtures": 85
   },
   {
    "name": "COSAFA Cup",
