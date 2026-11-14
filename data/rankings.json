@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T16:48:17+00:00",
+ "generatedAt": "2026-11-14T21:00:35+00:00",
  "official": {
   "pubDate": "2026-07-20T10:00:00+00:00",
   "nextPubDate": null,
@@ -267,20 +267,6 @@
    "rankChange": 0
   },
   {
-   "id": "43930",
-   "code": "URU",
-   "name": "Uruguay",
-   "confed": "CONMEBOL",
-   "officialRank": 20,
-   "officialPoints": 1634.7,
-   "previousRank": 16,
-   "aliases": [],
-   "liveRank": 19,
-   "livePoints": 1643.38,
-   "pointsChange": 8.68,
-   "rankChange": 1
-  },
-  {
    "id": "43961",
    "code": "NOR",
    "name": "Norway",
@@ -289,10 +275,24 @@
    "officialPoints": 1651.29,
    "previousRank": 31,
    "aliases": [],
+   "liveRank": 19,
+   "livePoints": 1643.59,
+   "pointsChange": -7.7,
+   "rankChange": 0
+  },
+  {
+   "id": "43930",
+   "code": "URU",
+   "name": "Uruguay",
+   "confed": "CONMEBOL",
+   "officialRank": 20,
+   "officialPoints": 1634.7,
+   "previousRank": 16,
+   "aliases": [],
    "liveRank": 20,
-   "livePoints": 1637.89,
-   "pointsChange": -13.4,
-   "rankChange": -1
+   "livePoints": 1643.38,
+   "pointsChange": 8.68,
+   "rankChange": 0
   },
   {
    "id": "43941",
@@ -334,8 +334,8 @@
     "Iran"
    ],
    "liveRank": 23,
-   "livePoints": 1597.32,
-   "pointsChange": -12.53,
+   "livePoints": 1599.43,
+   "pointsChange": -10.42,
    "rankChange": -1
   },
   {
@@ -404,8 +404,8 @@
    "previousRank": 28,
    "aliases": [],
    "liveRank": 28,
-   "livePoints": 1574.77,
-   "pointsChange": -2.03,
+   "livePoints": 1578.91,
+   "pointsChange": 2.11,
    "rankChange": 1
   },
   {
@@ -530,20 +530,6 @@
    "rankChange": -3
   },
   {
-   "id": "43962",
-   "code": "POL",
-   "name": "Poland",
-   "confed": "UEFA",
-   "officialRank": 36,
-   "officialPoints": 1526.18,
-   "previousRank": 36,
-   "aliases": [],
-   "liveRank": 37,
-   "livePoints": 1514.58,
-   "pointsChange": -11.6,
-   "rankChange": -1
-  },
-  {
    "id": "43950",
    "code": "HUN",
    "name": "Hungary",
@@ -552,10 +538,24 @@
    "officialPoints": 1506.39,
    "previousRank": 39,
    "aliases": [],
+   "liveRank": 37,
+   "livePoints": 1516.43,
+   "pointsChange": 10.04,
+   "rankChange": 2
+  },
+  {
+   "id": "43962",
+   "code": "POL",
+   "name": "Poland",
+   "confed": "UEFA",
+   "officialRank": 36,
+   "officialPoints": 1526.18,
+   "previousRank": 36,
+   "aliases": [],
    "liveRank": 38,
-   "livePoints": 1511.23,
-   "pointsChange": 4.84,
-   "rankChange": 1
+   "livePoints": 1514.58,
+   "pointsChange": -11.6,
+   "rankChange": -2
   },
   {
    "id": "43974",
@@ -567,8 +567,8 @@
    "previousRank": 37,
    "aliases": [],
    "liveRank": 39,
-   "livePoints": 1510.37,
-   "pointsChange": -6.58,
+   "livePoints": 1504.67,
+   "pointsChange": -12.28,
    "rankChange": -1
   },
   {
@@ -1048,20 +1048,6 @@
    "rankChange": 1
   },
   {
-   "id": "43947",
-   "code": "GEO",
-   "name": "Georgia",
-   "confed": "UEFA",
-   "officialRank": 72,
-   "officialPoints": 1355.26,
-   "previousRank": 72,
-   "aliases": [],
-   "liveRank": 73,
-   "livePoints": 1345.87,
-   "pointsChange": -9.39,
-   "rankChange": -1
-  },
-  {
    "id": "44000",
    "code": "MKD",
    "name": "North Macedonia",
@@ -1072,10 +1058,24 @@
    "aliases": [
     "Macedonia"
    ],
-   "liveRank": 74,
+   "liveRank": 73,
    "livePoints": 1345.28,
    "pointsChange": -23.88,
-   "rankChange": -5
+   "rankChange": -4
+  },
+  {
+   "id": "43947",
+   "code": "GEO",
+   "name": "Georgia",
+   "confed": "UEFA",
+   "officialRank": 72,
+   "officialPoints": 1355.26,
+   "previousRank": 72,
+   "aliases": [],
+   "liveRank": 74,
+   "livePoints": 1340.68,
+   "pointsChange": -14.58,
+   "rankChange": -2
   },
   {
    "id": "43945",
@@ -1215,8 +1215,8 @@
    "previousRank": 89,
    "aliases": [],
    "liveRank": 84,
-   "livePoints": 1287.27,
-   "pointsChange": 23.18,
+   "livePoints": 1282.34,
+   "pointsChange": 18.25,
    "rankChange": 5
   },
   {
@@ -1341,8 +1341,8 @@
    "previousRank": 95,
    "aliases": [],
    "liveRank": 93,
-   "livePoints": 1253.75,
-   "pointsChange": 10.04,
+   "livePoints": 1251.64,
+   "pointsChange": 7.93,
    "rankChange": 2
   },
   {
@@ -1716,20 +1716,6 @@
    "rankChange": -2
   },
   {
-   "id": "43887",
-   "code": "TOG",
-   "name": "Togo",
-   "confed": "CAF",
-   "officialRank": 119,
-   "officialPoints": 1152.76,
-   "previousRank": 119,
-   "aliases": [],
-   "liveRank": 120,
-   "livePoints": 1153.04,
-   "pointsChange": 0.28,
-   "rankChange": -1
-  },
-  {
    "id": "43821",
    "code": "PRK",
    "name": "DPR Korea",
@@ -1740,10 +1726,10 @@
    "aliases": [
     "North Korea"
    ],
-   "liveRank": 121,
+   "liveRank": 120,
    "livePoints": 1151.05,
    "pointsChange": 0.0,
-   "rankChange": -1
+   "rankChange": 0
   },
   {
    "id": "43877",
@@ -1754,10 +1740,24 @@
    "officialPoints": 1126.62,
    "previousRank": 128,
    "aliases": [],
-   "liveRank": 122,
+   "liveRank": 121,
    "livePoints": 1150.58,
    "pointsChange": 23.96,
-   "rankChange": 6
+   "rankChange": 7
+  },
+  {
+   "id": "43887",
+   "code": "TOG",
+   "name": "Togo",
+   "confed": "CAF",
+   "officialRank": 119,
+   "officialPoints": 1152.76,
+   "previousRank": 119,
+   "aliases": [],
+   "liveRank": 122,
+   "livePoints": 1148.9,
+   "pointsChange": -3.86,
+   "rankChange": -3
   },
   {
    "id": "43862",
@@ -2051,8 +2051,8 @@
    "previousRank": 147,
    "aliases": [],
    "liveRank": 143,
-   "livePoints": 1070.38,
-   "pointsChange": 6.75,
+   "livePoints": 1075.3,
+   "pointsChange": 11.67,
    "rankChange": 4
   },
   {
@@ -3033,34 +3033,274 @@
  ],
  "results": [
   {
+   "kickoff": "2026-11-14T19:45:00Z",
+   "date": "2026-11-14",
+   "home": "SWE",
+   "away": "BIH",
+   "homeScore": 3,
+   "awayScore": 1,
+   "homePens": null,
+   "awayPens": null,
+   "status": 3,
+   "competition": "UEFA Nations League",
+   "stage": "League B",
+   "city": "Solna",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.608,
+   "prediction": {
+    "home": {
+     "win": 5.88,
+     "draw": -1.62,
+     "loss": -9.12
+    },
+    "away": {
+     "loss": -5.88,
+     "draw": 1.62,
+     "win": 9.12
+    }
+   },
+   "homeName": "Sweden",
+   "awayName": "Bosnia and Herzegovina",
+   "fifaId": "f4tmo506z0ywyojuc1oulhp1w"
+  },
+  {
+   "kickoff": "2026-11-14T19:45:00Z",
+   "date": "2026-11-14",
+   "home": "ROU",
+   "away": "POL",
+   "homeScore": 0,
+   "awayScore": 0,
+   "homePens": null,
+   "awayPens": null,
+   "status": 3,
+   "competition": "UEFA Nations League",
+   "stage": "League B",
+   "city": "Bucharest",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.419,
+   "prediction": {
+    "home": {
+     "win": 8.72,
+     "draw": 1.22,
+     "loss": -6.28
+    },
+    "away": {
+     "loss": -8.72,
+     "draw": -1.22,
+     "win": 6.28
+    }
+   },
+   "homeName": "Romania",
+   "awayName": "Poland",
+   "fifaId": "f48ai9kl65y01dd7bl16amxp0"
+  },
+  {
+   "kickoff": "2026-11-14T19:45:00Z",
+   "date": "2026-11-14",
+   "home": "NIR",
+   "away": "UKR",
+   "homeScore": 0,
+   "awayScore": 0,
+   "homePens": null,
+   "awayPens": null,
+   "status": 3,
+   "competition": "UEFA Nations League",
+   "stage": "League B",
+   "city": "Belfast",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.359,
+   "prediction": {
+    "home": {
+     "win": 9.62,
+     "draw": 2.12,
+     "loss": -5.38
+    },
+    "away": {
+     "loss": -9.62,
+     "draw": -2.12,
+     "win": 5.38
+    }
+   },
+   "homeName": "Northern Ireland",
+   "awayName": "Ukraine",
+   "fifaId": "f33gls2ibbm4og1oimnkli044"
+  },
+  {
+   "kickoff": "2026-11-14T19:45:00Z",
+   "date": "2026-11-14",
+   "home": "AUT",
+   "away": "IRL",
+   "homeScore": 0,
+   "awayScore": 0,
+   "homePens": null,
+   "awayPens": null,
+   "status": 3,
+   "competition": "UEFA Nations League",
+   "stage": "League B",
+   "city": "Linz",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.651,
+   "prediction": {
+    "home": {
+     "win": 5.24,
+     "draw": -2.26,
+     "loss": -9.76
+    },
+    "away": {
+     "loss": -5.24,
+     "draw": 2.26,
+     "win": 9.76
+    }
+   },
+   "homeName": "Austria",
+   "awayName": "Republic of Ireland",
+   "fifaId": "f3nhnmsibeoo8yexgok7ockd0"
+  },
+  {
+   "kickoff": "2026-11-14T19:45:00Z",
+   "date": "2026-11-14",
+   "home": "POR",
+   "away": "DEN",
+   "homeScore": 0,
+   "awayScore": 2,
+   "homePens": null,
+   "awayPens": null,
+   "status": 3,
+   "competition": "UEFA Nations League",
+   "stage": "League A",
+   "city": "Braga",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.673,
+   "prediction": {
+    "home": {
+     "win": 4.91,
+     "draw": -2.59,
+     "loss": -10.09
+    },
+    "away": {
+     "loss": -4.91,
+     "draw": 2.59,
+     "win": 10.09
+    }
+   },
+   "homeName": "Portugal",
+   "awayName": "Denmark",
+   "fifaId": "7gt276fn6v2d5h1g4q03zeivo"
+  },
+  {
+   "date": "2026-11-14",
+   "kickoff": "2026-11-14T19:00:00Z",
+   "home": "ALG",
+   "away": "TOG",
+   "homeScore": 1,
+   "awayScore": 0,
+   "homePens": null,
+   "awayPens": null,
+   "city": "Tizi Ouzou",
+   "status": 0,
+   "competition": "CAF Africa Cup of Nations Qualifiers",
+   "stage": "Group stage",
+   "source": "Wikipedia",
+   "counted": true,
+   "importance": 25,
+   "homeDelta": 4.14,
+   "awayDelta": -4.14,
+   "homeName": "Algeria",
+   "awayName": "Togo"
+  },
+  {
+   "date": "2026-11-14",
+   "kickoff": "2026-11-14T17:00:00Z",
+   "home": "UGA",
+   "away": "BOT",
+   "homeScore": 1,
+   "awayScore": 1,
+   "homePens": null,
+   "awayPens": null,
+   "city": "Hoima",
+   "status": 0,
+   "competition": "CAF Africa Cup of Nations Qualifiers",
+   "stage": "Group stage",
+   "source": "Wikipedia",
+   "counted": true,
+   "importance": 25,
+   "homeDelta": -4.92,
+   "awayDelta": 4.92,
+   "homeName": "Uganda",
+   "awayName": "Botswana"
+  },
+  {
+   "kickoff": "2026-11-14T17:00:00Z",
+   "date": "2026-11-14",
+   "home": "GEO",
+   "away": "HUN",
+   "homeScore": 0,
+   "awayScore": 2,
+   "homePens": null,
+   "awayPens": null,
+   "status": 0,
+   "competition": "UEFA Nations League",
+   "stage": "League B",
+   "city": "Tbilisi",
+   "source": "FIFA",
+   "counted": true,
+   "importance": 15,
+   "homeDelta": -5.2,
+   "awayDelta": 5.2,
+   "homeName": "Georgia",
+   "awayName": "Hungary",
+   "fifaId": "f2ihb8zzsuhnejbwu1t2cb2ms"
+  },
+  {
+   "kickoff": "2026-11-14T17:00:00Z",
+   "date": "2026-11-14",
+   "home": "NOR",
+   "away": "WAL",
+   "homeScore": 3,
+   "awayScore": 1,
+   "homePens": null,
+   "awayPens": null,
+   "status": 0,
+   "competition": "UEFA Nations League",
+   "stage": "League A",
+   "city": "Oslo",
+   "source": "FIFA",
+   "counted": true,
+   "importance": 15,
+   "homeDelta": 5.7,
+   "awayDelta": -5.7,
+   "homeName": "Norway",
+   "awayName": "Wales",
+   "fifaId": "7g9230i4y7kqftg0hlq8ep8no"
+  },
+  {
    "kickoff": "2026-11-14T15:00:00Z",
    "date": "2026-11-14",
    "home": "PLE",
    "away": "IRN",
    "homeScore": 0,
-   "awayScore": 1,
+   "awayScore": 2,
    "homePens": null,
    "awayPens": null,
-   "status": 3,
+   "status": 0,
    "competition": "Friendlies",
    "stage": "Friendlies 1",
    "city": "al-Baṣra (Basra)",
    "source": "FIFA",
+   "counted": true,
    "importance": 10,
-   "knockout": false,
-   "expectedHome": 0.211,
-   "prediction": {
-    "home": {
-     "win": 7.89,
-     "draw": 2.89,
-     "loss": -2.11
-    },
-    "away": {
-     "loss": -7.89,
-     "draw": -2.89,
-     "win": 2.11
-    }
-   },
+   "homeDelta": -2.11,
+   "awayDelta": 2.11,
    "homeName": "Palestine",
    "awayName": "IR Iran",
    "fifaId": "80cwb9a5cvd662ref32xf39jo"
@@ -11802,104 +12042,6 @@
    "fifaId": "bvv6hm9iz75efvt3jiba878d0"
   },
   {
-   "kickoff": "2026-11-14T17:00:00Z",
-   "date": "2026-11-14",
-   "home": "NOR",
-   "away": "WAL",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "UEFA Nations League",
-   "stage": "League A",
-   "city": "Oslo",
-   "source": "FIFA",
-   "importance": 15,
-   "knockout": false,
-   "expectedHome": 0.62,
-   "prediction": {
-    "home": {
-     "win": 5.7,
-     "draw": -1.8,
-     "loss": -9.3
-    },
-    "away": {
-     "loss": -5.7,
-     "draw": 1.8,
-     "win": 9.3
-    }
-   },
-   "homeName": "Norway",
-   "awayName": "Wales",
-   "fifaId": "7g9230i4y7kqftg0hlq8ep8no"
-  },
-  {
-   "kickoff": "2026-11-14T17:00:00Z",
-   "date": "2026-11-14",
-   "home": "GEO",
-   "away": "HUN",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "UEFA Nations League",
-   "stage": "League B",
-   "city": "Tbilisi",
-   "source": "FIFA",
-   "importance": 15,
-   "knockout": false,
-   "expectedHome": 0.346,
-   "prediction": {
-    "home": {
-     "win": 9.8,
-     "draw": 2.3,
-     "loss": -5.2
-    },
-    "away": {
-     "loss": -9.8,
-     "draw": -2.3,
-     "win": 5.2
-    }
-   },
-   "homeName": "Georgia",
-   "awayName": "Hungary",
-   "fifaId": "f2ihb8zzsuhnejbwu1t2cb2ms"
-  },
-  {
-   "date": "2026-11-14",
-   "kickoff": "2026-11-14T17:00:00Z",
-   "home": "UGA",
-   "away": "BOT",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "city": "Hoima",
-   "status": 1,
-   "competition": "CAF Africa Cup of Nations Qualifiers",
-   "stage": "Group stage",
-   "source": "Wikipedia",
-   "importance": 25,
-   "knockout": false,
-   "expectedHome": 0.697,
-   "prediction": {
-    "home": {
-     "win": 7.58,
-     "draw": -4.92,
-     "loss": -17.42
-    },
-    "away": {
-     "loss": -7.58,
-     "draw": 4.92,
-     "win": 17.42
-    }
-   },
-   "homeName": "Uganda",
-   "awayName": "Botswana"
-  },
-  {
    "date": "2026-11-14",
    "kickoff": "2026-11-14T19:00:00Z",
    "home": "ANG",
@@ -11930,203 +12072,6 @@
    },
    "homeName": "Angola",
    "awayName": "South Sudan"
-  },
-  {
-   "date": "2026-11-14",
-   "kickoff": "2026-11-14T19:00:00Z",
-   "home": "ALG",
-   "away": "TOG",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "city": "Tizi Ouzou",
-   "status": 1,
-   "competition": "CAF Africa Cup of Nations Qualifiers",
-   "stage": "Group stage",
-   "source": "Wikipedia",
-   "importance": 25,
-   "knockout": false,
-   "expectedHome": 0.835,
-   "prediction": {
-    "home": {
-     "win": 4.14,
-     "draw": -8.36,
-     "loss": -20.86
-    },
-    "away": {
-     "loss": -4.14,
-     "draw": 8.36,
-     "win": 20.86
-    }
-   },
-   "homeName": "Algeria",
-   "awayName": "Togo"
-  },
-  {
-   "kickoff": "2026-11-14T19:45:00Z",
-   "date": "2026-11-14",
-   "home": "POR",
-   "away": "DEN",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "UEFA Nations League",
-   "stage": "League A",
-   "city": "Braga",
-   "source": "FIFA",
-   "importance": 15,
-   "knockout": false,
-   "expectedHome": 0.673,
-   "prediction": {
-    "home": {
-     "win": 4.91,
-     "draw": -2.59,
-     "loss": -10.09
-    },
-    "away": {
-     "loss": -4.91,
-     "draw": 2.59,
-     "win": 10.09
-    }
-   },
-   "homeName": "Portugal",
-   "awayName": "Denmark",
-   "fifaId": "7gt276fn6v2d5h1g4q03zeivo"
-  },
-  {
-   "kickoff": "2026-11-14T19:45:00Z",
-   "date": "2026-11-14",
-   "home": "AUT",
-   "away": "IRL",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "UEFA Nations League",
-   "stage": "League B",
-   "city": "Linz",
-   "source": "FIFA",
-   "importance": 15,
-   "knockout": false,
-   "expectedHome": 0.651,
-   "prediction": {
-    "home": {
-     "win": 5.24,
-     "draw": -2.26,
-     "loss": -9.76
-    },
-    "away": {
-     "loss": -5.24,
-     "draw": 2.26,
-     "win": 9.76
-    }
-   },
-   "homeName": "Austria",
-   "awayName": "Republic of Ireland",
-   "fifaId": "f3nhnmsibeoo8yexgok7ockd0"
-  },
-  {
-   "kickoff": "2026-11-14T19:45:00Z",
-   "date": "2026-11-14",
-   "home": "NIR",
-   "away": "UKR",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "UEFA Nations League",
-   "stage": "League B",
-   "city": "Belfast",
-   "source": "FIFA",
-   "importance": 15,
-   "knockout": false,
-   "expectedHome": 0.359,
-   "prediction": {
-    "home": {
-     "win": 9.62,
-     "draw": 2.12,
-     "loss": -5.38
-    },
-    "away": {
-     "loss": -9.62,
-     "draw": -2.12,
-     "win": 5.38
-    }
-   },
-   "homeName": "Northern Ireland",
-   "awayName": "Ukraine",
-   "fifaId": "f33gls2ibbm4og1oimnkli044"
-  },
-  {
-   "kickoff": "2026-11-14T19:45:00Z",
-   "date": "2026-11-14",
-   "home": "ROU",
-   "away": "POL",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "UEFA Nations League",
-   "stage": "League B",
-   "city": "Bucharest",
-   "source": "FIFA",
-   "importance": 15,
-   "knockout": false,
-   "expectedHome": 0.419,
-   "prediction": {
-    "home": {
-     "win": 8.72,
-     "draw": 1.22,
-     "loss": -6.28
-    },
-    "away": {
-     "loss": -8.72,
-     "draw": -1.22,
-     "win": 6.28
-    }
-   },
-   "homeName": "Romania",
-   "awayName": "Poland",
-   "fifaId": "f48ai9kl65y01dd7bl16amxp0"
-  },
-  {
-   "kickoff": "2026-11-14T19:45:00Z",
-   "date": "2026-11-14",
-   "home": "SWE",
-   "away": "BIH",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "UEFA Nations League",
-   "stage": "League B",
-   "city": "Solna",
-   "source": "FIFA",
-   "importance": 15,
-   "knockout": false,
-   "expectedHome": 0.608,
-   "prediction": {
-    "home": {
-     "win": 5.88,
-     "draw": -1.62,
-     "loss": -9.12
-    },
-    "away": {
-     "loss": -5.88,
-     "draw": 1.62,
-     "win": 9.12
-    }
-   },
-   "homeName": "Sweden",
-   "awayName": "Bosnia and Herzegovina",
-   "fifaId": "f4tmo506z0ywyojuc1oulhp1w"
   },
   {
    "kickoff": "2026-11-14T21:30:00Z",
@@ -13779,17 +13724,17 @@
    "source": "FIFA",
    "importance": 10,
    "knockout": false,
-   "expectedHome": 0.423,
+   "expectedHome": 0.425,
    "prediction": {
     "home": {
-     "win": 5.77,
-     "draw": 0.77,
-     "loss": -4.23
+     "win": 5.75,
+     "draw": 0.75,
+     "loss": -4.25
     },
     "away": {
-     "loss": -5.77,
-     "draw": -0.77,
-     "win": 4.23
+     "loss": -5.75,
+     "draw": -0.75,
+     "win": 4.25
     }
    },
    "homeName": "Lebanon",
@@ -14202,17 +14147,17 @@
    "source": "FIFA",
    "importance": 10,
    "knockout": false,
-   "expectedHome": 0.321,
+   "expectedHome": 0.319,
    "prediction": {
     "home": {
-     "win": 6.79,
-     "draw": 1.79,
-     "loss": -3.21
+     "win": 6.81,
+     "draw": 1.81,
+     "loss": -3.19
     },
     "away": {
-     "loss": -6.79,
-     "draw": -1.79,
-     "win": 3.21
+     "loss": -6.81,
+     "draw": -1.81,
+     "win": 3.19
     }
    },
    "homeName": "Iraq",
@@ -14235,17 +14180,17 @@
    "source": "Wikipedia",
    "importance": 25,
    "knockout": false,
-   "expectedHome": 0.165,
+   "expectedHome": 0.161,
    "prediction": {
     "home": {
-     "win": 20.86,
-     "draw": 8.36,
-     "loss": -4.14
+     "win": 20.97,
+     "draw": 8.47,
+     "loss": -4.03
     },
     "away": {
-     "loss": -20.86,
-     "draw": -8.36,
-     "win": 4.14
+     "loss": -20.97,
+     "draw": -8.47,
+     "win": 4.03
     }
    },
    "homeName": "Togo",
@@ -14333,17 +14278,17 @@
    "source": "FIFA",
    "importance": 15,
    "knockout": false,
-   "expectedHome": 0.242,
+   "expectedHome": 0.238,
    "prediction": {
     "home": {
-     "win": 11.37,
-     "draw": 3.87,
-     "loss": -3.63
+     "win": 11.43,
+     "draw": 3.93,
+     "loss": -3.57
     },
     "away": {
-     "loss": -11.37,
-     "draw": -3.87,
-     "win": 3.63
+     "loss": -11.43,
+     "draw": -3.93,
+     "win": 3.57
     }
    },
    "homeName": "Wales",
@@ -14366,17 +14311,17 @@
    "source": "FIFA",
    "importance": 15,
    "knockout": false,
-   "expectedHome": 0.482,
+   "expectedHome": 0.477,
    "prediction": {
     "home": {
-     "win": 7.76,
-     "draw": 0.26,
-     "loss": -7.24
+     "win": 7.84,
+     "draw": 0.34,
+     "loss": -7.16
     },
     "away": {
-     "loss": -7.76,
-     "draw": -0.26,
-     "win": 7.24
+     "loss": -7.84,
+     "draw": -0.34,
+     "win": 7.16
     }
    },
    "homeName": "Denmark",
@@ -14432,17 +14377,17 @@
    "source": "FIFA",
    "importance": 15,
    "knockout": false,
-   "expectedHome": 0.674,
+   "expectedHome": 0.678,
    "prediction": {
     "home": {
-     "win": 4.89,
-     "draw": -2.61,
-     "loss": -10.11
+     "win": 4.82,
+     "draw": -2.68,
+     "loss": -10.18
     },
     "away": {
-     "loss": -4.89,
-     "draw": 2.61,
-     "win": 10.11
+     "loss": -4.82,
+     "draw": 2.68,
+     "win": 10.18
     }
    },
    "homeName": "Ukraine",
@@ -14498,17 +14443,17 @@
    "source": "FIFA",
    "importance": 15,
    "knockout": false,
-   "expectedHome": 0.62,
+   "expectedHome": 0.625,
    "prediction": {
     "home": {
-     "win": 5.7,
-     "draw": -1.8,
-     "loss": -9.3
+     "win": 5.63,
+     "draw": -1.87,
+     "loss": -9.37
     },
     "away": {
-     "loss": -5.7,
-     "draw": 1.8,
-     "win": 9.3
+     "loss": -5.63,
+     "draw": 1.87,
+     "win": 9.37
     }
    },
    "homeName": "Hungary",
@@ -14926,17 +14871,17 @@
    "source": "FIFA",
    "importance": 35,
    "knockout": false,
-   "expectedHome": 0.67,
+   "expectedHome": 0.672,
    "prediction": {
     "home": {
-     "win": 11.54,
-     "draw": -5.96,
-     "loss": -23.46
+     "win": 11.48,
+     "draw": -6.02,
+     "loss": -23.52
     },
     "away": {
-     "loss": -11.54,
-     "draw": 5.96,
-     "win": 23.46
+     "loss": -11.48,
+     "draw": 6.02,
+     "win": 23.52
     }
    },
    "homeName": "Saudi Arabia",
@@ -15058,17 +15003,17 @@
    "source": "FIFA",
    "importance": 35,
    "knockout": false,
-   "expectedHome": 0.794,
+   "expectedHome": 0.795,
    "prediction": {
     "home": {
-     "win": 7.21,
-     "draw": -10.29,
-     "loss": -27.79
+     "win": 7.16,
+     "draw": -10.34,
+     "loss": -27.84
     },
     "away": {
-     "loss": -7.21,
-     "draw": 10.29,
-     "win": 27.79
+     "loss": -7.16,
+     "draw": 10.34,
+     "win": 27.84
     }
    },
    "homeName": "IR Iran",
@@ -15388,17 +15333,17 @@
    "source": "FIFA",
    "importance": 35,
    "knockout": false,
-   "expectedHome": 0.632,
+   "expectedHome": 0.63,
    "prediction": {
     "home": {
-     "win": 12.89,
-     "draw": -4.61,
-     "loss": -22.11
+     "win": 12.95,
+     "draw": -4.55,
+     "loss": -22.05
     },
     "away": {
-     "loss": -12.89,
-     "draw": 4.61,
-     "win": 22.11
+     "loss": -12.95,
+     "draw": 4.55,
+     "win": 22.05
     }
    },
    "homeName": "Palestine",
@@ -15421,17 +15366,17 @@
    "source": "FIFA",
    "importance": 35,
    "knockout": false,
-   "expectedHome": 0.179,
+   "expectedHome": 0.177,
    "prediction": {
     "home": {
-     "win": 28.75,
-     "draw": 11.25,
-     "loss": -6.25
+     "win": 28.79,
+     "draw": 11.29,
+     "loss": -6.21
     },
     "away": {
-     "loss": -28.75,
-     "draw": -11.25,
-     "win": 6.25
+     "loss": -28.79,
+     "draw": -11.29,
+     "win": 6.21
     }
    },
    "homeName": "Kyrgyz Republic",
@@ -15817,17 +15762,17 @@
    "source": "FIFA",
    "importance": 35,
    "knockout": false,
-   "expectedHome": 0.547,
+   "expectedHome": 0.549,
    "prediction": {
     "home": {
-     "win": 15.87,
-     "draw": -1.63,
-     "loss": -19.13
+     "win": 15.8,
+     "draw": -1.7,
+     "loss": -19.2
     },
     "away": {
-     "loss": -15.87,
-     "draw": 1.63,
-     "win": 19.13
+     "loss": -15.8,
+     "draw": 1.7,
+     "win": 19.2
     }
    },
    "homeName": "Oman",
@@ -15850,17 +15795,17 @@
    "source": "FIFA",
    "importance": 35,
    "knockout": false,
-   "expectedHome": 0.776,
+   "expectedHome": 0.778,
    "prediction": {
     "home": {
-     "win": 7.83,
-     "draw": -9.67,
-     "loss": -27.17
+     "win": 7.79,
+     "draw": -9.71,
+     "loss": -27.21
     },
     "away": {
-     "loss": -7.83,
-     "draw": 9.67,
-     "win": 27.17
+     "loss": -7.79,
+     "draw": 9.71,
+     "win": 27.21
     }
    },
    "homeName": "IR Iran",
@@ -16562,17 +16507,17 @@
    "source": "Wikipedia",
    "importance": 25,
    "knockout": false,
-   "expectedHome": 0.39,
+   "expectedHome": 0.395,
    "prediction": {
     "home": {
-     "win": 15.25,
-     "draw": 2.75,
-     "loss": -9.75
+     "win": 15.14,
+     "draw": 2.64,
+     "loss": -9.86
     },
     "away": {
-     "loss": -15.25,
-     "draw": -2.75,
-     "win": 9.75
+     "loss": -15.14,
+     "draw": -2.64,
+     "win": 9.86
     }
    },
    "homeName": "Botswana",
@@ -16594,17 +16539,17 @@
    "source": "Wikipedia",
    "importance": 25,
    "knockout": false,
-   "expectedHome": 0.396,
+   "expectedHome": 0.391,
    "prediction": {
     "home": {
-     "win": 15.1,
-     "draw": 2.6,
-     "loss": -9.9
+     "win": 15.22,
+     "draw": 2.72,
+     "loss": -9.78
     },
     "away": {
-     "loss": -15.1,
-     "draw": -2.6,
-     "win": 9.9
+     "loss": -15.22,
+     "draw": -2.72,
+     "win": 9.78
     }
    },
    "homeName": "Uganda",
@@ -16626,17 +16571,17 @@
    "source": "Wikipedia",
    "importance": 25,
    "knockout": false,
-   "expectedHome": 0.431,
+   "expectedHome": 0.435,
    "prediction": {
     "home": {
-     "win": 14.22,
-     "draw": 1.72,
-     "loss": -10.78
+     "win": 14.12,
+     "draw": 1.62,
+     "loss": -10.88
     },
     "away": {
-     "loss": -14.22,
-     "draw": -1.72,
-     "win": 10.78
+     "loss": -14.12,
+     "draw": -1.62,
+     "win": 10.88
     }
    },
    "homeName": "Burundi",
@@ -16658,17 +16603,17 @@
    "source": "Wikipedia",
    "importance": 25,
    "knockout": false,
-   "expectedHome": 0.228,
+   "expectedHome": 0.225,
    "prediction": {
     "home": {
-     "win": 19.31,
-     "draw": 6.81,
-     "loss": -5.69
+     "win": 19.38,
+     "draw": 6.88,
+     "loss": -5.62
     },
     "away": {
-     "loss": -19.31,
-     "draw": -6.81,
-     "win": 5.69
+     "loss": -19.38,
+     "draw": -6.88,
+     "win": 5.62
     }
    },
    "homeName": "Zambia",
@@ -17330,17 +17275,17 @@
    "source": "Wikipedia",
    "importance": 25,
    "knockout": false,
-   "expectedHome": 0.405,
+   "expectedHome": 0.409,
    "prediction": {
     "home": {
-     "win": 14.88,
-     "draw": 2.38,
-     "loss": -10.12
+     "win": 14.76,
+     "draw": 2.26,
+     "loss": -10.24
     },
     "away": {
-     "loss": -14.88,
-     "draw": -2.38,
-     "win": 10.12
+     "loss": -14.76,
+     "draw": -2.26,
+     "win": 10.24
     }
    },
    "homeName": "Libya",
@@ -17362,17 +17307,17 @@
    "source": "Wikipedia",
    "importance": 25,
    "knockout": false,
-   "expectedHome": 0.222,
+   "expectedHome": 0.225,
    "prediction": {
     "home": {
-     "win": 19.45,
-     "draw": 6.95,
-     "loss": -5.55
+     "win": 19.37,
+     "draw": 6.87,
+     "loss": -5.63
     },
     "away": {
-     "loss": -19.45,
-     "draw": -6.95,
-     "win": 5.55
+     "loss": -19.37,
+     "draw": -6.87,
+     "win": 5.63
     }
    },
    "homeName": "Botswana",
@@ -17394,17 +17339,17 @@
    "source": "Wikipedia",
    "importance": 25,
    "knockout": false,
-   "expectedHome": 0.869,
+   "expectedHome": 0.871,
    "prediction": {
     "home": {
-     "win": 3.27,
-     "draw": -9.23,
-     "loss": -21.73
+     "win": 3.22,
+     "draw": -9.28,
+     "loss": -21.78
     },
     "away": {
-     "loss": -3.27,
-     "draw": 9.23,
-     "win": 21.73
+     "loss": -3.22,
+     "draw": 9.28,
+     "win": 21.78
     }
    },
    "homeName": "Algeria",
@@ -17426,17 +17371,17 @@
    "source": "Wikipedia",
    "importance": 25,
    "knockout": false,
-   "expectedHome": 0.402,
+   "expectedHome": 0.398,
    "prediction": {
     "home": {
-     "win": 14.95,
-     "draw": 2.45,
-     "loss": -10.05
+     "win": 15.04,
+     "draw": 2.54,
+     "loss": -9.96
     },
     "away": {
-     "loss": -14.95,
-     "draw": -2.45,
-     "win": 10.05
+     "loss": -15.04,
+     "draw": -2.54,
+     "win": 9.96
     }
    },
    "homeName": "Togo",
@@ -17703,8 +17648,8 @@
    "name": "UEFA Nations League",
    "group": "UEFA",
    "weight": "I=15 · 25 play-offs & finals",
-   "results": 123,
-   "fixtures": 33
+   "results": 130,
+   "fixtures": 26
   },
   {
    "name": "Baltic Cup",
@@ -17759,8 +17704,8 @@
    "name": "CAF Africa Cup of Nations Qualifiers",
    "group": "CAF",
    "weight": "I=25",
-   "results": 69,
-   "fixtures": 74
+   "results": 71,
+   "fixtures": 72
   },
   {
    "name": "COSAFA Cup",
