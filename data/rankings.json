@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T07:40:07+00:00",
+ "generatedAt": "2026-11-15T14:57:48+00:00",
  "official": {
   "pubDate": "2026-07-20T10:00:00+00:00",
   "nextPubDate": null,
@@ -3033,6 +3033,72 @@
  ],
  "results": [
   {
+   "kickoff": "2026-11-15T14:00:00Z",
+   "date": "2026-11-15",
+   "home": "LVA",
+   "away": "ARM",
+   "homeScore": 0,
+   "awayScore": 0,
+   "homePens": null,
+   "awayPens": null,
+   "status": 3,
+   "competition": "UEFA Nations League",
+   "stage": "League C",
+   "city": "Rīga",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.389,
+   "prediction": {
+    "home": {
+     "win": 9.16,
+     "draw": 1.66,
+     "loss": -5.84
+    },
+    "away": {
+     "loss": -9.16,
+     "draw": -1.66,
+     "win": 5.84
+    }
+   },
+   "homeName": "Latvia",
+   "awayName": "Armenia",
+   "fifaId": "1mme9temrb8gcbdb1l2brpt04"
+  },
+  {
+   "kickoff": "2026-11-15T14:00:00Z",
+   "date": "2026-11-15",
+   "home": "CYP",
+   "away": "MNE",
+   "homeScore": 0,
+   "awayScore": 1,
+   "homePens": null,
+   "awayPens": null,
+   "status": 3,
+   "competition": "UEFA Nations League",
+   "stage": "League C",
+   "city": "Kolossi",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.337,
+   "prediction": {
+    "home": {
+     "win": 9.95,
+     "draw": 2.45,
+     "loss": -5.05
+    },
+    "away": {
+     "loss": -9.95,
+     "draw": -2.45,
+     "win": 5.05
+    }
+   },
+   "homeName": "Cyprus",
+   "awayName": "Montenegro",
+   "fifaId": "1m2a6e4hnm30qrfdlaxxe4l5g"
+  },
+  {
    "kickoff": "2026-11-15T03:00:00Z",
    "date": "2026-11-15",
    "home": "NZL",
@@ -3448,7 +3514,7 @@
    "fifaId": "5nfohtanfijti0bhkq025p2j8"
   },
   {
-   "kickoff": "2026-11-14T06:00:00Z",
+   "kickoff": "2026-11-14T06:30:00Z",
    "date": "2026-11-14",
    "home": "BHR",
    "away": "YEM",
@@ -3664,28 +3730,6 @@
    "awayDelta": -2.03,
    "homeName": "Morocco",
    "awayName": "Niger"
-  },
-  {
-   "kickoff": "2026-11-13T20:00:00Z",
-   "date": "2026-11-13",
-   "home": "GRN",
-   "away": "SKN",
-   "homeScore": 3,
-   "awayScore": 2,
-   "homePens": null,
-   "awayPens": null,
-   "status": 0,
-   "competition": "Concacaf Nations League",
-   "stage": "League B",
-   "city": "Havana",
-   "source": "FIFA",
-   "counted": true,
-   "importance": 15,
-   "homeDelta": 8.55,
-   "awayDelta": -8.55,
-   "homeName": "Grenada",
-   "awayName": "St Kitts and Nevis",
-   "fifaId": "2jhhp5zvnfc99h72bihrb70no"
   },
   {
    "kickoff": "2026-11-13T19:45:00Z",
@@ -3949,6 +3993,28 @@
    "homeName": "Puerto Rico",
    "awayName": "Dominica",
    "fifaId": "21gro6denaskb0u64bha4xrmc"
+  },
+  {
+   "kickoff": "2026-11-13T19:00:00Z",
+   "date": "2026-11-13",
+   "home": "GRN",
+   "away": "SKN",
+   "homeScore": 3,
+   "awayScore": 2,
+   "homePens": null,
+   "awayPens": null,
+   "status": 0,
+   "competition": "Concacaf Nations League",
+   "stage": "League B",
+   "city": "Havana",
+   "source": "FIFA",
+   "counted": true,
+   "importance": 15,
+   "homeDelta": 8.55,
+   "awayDelta": -8.55,
+   "homeName": "Grenada",
+   "awayName": "St Kitts and Nevis",
+   "fifaId": "2jhhp5zvnfc99h72bihrb70no"
   },
   {
    "kickoff": "2026-11-13T17:00:00Z",
@@ -12405,72 +12471,6 @@
    "awayName": "Nigeria"
   },
   {
-   "kickoff": "2026-11-15T14:00:00Z",
-   "date": "2026-11-15",
-   "home": "CYP",
-   "away": "MNE",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "UEFA Nations League",
-   "stage": "League C",
-   "city": "Kolossi",
-   "source": "FIFA",
-   "importance": 15,
-   "knockout": false,
-   "expectedHome": 0.337,
-   "prediction": {
-    "home": {
-     "win": 9.95,
-     "draw": 2.45,
-     "loss": -5.05
-    },
-    "away": {
-     "loss": -9.95,
-     "draw": -2.45,
-     "win": 5.05
-    }
-   },
-   "homeName": "Cyprus",
-   "awayName": "Montenegro",
-   "fifaId": "1m2a6e4hnm30qrfdlaxxe4l5g"
-  },
-  {
-   "kickoff": "2026-11-15T14:00:00Z",
-   "date": "2026-11-15",
-   "home": "LVA",
-   "away": "ARM",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "UEFA Nations League",
-   "stage": "League C",
-   "city": "Rīga",
-   "source": "FIFA",
-   "importance": 15,
-   "knockout": false,
-   "expectedHome": 0.389,
-   "prediction": {
-    "home": {
-     "win": 9.16,
-     "draw": 1.66,
-     "loss": -5.84
-    },
-    "away": {
-     "loss": -9.16,
-     "draw": -1.66,
-     "win": 5.84
-    }
-   },
-   "homeName": "Latvia",
-   "awayName": "Armenia",
-   "fifaId": "1mme9temrb8gcbdb1l2brpt04"
-  },
-  {
    "kickoff": "2026-11-15T17:00:00Z",
    "date": "2026-11-15",
    "home": "BLR",
@@ -13094,6 +13094,39 @@
    "fifaId": "21xy9kn5qjl1cinwmjl6qvml0"
   },
   {
+   "kickoff": "2026-11-16T19:00:00Z",
+   "date": "2026-11-16",
+   "home": "CUB",
+   "away": "GRN",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Concacaf Nations League",
+   "stage": "League B",
+   "city": "Havana",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.514,
+   "prediction": {
+    "home": {
+     "win": 7.3,
+     "draw": -0.2,
+     "loss": -7.7
+    },
+    "away": {
+     "loss": -7.3,
+     "draw": 0.2,
+     "win": 7.7
+    }
+   },
+   "homeName": "Cuba",
+   "awayName": "Grenada",
+   "fifaId": "2jxmqwj2qaeay96o6s6dxehp0"
+  },
+  {
    "kickoff": "2026-11-16T19:45:00Z",
    "date": "2026-11-16",
    "home": "GER",
@@ -13257,72 +13290,6 @@
    "homeName": "Gibraltar",
    "awayName": "Malta",
    "fifaId": "500av5xfaflwl7k9fidbekis4"
-  },
-  {
-   "kickoff": "2026-11-16T20:00:00Z",
-   "date": "2026-11-16",
-   "home": "CUB",
-   "away": "GRN",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "Concacaf Nations League",
-   "stage": "League B",
-   "city": "Havana",
-   "source": "FIFA",
-   "importance": 15,
-   "knockout": false,
-   "expectedHome": 0.514,
-   "prediction": {
-    "home": {
-     "win": 7.3,
-     "draw": -0.2,
-     "loss": -7.7
-    },
-    "away": {
-     "loss": -7.3,
-     "draw": 0.2,
-     "win": 7.7
-    }
-   },
-   "homeName": "Cuba",
-   "awayName": "Grenada",
-   "fifaId": "2jxmqwj2qaeay96o6s6dxehp0"
-  },
-  {
-   "kickoff": "2026-11-17T00:00:00Z",
-   "date": "2026-11-17",
-   "home": "KUW",
-   "away": "HON",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "Friendlies",
-   "stage": "Friendlies 1",
-   "city": "",
-   "source": "FIFA",
-   "importance": 10,
-   "knockout": false,
-   "expectedHome": 0.271,
-   "prediction": {
-    "home": {
-     "win": 7.29,
-     "draw": 2.29,
-     "loss": -2.71
-    },
-    "away": {
-     "loss": -7.29,
-     "draw": -2.29,
-     "win": 2.71
-    }
-   },
-   "homeName": "Kuwait",
-   "awayName": "Honduras",
-   "fifaId": "dmzosbcba1m268i1vv4zda2vo"
   },
   {
    "kickoff": "2026-11-17T00:00:00Z",
@@ -13860,7 +13827,7 @@
    "status": 1,
    "competition": "Friendlies",
    "stage": "Friendlies 1",
-   "city": "",
+   "city": "Doha",
    "source": "FIFA",
    "importance": 10,
    "knockout": false,
@@ -14042,6 +14009,39 @@
    "homeName": "Iraq",
    "awayName": "IR Iran",
    "fifaId": "44mp1e3xz8jose32hsasfcbv8"
+  },
+  {
+   "kickoff": "2026-11-17T16:30:00Z",
+   "date": "2026-11-17",
+   "home": "KUW",
+   "away": "HON",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Friendlies",
+   "stage": "Friendlies 1",
+   "city": "Kuwait City",
+   "source": "FIFA",
+   "importance": 10,
+   "knockout": false,
+   "expectedHome": 0.271,
+   "prediction": {
+    "home": {
+     "win": 7.29,
+     "draw": 2.29,
+     "loss": -2.71
+    },
+    "away": {
+     "loss": -7.29,
+     "draw": -2.29,
+     "win": 2.71
+    }
+   },
+   "homeName": "Kuwait",
+   "awayName": "Honduras",
+   "fifaId": "dmzosbcba1m268i1vv4zda2vo"
   },
   {
    "date": "2026-11-17",
@@ -17527,8 +17527,8 @@
    "name": "UEFA Nations League",
    "group": "UEFA",
    "weight": "I=15 · 25 play-offs & finals",
-   "results": 130,
-   "fixtures": 26
+   "results": 132,
+   "fixtures": 24
   },
   {
    "name": "Baltic Cup",
