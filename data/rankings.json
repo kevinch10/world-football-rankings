@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T14:57:48+00:00",
+ "generatedAt": "2026-11-15T20:08:23+00:00",
  "official": {
   "pubDate": "2026-07-20T10:00:00+00:00",
   "nextPubDate": null,
@@ -941,8 +941,8 @@
    "previousRank": 66,
    "aliases": [],
    "liveRank": 65,
-   "livePoints": 1382.77,
-   "pointsChange": 6.74,
+   "livePoints": 1388.42,
+   "pointsChange": 12.39,
    "rankChange": 2
   },
   {
@@ -1087,8 +1087,8 @@
    "previousRank": 75,
    "aliases": [],
    "liveRank": 75,
-   "livePoints": 1333.73,
-   "pointsChange": -8.19,
+   "livePoints": 1335.0,
+   "pointsChange": -6.92,
    "rankChange": 0
   },
   {
@@ -1129,8 +1129,8 @@
    "previousRank": 80,
    "aliases": [],
    "liveRank": 78,
-   "livePoints": 1319.69,
-   "pointsChange": 17.71,
+   "livePoints": 1324.75,
+   "pointsChange": 22.77,
    "rankChange": 2
   },
   {
@@ -1369,8 +1369,8 @@
    "previousRank": 96,
    "aliases": [],
    "liveRank": 95,
-   "livePoints": 1251.32,
-   "pointsChange": 8.44,
+   "livePoints": 1245.67,
+   "pointsChange": 2.79,
    "rankChange": 1
   },
   {
@@ -1569,8 +1569,8 @@
    "previousRank": 107,
    "aliases": [],
    "liveRank": 109,
-   "livePoints": 1182.67,
-   "pointsChange": -6.96,
+   "livePoints": 1181.01,
+   "pointsChange": -8.62,
    "rankChange": -2
   },
   {
@@ -1788,20 +1788,6 @@
    "rankChange": -1
   },
   {
-   "id": "43939",
-   "code": "CYP",
-   "name": "Cyprus",
-   "confed": "UEFA",
-   "officialRank": 124,
-   "officialPoints": 1133.25,
-   "previousRank": 124,
-   "aliases": [],
-   "liveRank": 125,
-   "livePoints": 1143.02,
-   "pointsChange": 9.77,
-   "rankChange": -1
-  },
-  {
    "id": "43994",
    "code": "AZE",
    "name": "Azerbaijan",
@@ -1810,10 +1796,24 @@
    "officialPoints": 1132.0,
    "previousRank": 126,
    "aliases": [],
-   "liveRank": 126,
+   "liveRank": 125,
    "livePoints": 1142.08,
    "pointsChange": 10.08,
-   "rankChange": 0
+   "rankChange": 1
+  },
+  {
+   "id": "43919",
+   "code": "SUR",
+   "name": "Suriname",
+   "confed": "CONCACAF",
+   "officialRank": 125,
+   "officialPoints": 1132.43,
+   "previousRank": 125,
+   "aliases": [],
+   "liveRank": 126,
+   "livePoints": 1141.23,
+   "pointsChange": 8.8,
+   "rankChange": -1
   },
   {
    "id": "43874",
@@ -1830,18 +1830,18 @@
    "rankChange": -6
   },
   {
-   "id": "43919",
-   "code": "SUR",
-   "name": "Suriname",
-   "confed": "CONCACAF",
-   "officialRank": 125,
-   "officialPoints": 1132.43,
-   "previousRank": 125,
+   "id": "43939",
+   "code": "CYP",
+   "name": "Cyprus",
+   "confed": "UEFA",
+   "officialRank": 124,
+   "officialPoints": 1133.25,
+   "previousRank": 124,
    "aliases": [],
    "liveRank": 128,
-   "livePoints": 1137.71,
-   "pointsChange": 5.28,
-   "rankChange": -3
+   "livePoints": 1137.97,
+   "pointsChange": 4.72,
+   "rankChange": -4
   },
   {
    "id": "43892",
@@ -2065,8 +2065,8 @@
    "previousRank": 137,
    "aliases": [],
    "liveRank": 144,
-   "livePoints": 1065.13,
-   "pointsChange": -20.53,
+   "livePoints": 1066.8,
+   "pointsChange": -18.86,
    "rankChange": -7
   },
   {
@@ -2374,6 +2374,20 @@
    "rankChange": 5
   },
   {
+   "id": "43905",
+   "code": "GRN",
+   "name": "Grenada",
+   "confed": "CONCACAF",
+   "officialRank": 163,
+   "officialPoints": 981.82,
+   "previousRank": 163,
+   "aliases": [],
+   "liveRank": 166,
+   "livePoints": 976.26,
+   "pointsChange": -5.56,
+   "rankChange": -3
+  },
+  {
    "id": "43885",
    "code": "SWZ",
    "name": "Eswatini",
@@ -2384,24 +2398,10 @@
    "aliases": [
     "Swaziland"
    ],
-   "liveRank": 166,
-   "livePoints": 979.28,
-   "pointsChange": 0.27,
-   "rankChange": -1
-  },
-  {
-   "id": "43905",
-   "code": "GRN",
-   "name": "Grenada",
-   "confed": "CONCACAF",
-   "officialRank": 163,
-   "officialPoints": 981.82,
-   "previousRank": 163,
-   "aliases": [],
    "liveRank": 167,
-   "livePoints": 976.26,
-   "pointsChange": -5.56,
-   "rankChange": -4
+   "livePoints": 975.75,
+   "pointsChange": -3.26,
+   "rankChange": -2
   },
   {
    "id": "43979",
@@ -3026,12 +3026,210 @@
    "previousRank": 211,
    "aliases": [],
    "liveRank": 211,
-   "livePoints": 714.21,
-   "pointsChange": -6.99,
+   "livePoints": 712.94,
+   "pointsChange": -8.26,
    "rankChange": 0
   }
  ],
  "results": [
+  {
+   "kickoff": "2026-11-15T19:45:00Z",
+   "date": "2026-11-15",
+   "home": "CRO",
+   "away": "CZE",
+   "homeScore": 1,
+   "awayScore": 0,
+   "homePens": null,
+   "awayPens": null,
+   "status": 3,
+   "competition": "UEFA Nations League",
+   "stage": "League A",
+   "city": "Osijek",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.727,
+   "prediction": {
+    "home": {
+     "win": 4.1,
+     "draw": -3.4,
+     "loss": -10.9
+    },
+    "away": {
+     "loss": -4.1,
+     "draw": 3.4,
+     "win": 10.9
+    }
+   },
+   "homeName": "Croatia",
+   "awayName": "Czechia",
+   "fifaId": "7iigzv7r2sdlaepzls4qvvf9w"
+  },
+  {
+   "kickoff": "2026-11-15T19:45:00Z",
+   "date": "2026-11-15",
+   "home": "BEL",
+   "away": "ITA",
+   "homeScore": 1,
+   "awayScore": 1,
+   "homePens": null,
+   "awayPens": null,
+   "status": 3,
+   "competition": "UEFA Nations League",
+   "stage": "League A",
+   "city": "Brussels",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.557,
+   "prediction": {
+    "home": {
+     "win": 6.64,
+     "draw": -0.86,
+     "loss": -8.36
+    },
+    "away": {
+     "loss": -6.64,
+     "draw": 0.86,
+     "win": 8.36
+    }
+   },
+   "homeName": "Belgium",
+   "awayName": "Italy",
+   "fifaId": "7hd6j6oayde5xn9gaaaes03kk"
+  },
+  {
+   "kickoff": "2026-11-15T19:45:00Z",
+   "date": "2026-11-15",
+   "home": "FRA",
+   "away": "TUR",
+   "homeScore": 0,
+   "awayScore": 0,
+   "homePens": null,
+   "awayPens": null,
+   "status": 3,
+   "competition": "UEFA Nations League",
+   "stage": "League A",
+   "city": "Bordeaux",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.817,
+   "prediction": {
+    "home": {
+     "win": 2.75,
+     "draw": -4.75,
+     "loss": -12.25
+    },
+    "away": {
+     "loss": -2.75,
+     "draw": 4.75,
+     "win": 12.25
+    }
+   },
+   "homeName": "France",
+   "awayName": "Türkiye",
+   "fifaId": "7hxantwsk2rm46hv4lt2otyxg"
+  },
+  {
+   "kickoff": "2026-11-15T19:45:00Z",
+   "date": "2026-11-15",
+   "home": "ESP",
+   "away": "ENG",
+   "homeScore": 0,
+   "awayScore": 0,
+   "homePens": null,
+   "awayPens": null,
+   "status": 3,
+   "competition": "UEFA Nations League",
+   "stage": "League A",
+   "city": "Madrid",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.579,
+   "prediction": {
+    "home": {
+     "win": 6.32,
+     "draw": -1.18,
+     "loss": -8.68
+    },
+    "away": {
+     "loss": -6.32,
+     "draw": 1.18,
+     "win": 8.68
+    }
+   },
+   "homeName": "Spain",
+   "awayName": "England",
+   "fifaId": "7j57g1z3k41oykvidhl2aym1g"
+  },
+  {
+   "kickoff": "2026-11-15T17:00:00Z",
+   "date": "2026-11-15",
+   "home": "SUR",
+   "away": "SWZ",
+   "homeScore": 4,
+   "awayScore": 0,
+   "homePens": null,
+   "awayPens": null,
+   "status": 0,
+   "competition": "Friendlies",
+   "stage": "Friendlies 2",
+   "city": "'s-Hertogenbosch",
+   "source": "FIFA",
+   "counted": true,
+   "importance": 10,
+   "homeDelta": 3.53,
+   "awayDelta": -3.53,
+   "homeName": "Suriname",
+   "awayName": "Eswatini",
+   "fifaId": "4aafdkfmw67m6ovxjwdfzk55g"
+  },
+  {
+   "kickoff": "2026-11-15T17:00:00Z",
+   "date": "2026-11-15",
+   "home": "FIN",
+   "away": "SMR",
+   "homeScore": 7,
+   "awayScore": 2,
+   "homePens": null,
+   "awayPens": null,
+   "status": 0,
+   "competition": "UEFA Nations League",
+   "stage": "League C",
+   "city": "Helsinki",
+   "source": "FIFA",
+   "counted": true,
+   "importance": 15,
+   "homeDelta": 1.27,
+   "awayDelta": -1.27,
+   "homeName": "Finland",
+   "awayName": "San Marino",
+   "fifaId": "1npnii4tn6hh1pu68iqkdx8gk"
+  },
+  {
+   "kickoff": "2026-11-15T17:00:00Z",
+   "date": "2026-11-15",
+   "home": "BLR",
+   "away": "ALB",
+   "homeScore": 0,
+   "awayScore": 2,
+   "homePens": null,
+   "awayPens": null,
+   "status": 0,
+   "competition": "UEFA Nations League",
+   "stage": "League C",
+   "city": "Budapest",
+   "source": "FIFA",
+   "counted": true,
+   "importance": 15,
+   "homeDelta": -5.65,
+   "awayDelta": 5.65,
+   "homeName": "Belarus",
+   "awayName": "Albania",
+   "fifaId": "1n59f4xi23rm80lp87boilyxg"
+  },
   {
    "kickoff": "2026-11-15T14:00:00Z",
    "date": "2026-11-15",
@@ -3041,26 +3239,15 @@
    "awayScore": 0,
    "homePens": null,
    "awayPens": null,
-   "status": 3,
+   "status": 0,
    "competition": "UEFA Nations League",
    "stage": "League C",
    "city": "Rīga",
    "source": "FIFA",
+   "counted": true,
    "importance": 15,
-   "knockout": false,
-   "expectedHome": 0.389,
-   "prediction": {
-    "home": {
-     "win": 9.16,
-     "draw": 1.66,
-     "loss": -5.84
-    },
-    "away": {
-     "loss": -9.16,
-     "draw": -1.66,
-     "win": 5.84
-    }
-   },
+   "homeDelta": 1.66,
+   "awayDelta": -1.66,
    "homeName": "Latvia",
    "awayName": "Armenia",
    "fifaId": "1mme9temrb8gcbdb1l2brpt04"
@@ -3070,30 +3257,19 @@
    "date": "2026-11-15",
    "home": "CYP",
    "away": "MNE",
-   "homeScore": 0,
-   "awayScore": 1,
+   "homeScore": 1,
+   "awayScore": 4,
    "homePens": null,
    "awayPens": null,
-   "status": 3,
+   "status": 0,
    "competition": "UEFA Nations League",
    "stage": "League C",
    "city": "Kolossi",
    "source": "FIFA",
+   "counted": true,
    "importance": 15,
-   "knockout": false,
-   "expectedHome": 0.337,
-   "prediction": {
-    "home": {
-     "win": 9.95,
-     "draw": 2.45,
-     "loss": -5.05
-    },
-    "away": {
-     "loss": -9.95,
-     "draw": -2.45,
-     "win": 5.05
-    }
-   },
+   "homeDelta": -5.05,
+   "awayDelta": 5.05,
    "homeName": "Cyprus",
    "awayName": "Montenegro",
    "fifaId": "1m2a6e4hnm30qrfdlaxxe4l5g"
@@ -12471,237 +12647,6 @@
    "awayName": "Nigeria"
   },
   {
-   "kickoff": "2026-11-15T17:00:00Z",
-   "date": "2026-11-15",
-   "home": "BLR",
-   "away": "ALB",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "UEFA Nations League",
-   "stage": "League C",
-   "city": "Budapest",
-   "source": "FIFA",
-   "importance": 15,
-   "knockout": false,
-   "expectedHome": 0.376,
-   "prediction": {
-    "home": {
-     "win": 9.35,
-     "draw": 1.85,
-     "loss": -5.65
-    },
-    "away": {
-     "loss": -9.35,
-     "draw": -1.85,
-     "win": 5.65
-    }
-   },
-   "homeName": "Belarus",
-   "awayName": "Albania",
-   "fifaId": "1n59f4xi23rm80lp87boilyxg"
-  },
-  {
-   "kickoff": "2026-11-15T17:00:00Z",
-   "date": "2026-11-15",
-   "home": "FIN",
-   "away": "SMR",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "UEFA Nations League",
-   "stage": "League C",
-   "city": "Helsinki",
-   "source": "FIFA",
-   "importance": 15,
-   "knockout": false,
-   "expectedHome": 0.915,
-   "prediction": {
-    "home": {
-     "win": 1.27,
-     "draw": -6.23,
-     "loss": -13.73
-    },
-    "away": {
-     "loss": -1.27,
-     "draw": 6.23,
-     "win": 13.73
-    }
-   },
-   "homeName": "Finland",
-   "awayName": "San Marino",
-   "fifaId": "1npnii4tn6hh1pu68iqkdx8gk"
-  },
-  {
-   "kickoff": "2026-11-15T17:00:00Z",
-   "date": "2026-11-15",
-   "home": "SUR",
-   "away": "SWZ",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "Friendlies",
-   "stage": "Friendlies 2",
-   "city": "'s-Hertogenbosch",
-   "source": "FIFA",
-   "importance": 10,
-   "knockout": false,
-   "expectedHome": 0.647,
-   "prediction": {
-    "home": {
-     "win": 3.53,
-     "draw": -1.47,
-     "loss": -6.47
-    },
-    "away": {
-     "loss": -3.53,
-     "draw": 1.47,
-     "win": 6.47
-    }
-   },
-   "homeName": "Suriname",
-   "awayName": "Eswatini",
-   "fifaId": "4aafdkfmw67m6ovxjwdfzk55g"
-  },
-  {
-   "kickoff": "2026-11-15T19:45:00Z",
-   "date": "2026-11-15",
-   "home": "ESP",
-   "away": "ENG",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "UEFA Nations League",
-   "stage": "League A",
-   "city": "Madrid",
-   "source": "FIFA",
-   "importance": 15,
-   "knockout": false,
-   "expectedHome": 0.579,
-   "prediction": {
-    "home": {
-     "win": 6.32,
-     "draw": -1.18,
-     "loss": -8.68
-    },
-    "away": {
-     "loss": -6.32,
-     "draw": 1.18,
-     "win": 8.68
-    }
-   },
-   "homeName": "Spain",
-   "awayName": "England",
-   "fifaId": "7j57g1z3k41oykvidhl2aym1g"
-  },
-  {
-   "kickoff": "2026-11-15T19:45:00Z",
-   "date": "2026-11-15",
-   "home": "FRA",
-   "away": "TUR",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "UEFA Nations League",
-   "stage": "League A",
-   "city": "Bordeaux",
-   "source": "FIFA",
-   "importance": 15,
-   "knockout": false,
-   "expectedHome": 0.817,
-   "prediction": {
-    "home": {
-     "win": 2.75,
-     "draw": -4.75,
-     "loss": -12.25
-    },
-    "away": {
-     "loss": -2.75,
-     "draw": 4.75,
-     "win": 12.25
-    }
-   },
-   "homeName": "France",
-   "awayName": "Türkiye",
-   "fifaId": "7hxantwsk2rm46hv4lt2otyxg"
-  },
-  {
-   "kickoff": "2026-11-15T19:45:00Z",
-   "date": "2026-11-15",
-   "home": "BEL",
-   "away": "ITA",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "UEFA Nations League",
-   "stage": "League A",
-   "city": "Brussels",
-   "source": "FIFA",
-   "importance": 15,
-   "knockout": false,
-   "expectedHome": 0.557,
-   "prediction": {
-    "home": {
-     "win": 6.64,
-     "draw": -0.86,
-     "loss": -8.36
-    },
-    "away": {
-     "loss": -6.64,
-     "draw": 0.86,
-     "win": 8.36
-    }
-   },
-   "homeName": "Belgium",
-   "awayName": "Italy",
-   "fifaId": "7hd6j6oayde5xn9gaaaes03kk"
-  },
-  {
-   "kickoff": "2026-11-15T19:45:00Z",
-   "date": "2026-11-15",
-   "home": "CRO",
-   "away": "CZE",
-   "homeScore": null,
-   "awayScore": null,
-   "homePens": null,
-   "awayPens": null,
-   "status": 1,
-   "competition": "UEFA Nations League",
-   "stage": "League A",
-   "city": "Osijek",
-   "source": "FIFA",
-   "importance": 15,
-   "knockout": false,
-   "expectedHome": 0.727,
-   "prediction": {
-    "home": {
-     "win": 4.1,
-     "draw": -3.4,
-     "loss": -10.9
-    },
-    "away": {
-     "loss": -4.1,
-     "draw": 3.4,
-     "win": 10.9
-    }
-   },
-   "homeName": "Croatia",
-   "awayName": "Czechia",
-   "fifaId": "7iigzv7r2sdlaepzls4qvvf9w"
-  },
-  {
    "kickoff": "2026-11-15T23:00:00Z",
    "date": "2026-11-15",
    "home": "PAN",
@@ -17478,8 +17423,8 @@
    "name": "Friendlies",
    "group": "Global",
    "weight": "I=10 · 5 outside windows",
-   "results": 97,
-   "fixtures": 22
+   "results": 98,
+   "fixtures": 21
   },
   {
    "name": "FIFA Series™",
@@ -17527,8 +17472,8 @@
    "name": "UEFA Nations League",
    "group": "UEFA",
    "weight": "I=15 · 25 play-offs & finals",
-   "results": 132,
-   "fixtures": 24
+   "results": 138,
+   "fixtures": 18
   },
   {
    "name": "Baltic Cup",
