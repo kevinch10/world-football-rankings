@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T12:16:05+00:00",
+ "generatedAt": "2026-11-18T20:46:08+00:00",
  "official": {
   "pubDate": "2026-07-20T10:00:00+00:00",
   "nextPubDate": null,
@@ -1162,20 +1162,6 @@
    "rankChange": 1
   },
   {
-   "id": "43831",
-   "code": "OMA",
-   "name": "Oman",
-   "confed": "AFC",
-   "officialRank": 79,
-   "officialPoints": 1306.9,
-   "previousRank": 79,
-   "aliases": [],
-   "liveRank": 81,
-   "livePoints": 1302.51,
-   "pointsChange": -4.39,
-   "rankChange": -2
-  },
-  {
    "id": "1895293",
    "code": "CUW",
    "name": "Curaçao",
@@ -1186,10 +1172,24 @@
    "aliases": [
     "Curacao"
    ],
-   "liveRank": 82,
+   "liveRank": 81,
    "livePoints": 1300.26,
    "pointsChange": 14.62,
-   "rankChange": 0
+   "rankChange": 1
+  },
+  {
+   "id": "43831",
+   "code": "OMA",
+   "name": "Oman",
+   "confed": "AFC",
+   "officialRank": 79,
+   "officialPoints": 1306.9,
+   "previousRank": 79,
+   "aliases": [],
+   "liveRank": 82,
+   "livePoints": 1298.23,
+   "pointsChange": -8.67,
+   "rankChange": -3
   },
   {
    "id": "43844",
@@ -1215,8 +1215,8 @@
    "previousRank": 85,
    "aliases": [],
    "liveRank": 84,
-   "livePoints": 1283.46,
-   "pointsChange": 13.66,
+   "livePoints": 1283.49,
+   "pointsChange": 13.69,
    "rankChange": 2
   },
   {
@@ -1290,6 +1290,20 @@
    "rankChange": -6
   },
   {
+   "id": "43839",
+   "code": "THA",
+   "name": "Thailand",
+   "confed": "AFC",
+   "officialRank": 94,
+   "officialPoints": 1250.8,
+   "previousRank": 94,
+   "aliases": [],
+   "liveRank": 90,
+   "livePoints": 1257.92,
+   "pointsChange": 7.12,
+   "rankChange": 4
+  },
+  {
    "id": "43808",
    "code": "BHR",
    "name": "Bahrain",
@@ -1298,10 +1312,10 @@
    "officialPoints": 1254.41,
    "previousRank": 92,
    "aliases": [],
-   "liveRank": 90,
+   "liveRank": 91,
    "livePoints": 1257.55,
    "pointsChange": 3.14,
-   "rankChange": 2
+   "rankChange": 1
   },
   {
    "id": "43891",
@@ -1312,24 +1326,10 @@
    "officialPoints": 1255.82,
    "previousRank": 90,
    "aliases": [],
-   "liveRank": 91,
+   "liveRank": 92,
    "livePoints": 1252.32,
    "pointsChange": -3.5,
-   "rankChange": -1
-  },
-  {
-   "id": "43839",
-   "code": "THA",
-   "name": "Thailand",
-   "confed": "AFC",
-   "officialRank": 94,
-   "officialPoints": 1250.8,
-   "previousRank": 94,
-   "aliases": [],
-   "liveRank": 92,
-   "livePoints": 1251.43,
-   "pointsChange": 0.63,
-   "rankChange": 2
+   "rankChange": -2
   },
   {
    "id": "43989",
@@ -1441,8 +1441,8 @@
    "previousRank": 101,
    "aliases": [],
    "liveRank": 100,
-   "livePoints": 1218.88,
-   "pointsChange": -5.31,
+   "livePoints": 1219.95,
+   "pointsChange": -4.24,
    "rankChange": 1
   },
   {
@@ -1986,6 +1986,20 @@
    "rankChange": 4
   },
   {
+   "id": "43815",
+   "code": "IND",
+   "name": "India",
+   "confed": "AFC",
+   "officialRank": 138,
+   "officialPoints": 1084.93,
+   "previousRank": 138,
+   "aliases": [],
+   "liveRank": 139,
+   "livePoints": 1083.01,
+   "pointsChange": -1.92,
+   "rankChange": -1
+  },
+  {
    "id": "43907",
    "code": "GUY",
    "name": "Guyana",
@@ -1994,10 +2008,10 @@
    "officialPoints": 1049.32,
    "previousRank": 150,
    "aliases": [],
-   "liveRank": 139,
+   "liveRank": 140,
    "livePoints": 1082.67,
    "pointsChange": 33.35,
-   "rankChange": 11
+   "rankChange": 10
   },
   {
    "id": "43846",
@@ -2008,24 +2022,10 @@
    "officialPoints": 1063.63,
    "previousRank": 147,
    "aliases": [],
-   "liveRank": 140,
+   "liveRank": 141,
    "livePoints": 1080.02,
    "pointsChange": 16.39,
-   "rankChange": 7
-  },
-  {
-   "id": "43815",
-   "code": "IND",
-   "name": "India",
-   "confed": "AFC",
-   "officialRank": 138,
-   "officialPoints": 1084.93,
-   "previousRank": 138,
-   "aliases": [],
-   "liveRank": 141,
-   "livePoints": 1079.99,
-   "pointsChange": -4.94,
-   "rankChange": -3
+   "rankChange": 6
   },
   {
    "id": "44004",
@@ -2588,20 +2588,6 @@
    "rankChange": 3
   },
   {
-   "id": "44011",
-   "code": "BLZ",
-   "name": "Belize",
-   "confed": "CONCACAF",
-   "officialRank": 180,
-   "officialPoints": 907.0,
-   "previousRank": 180,
-   "aliases": [],
-   "liveRank": 181,
-   "livePoints": 893.94,
-   "pointsChange": -13.06,
-   "rankChange": -1
-  },
-  {
    "id": "43809",
    "code": "BAN",
    "name": "Bangladesh",
@@ -2610,10 +2596,24 @@
    "officialPoints": 902.93,
    "previousRank": 181,
    "aliases": [],
+   "liveRank": 181,
+   "livePoints": 895.17,
+   "pointsChange": -7.76,
+   "rankChange": 0
+  },
+  {
+   "id": "44011",
+   "code": "BLZ",
+   "name": "Belize",
+   "confed": "CONCACAF",
+   "officialRank": 180,
+   "officialPoints": 907.0,
+   "previousRank": 180,
+   "aliases": [],
    "liveRank": 182,
-   "livePoints": 893.46,
-   "pointsChange": -9.47,
-   "rankChange": -1
+   "livePoints": 893.94,
+   "pointsChange": -13.06,
+   "rankChange": -2
   },
   {
    "id": "43894",
@@ -2630,20 +2630,6 @@
    "rankChange": 6
   },
   {
-   "id": "43837",
-   "code": "SRI",
-   "name": "Sri Lanka",
-   "confed": "AFC",
-   "officialRank": 187,
-   "officialPoints": 876.86,
-   "previousRank": 187,
-   "aliases": [],
-   "liveRank": 184,
-   "livePoints": 885.98,
-   "pointsChange": 9.12,
-   "rankChange": 3
-  },
-  {
    "id": "43997",
    "code": "DMA",
    "name": "Dominica",
@@ -2652,10 +2638,10 @@
    "officialPoints": 897.69,
    "previousRank": 182,
    "aliases": [],
-   "liveRank": 185,
+   "liveRank": 184,
    "livePoints": 885.98,
    "pointsChange": -11.71,
-   "rankChange": -3
+   "rankChange": -2
   },
   {
    "id": "20006",
@@ -2666,10 +2652,24 @@
    "officialPoints": 887.06,
    "previousRank": 184,
    "aliases": [],
-   "liveRank": 186,
+   "liveRank": 185,
    "livePoints": 882.38,
    "pointsChange": -4.68,
-   "rankChange": -2
+   "rankChange": -1
+  },
+  {
+   "id": "43837",
+   "code": "SRI",
+   "name": "Sri Lanka",
+   "confed": "AFC",
+   "officialRank": 187,
+   "officialPoints": 876.86,
+   "previousRank": 187,
+   "aliases": [],
+   "liveRank": 186,
+   "livePoints": 881.08,
+   "pointsChange": 4.22,
+   "rankChange": 1
   },
   {
    "id": "43824",
@@ -2751,8 +2751,8 @@
    "previousRank": 192,
    "aliases": [],
    "liveRank": 192,
-   "livePoints": 870.81,
-   "pointsChange": 0.0,
+   "livePoints": 865.37,
+   "pointsChange": -5.44,
    "rankChange": 0
   },
   {
@@ -2811,8 +2811,8 @@
     "Brunei"
    ],
    "liveRank": 196,
-   "livePoints": 849.55,
-   "pointsChange": -8.18,
+   "livePoints": 846.28,
+   "pointsChange": -11.45,
    "rankChange": -2
   },
   {
@@ -2825,8 +2825,8 @@
    "previousRank": 198,
    "aliases": [],
    "liveRank": 197,
-   "livePoints": 839.03,
-   "pointsChange": -1.25,
+   "livePoints": 844.62,
+   "pointsChange": 4.34,
    "rankChange": 1
   },
   {
@@ -3859,6 +3859,48 @@
   {
    "date": "2026-11-17",
    "kickoff": "2026-11-17T12:00:00Z",
+   "home": "THA",
+   "away": "TJK",
+   "homeScore": 3,
+   "awayScore": 0,
+   "homePens": null,
+   "awayPens": null,
+   "status": 0,
+   "stage": "",
+   "city": "Sisaket",
+   "competition": "King's Cup",
+   "source": "Community dataset",
+   "counted": true,
+   "importance": 10,
+   "homeDelta": 4.73,
+   "awayDelta": -4.73,
+   "homeName": "Thailand",
+   "awayName": "Tajikistan"
+  },
+  {
+   "date": "2026-11-17",
+   "kickoff": "2026-11-17T12:00:00Z",
+   "home": "OMA",
+   "away": "BRU",
+   "homeScore": 7,
+   "awayScore": 0,
+   "homePens": null,
+   "awayPens": null,
+   "status": 0,
+   "stage": "",
+   "city": "Sisaket",
+   "competition": "King's Cup",
+   "source": "Community dataset",
+   "counted": true,
+   "importance": 10,
+   "homeDelta": 1.52,
+   "awayDelta": -1.52,
+   "homeName": "Oman",
+   "awayName": "Brunei Darussalam"
+  },
+  {
+   "date": "2026-11-17",
+   "kickoff": "2026-11-17T12:00:00Z",
    "home": "GNB",
    "away": "MAD",
    "homeScore": 2,
@@ -4784,8 +4826,8 @@
    "source": "FIFA",
    "counted": true,
    "importance": 10,
-   "homeDelta": 3.19,
-   "awayDelta": -3.19,
+   "homeDelta": 3.22,
+   "awayDelta": -3.22,
    "homeName": "New Zealand",
    "awayName": "India",
    "fifaId": "7i8gty68v89luvus6e28qt5g"
@@ -5116,6 +5158,90 @@
    "homeName": "Kosovo",
    "awayName": "Israel",
    "fifaId": "f1xiwulsj0cnwtavtrhm4wsus"
+  },
+  {
+   "date": "2026-11-14",
+   "kickoff": "2026-11-14T12:00:00Z",
+   "home": "THA",
+   "away": "BRU",
+   "homeScore": 6,
+   "awayScore": 0,
+   "homePens": null,
+   "awayPens": null,
+   "status": 0,
+   "stage": "",
+   "city": "Sisaket",
+   "competition": "King's Cup",
+   "source": "Community dataset",
+   "counted": true,
+   "importance": 10,
+   "homeDelta": 1.76,
+   "awayDelta": -1.76,
+   "homeName": "Thailand",
+   "awayName": "Brunei Darussalam"
+  },
+  {
+   "date": "2026-11-14",
+   "kickoff": "2026-11-14T12:00:00Z",
+   "home": "OMA",
+   "away": "TJK",
+   "homeScore": 0,
+   "awayScore": 1,
+   "homePens": null,
+   "awayPens": null,
+   "status": 0,
+   "stage": "",
+   "city": "Sisaket",
+   "competition": "King's Cup",
+   "source": "Community dataset",
+   "counted": true,
+   "importance": 10,
+   "homeDelta": -5.8,
+   "awayDelta": 5.8,
+   "homeName": "Oman",
+   "awayName": "Tajikistan"
+  },
+  {
+   "date": "2026-11-14",
+   "kickoff": "2026-11-14T12:00:00Z",
+   "home": "IND",
+   "away": "BHU",
+   "homeScore": 2,
+   "awayScore": 1,
+   "homePens": null,
+   "awayPens": null,
+   "status": 0,
+   "stage": "",
+   "city": "Dhaka",
+   "competition": "SAFF Championship",
+   "source": "Community dataset",
+   "counted": true,
+   "importance": 10,
+   "homeDelta": 3.05,
+   "awayDelta": -3.05,
+   "homeName": "India",
+   "awayName": "Bhutan"
+  },
+  {
+   "date": "2026-11-14",
+   "kickoff": "2026-11-14T12:00:00Z",
+   "home": "BAN",
+   "away": "PAK",
+   "homeScore": 0,
+   "awayScore": 1,
+   "homePens": null,
+   "awayPens": null,
+   "status": 0,
+   "stage": "",
+   "city": "Dhaka",
+   "competition": "SAFF Championship",
+   "source": "Community dataset",
+   "counted": true,
+   "importance": 10,
+   "homeDelta": -5.59,
+   "awayDelta": 5.59,
+   "homeName": "Bangladesh",
+   "awayName": "Pakistan"
   },
   {
    "kickoff": "2026-11-14T12:00:00Z",
@@ -6549,6 +6675,27 @@
    "fifaId": "6ydvm6rqneh73t7x6zlpmck4"
   },
   {
+   "date": "2026-11-11",
+   "kickoff": "2026-11-11T12:00:00Z",
+   "home": "BAN",
+   "away": "SRI",
+   "homeScore": 4,
+   "awayScore": 0,
+   "homePens": null,
+   "awayPens": null,
+   "status": 0,
+   "stage": "",
+   "city": "Dhaka",
+   "competition": "SAFF Championship",
+   "source": "Community dataset",
+   "counted": true,
+   "importance": 10,
+   "homeDelta": 4.91,
+   "awayDelta": -4.91,
+   "homeName": "Bangladesh",
+   "awayName": "Sri Lanka"
+  },
+  {
    "kickoff": "2026-11-11T12:00:00Z",
    "date": "2026-11-11",
    "home": "VIE",
@@ -6569,6 +6716,27 @@
    "homeName": "Vietnam",
    "awayName": "Chinese Taipei",
    "fifaId": "bvn89pbrh91oaq2k7rmgrn28k"
+  },
+  {
+   "date": "2026-11-05",
+   "kickoff": "2026-11-05T12:00:00Z",
+   "home": "BAN",
+   "away": "BHU",
+   "homeScore": 1,
+   "awayScore": 0,
+   "homePens": null,
+   "awayPens": null,
+   "status": 0,
+   "stage": "",
+   "city": "Dhaka",
+   "competition": "SAFF Championship",
+   "source": "Community dataset",
+   "counted": true,
+   "importance": 5,
+   "homeDelta": 2.39,
+   "awayDelta": -2.39,
+   "homeName": "Bangladesh",
+   "awayName": "Bhutan"
   },
   {
    "kickoff": "2026-10-07T02:30:00Z",
@@ -13968,17 +14136,17 @@
    "source": "FIFA",
    "importance": 35,
    "knockout": false,
-   "expectedHome": 0.324,
+   "expectedHome": 0.327,
    "prediction": {
     "home": {
-     "win": 23.67,
-     "draw": 6.17,
-     "loss": -11.33
+     "win": 23.55,
+     "draw": 6.05,
+     "loss": -11.45
     },
     "away": {
-     "loss": -23.67,
-     "draw": -6.17,
-     "win": 11.33
+     "loss": -23.55,
+     "draw": -6.05,
+     "win": 11.45
     }
    },
    "homeName": "Kuwait",
@@ -14166,17 +14334,17 @@
    "source": "FIFA",
    "importance": 35,
    "knockout": false,
-   "expectedHome": 0.33,
+   "expectedHome": 0.331,
    "prediction": {
     "home": {
-     "win": 23.46,
-     "draw": 5.96,
-     "loss": -11.54
+     "win": 23.43,
+     "draw": 5.93,
+     "loss": -11.57
     },
     "away": {
-     "loss": -23.46,
-     "draw": -5.96,
-     "win": 11.54
+     "loss": -23.43,
+     "draw": -5.93,
+     "win": 11.57
     }
    },
    "homeName": "Tajikistan",
@@ -14232,17 +14400,17 @@
    "source": "FIFA",
    "importance": 35,
    "knockout": false,
-   "expectedHome": 0.642,
+   "expectedHome": 0.637,
    "prediction": {
     "home": {
-     "win": 12.51,
-     "draw": -4.99,
-     "loss": -22.49
+     "win": 12.71,
+     "draw": -4.79,
+     "loss": -22.29
     },
     "away": {
-     "loss": -12.51,
-     "draw": 4.99,
-     "win": 22.49
+     "loss": -12.71,
+     "draw": 4.79,
+     "win": 22.29
     }
    },
    "homeName": "Qatar",
@@ -14298,17 +14466,17 @@
    "source": "FIFA",
    "importance": 35,
    "knockout": false,
-   "expectedHome": 0.377,
+   "expectedHome": 0.373,
    "prediction": {
     "home": {
-     "win": 21.8,
-     "draw": 4.3,
-     "loss": -13.2
+     "win": 21.94,
+     "draw": 4.44,
+     "loss": -13.06
     },
     "away": {
-     "loss": -21.8,
-     "draw": -4.3,
-     "win": 13.2
+     "loss": -21.94,
+     "draw": -4.44,
+     "win": 13.06
     }
    },
    "homeName": "Oman",
@@ -14529,17 +14697,17 @@
    "source": "FIFA",
    "importance": 35,
    "knockout": false,
-   "expectedHome": 0.35,
+   "expectedHome": 0.349,
    "prediction": {
     "home": {
-     "win": 22.76,
-     "draw": 5.26,
-     "loss": -12.24
+     "win": 22.8,
+     "draw": 5.3,
+     "loss": -12.2
     },
     "away": {
-     "loss": -22.76,
-     "draw": -5.26,
-     "win": 12.24
+     "loss": -22.8,
+     "draw": -5.3,
+     "win": 12.2
     }
    },
    "homeName": "Singapore",
@@ -14628,17 +14796,17 @@
    "source": "FIFA",
    "importance": 35,
    "knockout": false,
-   "expectedHome": 0.159,
+   "expectedHome": 0.163,
    "prediction": {
     "home": {
-     "win": 29.42,
-     "draw": 11.92,
-     "loss": -5.58
+     "win": 29.3,
+     "draw": 11.8,
+     "loss": -5.7
     },
     "away": {
-     "loss": -29.42,
-     "draw": -11.92,
-     "win": 5.58
+     "loss": -29.3,
+     "draw": -11.8,
+     "win": 5.7
     }
    },
    "homeName": "Thailand",
@@ -14793,17 +14961,17 @@
    "source": "FIFA",
    "importance": 35,
    "knockout": false,
-   "expectedHome": 0.549,
+   "expectedHome": 0.545,
    "prediction": {
     "home": {
-     "win": 15.77,
-     "draw": -1.73,
-     "loss": -19.23
+     "win": 15.91,
+     "draw": -1.59,
+     "loss": -19.09
     },
     "away": {
-     "loss": -15.77,
-     "draw": 1.73,
-     "win": 19.23
+     "loss": -15.91,
+     "draw": 1.59,
+     "win": 19.09
     }
    },
    "homeName": "Oman",
@@ -14892,17 +15060,17 @@
    "source": "FIFA",
    "importance": 35,
    "knockout": false,
-   "expectedHome": 0.798,
+   "expectedHome": 0.797,
    "prediction": {
     "home": {
-     "win": 7.07,
-     "draw": -10.43,
-     "loss": -27.93
+     "win": 7.09,
+     "draw": -10.41,
+     "loss": -27.91
     },
     "away": {
-     "loss": -7.07,
-     "draw": 10.43,
-     "win": 27.93
+     "loss": -7.09,
+     "draw": 10.41,
+     "win": 27.91
     }
    },
    "homeName": "Australia",
@@ -15024,17 +15192,17 @@
    "source": "FIFA",
    "importance": 35,
    "knockout": false,
-   "expectedHome": 0.581,
+   "expectedHome": 0.587,
    "prediction": {
     "home": {
-     "win": 14.67,
-     "draw": -2.83,
-     "loss": -20.33
+     "win": 14.46,
+     "draw": -3.04,
+     "loss": -20.54
     },
     "away": {
-     "loss": -14.67,
-     "draw": 2.83,
-     "win": 20.33
+     "loss": -14.46,
+     "draw": 3.04,
+     "win": 20.54
     }
    },
    "homeName": "Thailand",
@@ -16791,7 +16959,7 @@
    "name": "SAFF Championship",
    "group": "AFC",
    "weight": "I=10 · 5 outside windows",
-   "results": 0,
+   "results": 4,
    "fixtures": 0
   },
   {
@@ -16819,7 +16987,7 @@
    "name": "King's Cup",
    "group": "AFC",
    "weight": "I=10 · 5 outside windows",
-   "results": 0,
+   "results": 4,
    "fixtures": 0
   },
   {
