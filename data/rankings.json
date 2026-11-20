@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T08:29:59+00:00",
+ "generatedAt": "2026-11-20T17:09:44+00:00",
  "official": {
   "pubDate": "2026-07-20T10:00:00+00:00",
   "nextPubDate": null,
@@ -6202,27 +6202,6 @@
   {
    "date": "2026-11-12",
    "kickoff": "2026-11-12T20:00:00Z",
-   "home": "SEN",
-   "away": "SDN",
-   "homeScore": 4,
-   "awayScore": 1,
-   "homePens": null,
-   "awayPens": null,
-   "city": "Dakar",
-   "status": 0,
-   "competition": "CAF Africa Cup of Nations Qualifiers",
-   "stage": "Group stage",
-   "source": "Wikipedia",
-   "counted": true,
-   "importance": 25,
-   "homeDelta": 3.29,
-   "awayDelta": -3.29,
-   "homeName": "Senegal",
-   "awayName": "Sudan"
-  },
-  {
-   "date": "2026-11-12",
-   "kickoff": "2026-11-12T20:00:00Z",
    "home": "BEN",
    "away": "CTA",
    "homeScore": 4,
@@ -6372,6 +6351,27 @@
    "homeName": "Czechia",
    "awayName": "Spain",
    "fifaId": "7dulob6sd7ywy3nk9ju4j6ihg"
+  },
+  {
+   "date": "2026-11-12",
+   "kickoff": "2026-11-12T19:00:00Z",
+   "home": "SEN",
+   "away": "SDN",
+   "homeScore": 4,
+   "awayScore": 1,
+   "homePens": null,
+   "awayPens": null,
+   "city": "Dakar",
+   "status": 0,
+   "competition": "CAF Africa Cup of Nations Qualifiers",
+   "stage": "Group stage",
+   "source": "Wikipedia",
+   "counted": true,
+   "importance": 25,
+   "homeDelta": 3.29,
+   "awayDelta": -3.29,
+   "homeName": "Senegal",
+   "awayName": "Sudan"
   },
   {
    "date": "2026-11-12",
@@ -16011,6 +16011,138 @@
    "awayName": "Nigeria"
   },
   {
+   "kickoff": "2027-03-25T23:00:00Z",
+   "date": "2027-03-25",
+   "home": "CAN",
+   "away": "PAN",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Concacaf Nations League",
+   "stage": "Semi-finals",
+   "city": "Inglewood, California",
+   "source": "FIFA",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.599,
+   "prediction": {
+    "home": {
+     "win": 10.03,
+     "draw": -2.47,
+     "loss": -14.97
+    },
+    "away": {
+     "loss": -10.03,
+     "draw": 2.47,
+     "win": 14.97
+    }
+   },
+   "homeName": "Canada",
+   "awayName": "Panama",
+   "fifaId": "8mrryh7g92gmbprb5542w5fkk"
+  },
+  {
+   "kickoff": "2027-03-26T00:00:00Z",
+   "date": "2027-03-26",
+   "home": "GUY",
+   "away": "CUB",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Concacaf Nations League",
+   "stage": "League B - Semi-finals",
+   "city": "",
+   "source": "FIFA",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.581,
+   "prediction": {
+    "home": {
+     "win": 10.48,
+     "draw": -2.02,
+     "loss": -14.52
+    },
+    "away": {
+     "loss": -10.48,
+     "draw": 2.02,
+     "win": 14.52
+    }
+   },
+   "homeName": "Guyana",
+   "awayName": "Cuba",
+   "fifaId": "1keilwaw17xrcoh889caor2ms"
+  },
+  {
+   "kickoff": "2027-03-26T00:00:00Z",
+   "date": "2027-03-26",
+   "home": "LCA",
+   "away": "VIN",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Concacaf Nations League",
+   "stage": "League B - Semi-finals",
+   "city": "",
+   "source": "FIFA",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.508,
+   "prediction": {
+    "home": {
+     "win": 12.3,
+     "draw": -0.2,
+     "loss": -12.7
+    },
+    "away": {
+     "loss": -12.3,
+     "draw": 0.2,
+     "win": 12.7
+    }
+   },
+   "homeName": "St Lucia",
+   "awayName": "St Vincent and the Grenadines",
+   "fifaId": "1kxz36isvzborqskdlpk1q0ic"
+  },
+  {
+   "kickoff": "2027-03-26T02:15:00Z",
+   "date": "2027-03-25",
+   "home": "USA",
+   "away": "MEX",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Concacaf Nations League",
+   "stage": "Semi-finals",
+   "city": "Inglewood, California",
+   "source": "FIFA",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.49,
+   "prediction": {
+    "home": {
+     "win": 12.74,
+     "draw": 0.24,
+     "loss": -12.26
+    },
+    "away": {
+     "loss": -12.74,
+     "draw": -0.24,
+     "win": 12.26
+    }
+   },
+   "homeName": "USA",
+   "awayName": "Mexico",
+   "fifaId": "8n9sjqity7km5epdahhhnl7v8"
+  },
+  {
    "date": "2027-03-28",
    "kickoff": "2027-03-28T12:00:00Z",
    "home": "MAR",
@@ -16777,6 +16909,39 @@
    },
    "homeName": "Tanzania",
    "awayName": "Madagascar"
+  },
+  {
+   "kickoff": "2027-06-09T00:00:00Z",
+   "date": "2027-06-09",
+   "home": "MSR",
+   "away": "ARU",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "Concacaf Nations League",
+   "stage": "League C - Semi-finals",
+   "city": "",
+   "source": "FIFA",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.537,
+   "prediction": {
+    "home": {
+     "win": 11.57,
+     "draw": -0.93,
+     "loss": -13.43
+    },
+    "away": {
+     "loss": -11.57,
+     "draw": 0.93,
+     "win": 13.43
+    }
+   },
+   "homeName": "Montserrat",
+   "awayName": "Aruba",
+   "fifaId": "8zdz189j8zpl9ilhey9koayok"
   }
  ],
  "competitions": [
@@ -16883,7 +17048,7 @@
    "group": "CONCACAF",
    "weight": "I=15 · 25 finals",
    "results": 72,
-   "fixtures": 0
+   "fixtures": 5
   },
   {
    "name": "Concacaf Series",
