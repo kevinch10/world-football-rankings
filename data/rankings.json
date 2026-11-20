@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T10:15:12+00:00",
+ "generatedAt": "2026-11-20T08:29:59+00:00",
  "official": {
   "pubDate": "2026-07-20T10:00:00+00:00",
   "nextPubDate": null,
@@ -3816,6 +3816,27 @@
   {
    "date": "2026-11-17",
    "kickoff": "2026-11-17T13:00:00Z",
+   "home": "TAN",
+   "away": "NGA",
+   "homeScore": 0,
+   "awayScore": 0,
+   "homePens": null,
+   "awayPens": null,
+   "city": "Zanzibar City",
+   "status": 0,
+   "competition": "CAF Africa Cup of Nations Qualifiers",
+   "stage": "Group stage",
+   "source": "Wikipedia",
+   "counted": true,
+   "importance": 25,
+   "homeDelta": 8.21,
+   "awayDelta": -8.21,
+   "homeName": "Tanzania",
+   "awayName": "Nigeria"
+  },
+  {
+   "date": "2026-11-17",
+   "kickoff": "2026-11-17T13:00:00Z",
    "home": "LES",
    "away": "GAB",
    "homeScore": 2,
@@ -4025,27 +4046,6 @@
    "homeName": "China PR",
    "awayName": "Bahrain",
    "fifaId": "9mvavjjgy33s8zdfll1ngarkk"
-  },
-  {
-   "date": "2026-11-17",
-   "kickoff": "2026-11-17T11:00:00Z",
-   "home": "TAN",
-   "away": "NGA",
-   "homeScore": 0,
-   "awayScore": 0,
-   "homePens": null,
-   "awayPens": null,
-   "city": "Zanzibar City",
-   "status": 0,
-   "competition": "CAF Africa Cup of Nations Qualifiers",
-   "stage": "Group stage",
-   "source": "Wikipedia",
-   "counted": true,
-   "importance": 25,
-   "homeDelta": 8.21,
-   "awayDelta": -8.21,
-   "homeName": "Tanzania",
-   "awayName": "Nigeria"
   },
   {
    "date": "2026-11-17",
