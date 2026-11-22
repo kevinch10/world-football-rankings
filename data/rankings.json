@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T11:49:28+00:00",
+ "generatedAt": "2026-11-22T18:51:42+00:00",
  "official": {
   "pubDate": "2026-07-20T10:00:00+00:00",
   "nextPubDate": null,
@@ -16044,6 +16044,204 @@
    "awayName": "Nigeria"
   },
   {
+   "kickoff": "2027-03-25T17:00:00Z",
+   "date": "2027-03-25",
+   "home": "CYP",
+   "away": "MKD",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "UEFA Nations League",
+   "stage": "Play-offs B/C",
+   "city": "",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.316,
+   "prediction": {
+    "home": {
+     "win": 10.26,
+     "draw": 2.76,
+     "loss": -4.74
+    },
+    "away": {
+     "loss": -10.26,
+     "draw": -2.76,
+     "win": 4.74
+    }
+   },
+   "homeName": "Cyprus",
+   "awayName": "North Macedonia",
+   "fifaId": "69pczfnmnbzot63793wnlnztg"
+  },
+  {
+   "kickoff": "2027-03-25T19:45:00Z",
+   "date": "2027-03-25",
+   "home": "ESP",
+   "away": "FRA",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "UEFA Nations League",
+   "stage": "Quarter-finals",
+   "city": "",
+   "source": "FIFA",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.551,
+   "prediction": {
+    "home": {
+     "win": 11.22,
+     "draw": -1.28,
+     "loss": -13.78
+    },
+    "away": {
+     "loss": -11.22,
+     "draw": 1.28,
+     "win": 13.78
+    }
+   },
+   "homeName": "Spain",
+   "awayName": "France",
+   "fifaId": "5sadj5e5pgt0eofez8861qeqc"
+  },
+  {
+   "kickoff": "2027-03-25T19:45:00Z",
+   "date": "2027-03-25",
+   "home": "BEL",
+   "away": "GER",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "UEFA Nations League",
+   "stage": "Quarter-finals",
+   "city": "",
+   "source": "FIFA",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.557,
+   "prediction": {
+    "home": {
+     "win": 11.06,
+     "draw": -1.44,
+     "loss": -13.94
+    },
+    "away": {
+     "loss": -11.06,
+     "draw": 1.44,
+     "win": 13.94
+    }
+   },
+   "homeName": "Belgium",
+   "awayName": "Germany",
+   "fifaId": "6weu41554yxseirhylt4k0sus"
+  },
+  {
+   "kickoff": "2027-03-25T19:45:00Z",
+   "date": "2027-03-25",
+   "home": "BIH",
+   "away": "DEN",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "UEFA Nations League",
+   "stage": "Play-offs A/B",
+   "city": "",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.324,
+   "prediction": {
+    "home": {
+     "win": 10.14,
+     "draw": 2.64,
+     "loss": -4.86
+    },
+    "away": {
+     "loss": -10.14,
+     "draw": -2.64,
+     "win": 4.86
+    }
+   },
+   "homeName": "Bosnia and Herzegovina",
+   "awayName": "Denmark",
+   "fifaId": "44d2m2rxkvm6dlru5z30yiwb8"
+  },
+  {
+   "kickoff": "2027-03-25T19:45:00Z",
+   "date": "2027-03-25",
+   "home": "HUN",
+   "away": "SRB",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "UEFA Nations League",
+   "stage": "Play-offs A/B",
+   "city": "",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.542,
+   "prediction": {
+    "home": {
+     "win": 6.87,
+     "draw": -0.63,
+     "loss": -8.13
+    },
+    "away": {
+     "loss": -6.87,
+     "draw": 0.63,
+     "win": 8.13
+    }
+   },
+   "homeName": "Hungary",
+   "awayName": "Serbia",
+   "fifaId": "51hdfe17wsis2zedtnisdqdxw"
+  },
+  {
+   "kickoff": "2027-03-25T19:45:00Z",
+   "date": "2027-03-25",
+   "home": "BLR",
+   "away": "ISR",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "UEFA Nations League",
+   "stage": "Play-offs B/C",
+   "city": "",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.42,
+   "prediction": {
+    "home": {
+     "win": 8.69,
+     "draw": 1.19,
+     "loss": -6.31
+    },
+    "away": {
+     "loss": -8.69,
+     "draw": -1.19,
+     "win": 6.31
+    }
+   },
+   "homeName": "Belarus",
+   "awayName": "Israel",
+   "fifaId": "93a0820viylp5wtghqbmkjjmc"
+  },
+  {
    "kickoff": "2027-03-25T23:00:00Z",
    "date": "2027-03-25",
    "home": "CAN",
@@ -16174,6 +16372,204 @@
    "homeName": "USA",
    "awayName": "Mexico",
    "fifaId": "8n9sjqity7km5epdahhhnl7v8"
+  },
+  {
+   "kickoff": "2027-03-27T14:00:00Z",
+   "date": "2027-03-27",
+   "home": "FRO",
+   "away": "GEO",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "UEFA Nations League",
+   "stage": "Play-offs B/C",
+   "city": "",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.329,
+   "prediction": {
+    "home": {
+     "win": 10.06,
+     "draw": 2.56,
+     "loss": -4.94
+    },
+    "away": {
+     "loss": -10.06,
+     "draw": -2.56,
+     "win": 4.94
+    }
+   },
+   "homeName": "Faroe Islands",
+   "awayName": "Georgia",
+   "fifaId": "89bk50pb8yg01103w7bvqxvys"
+  },
+  {
+   "kickoff": "2027-03-27T17:00:00Z",
+   "date": "2027-03-27",
+   "home": "NOR",
+   "away": "ENG",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "UEFA Nations League",
+   "stage": "Quarter-finals",
+   "city": "",
+   "source": "FIFA",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.249,
+   "prediction": {
+    "home": {
+     "win": 18.78,
+     "draw": 6.28,
+     "loss": -6.22
+    },
+    "away": {
+     "loss": -18.78,
+     "draw": -6.28,
+     "win": 6.22
+    }
+   },
+   "homeName": "Norway",
+   "awayName": "England",
+   "fifaId": "4j4zr0p0k8tcm1l53l5i6fbis"
+  },
+  {
+   "kickoff": "2027-03-27T17:00:00Z",
+   "date": "2027-03-27",
+   "home": "EST",
+   "away": "ROU",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "UEFA Nations League",
+   "stage": "Play-offs B/C",
+   "city": "",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.265,
+   "prediction": {
+    "home": {
+     "win": 11.02,
+     "draw": 3.52,
+     "loss": -3.98
+    },
+    "away": {
+     "loss": -11.02,
+     "draw": -3.52,
+     "win": 3.98
+    }
+   },
+   "homeName": "Estonia",
+   "awayName": "Romania",
+   "fifaId": "76blpxdnhs9q0mjjzaakac07o"
+  },
+  {
+   "kickoff": "2027-03-27T19:45:00Z",
+   "date": "2027-03-27",
+   "home": "NED",
+   "away": "POR",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "UEFA Nations League",
+   "stage": "Quarter-finals",
+   "city": "",
+   "source": "FIFA",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.474,
+   "prediction": {
+    "home": {
+     "win": 13.15,
+     "draw": 0.65,
+     "loss": -11.85
+    },
+    "away": {
+     "loss": -13.15,
+     "draw": -0.65,
+     "win": 11.85
+    }
+   },
+   "homeName": "Netherlands",
+   "awayName": "Portugal",
+   "fifaId": "61ko6no1uf4azqvtr9jjgmm8k"
+  },
+  {
+   "kickoff": "2027-03-27T19:45:00Z",
+   "date": "2027-03-27",
+   "home": "IRL",
+   "away": "CRO",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "UEFA Nations League",
+   "stage": "Play-offs A/B",
+   "city": "",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.258,
+   "prediction": {
+    "home": {
+     "win": 11.13,
+     "draw": 3.63,
+     "loss": -3.87
+    },
+    "away": {
+     "loss": -11.13,
+     "draw": -3.63,
+     "win": 3.87
+    }
+   },
+   "homeName": "Republic of Ireland",
+   "awayName": "Croatia",
+   "fifaId": "668im015xqmp8c2y3bdel9vro"
+  },
+  {
+   "kickoff": "2027-03-27T19:45:00Z",
+   "date": "2027-03-27",
+   "home": "SVN",
+   "away": "WAL",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "UEFA Nations League",
+   "stage": "Play-offs A/B",
+   "city": "",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.463,
+   "prediction": {
+    "home": {
+     "win": 8.06,
+     "draw": 0.56,
+     "loss": -6.94
+    },
+    "away": {
+     "loss": -8.06,
+     "draw": -0.56,
+     "win": 6.94
+    }
+   },
+   "homeName": "Slovenia",
+   "awayName": "Wales",
+   "fifaId": "71qw5a19733hhe9clgemrxgr8"
   },
   {
    "date": "2027-03-28",
@@ -16944,6 +17340,402 @@
    "awayName": "Madagascar"
   },
   {
+   "kickoff": "2027-03-28T13:00:00Z",
+   "date": "2027-03-28",
+   "home": "MKD",
+   "away": "CYP",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "UEFA Nations League",
+   "stage": "Play-offs B/C",
+   "city": "",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.684,
+   "prediction": {
+    "home": {
+     "win": 4.74,
+     "draw": -2.76,
+     "loss": -10.26
+    },
+    "away": {
+     "loss": -4.74,
+     "draw": 2.76,
+     "win": 10.26
+    }
+   },
+   "homeName": "North Macedonia",
+   "awayName": "Cyprus",
+   "fifaId": "9pbm5fs1axdfjgbsn6hb50104"
+  },
+  {
+   "kickoff": "2027-03-28T16:00:00Z",
+   "date": "2027-03-28",
+   "home": "SRB",
+   "away": "HUN",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "UEFA Nations League",
+   "stage": "Play-offs A/B",
+   "city": "",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.458,
+   "prediction": {
+    "home": {
+     "win": 8.13,
+     "draw": 0.63,
+     "loss": -6.87
+    },
+    "away": {
+     "loss": -8.13,
+     "draw": -0.63,
+     "win": 6.87
+    }
+   },
+   "homeName": "Serbia",
+   "awayName": "Hungary",
+   "fifaId": "9nxkpuoaq0x2ifunkv1z7o2l0"
+  },
+  {
+   "kickoff": "2027-03-28T18:45:00Z",
+   "date": "2027-03-28",
+   "home": "FRA",
+   "away": "ESP",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "UEFA Nations League",
+   "stage": "Quarter-finals",
+   "city": "",
+   "source": "FIFA",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.449,
+   "prediction": {
+    "home": {
+     "win": 13.78,
+     "draw": 1.28,
+     "loss": -11.22
+    },
+    "away": {
+     "loss": -13.78,
+     "draw": -1.28,
+     "win": 11.22
+    }
+   },
+   "homeName": "France",
+   "awayName": "Spain",
+   "fifaId": "7g9rfcui029esdq0kla4oedxw"
+  },
+  {
+   "kickoff": "2027-03-28T18:45:00Z",
+   "date": "2027-03-28",
+   "home": "GER",
+   "away": "BEL",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "UEFA Nations League",
+   "stage": "Quarter-finals",
+   "city": "",
+   "source": "FIFA",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.443,
+   "prediction": {
+    "home": {
+     "win": 13.94,
+     "draw": 1.44,
+     "loss": -11.06
+    },
+    "away": {
+     "loss": -13.94,
+     "draw": -1.44,
+     "win": 11.06
+    }
+   },
+   "homeName": "Germany",
+   "awayName": "Belgium",
+   "fifaId": "7vx456433t10jmid0pswl747o"
+  },
+  {
+   "kickoff": "2027-03-28T18:45:00Z",
+   "date": "2027-03-28",
+   "home": "DEN",
+   "away": "BIH",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "UEFA Nations League",
+   "stage": "Play-offs A/B",
+   "city": "",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.676,
+   "prediction": {
+    "home": {
+     "win": 4.86,
+     "draw": -2.64,
+     "loss": -10.14
+    },
+    "away": {
+     "loss": -4.86,
+     "draw": 2.64,
+     "win": 10.14
+    }
+   },
+   "homeName": "Denmark",
+   "awayName": "Bosnia and Herzegovina",
+   "fifaId": "9bt84ty0zzttxuju38oz8dslw"
+  },
+  {
+   "kickoff": "2027-03-28T18:45:00Z",
+   "date": "2027-03-28",
+   "home": "ISR",
+   "away": "BLR",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "UEFA Nations League",
+   "stage": "Play-offs B/C",
+   "city": "",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.58,
+   "prediction": {
+    "home": {
+     "win": 6.31,
+     "draw": -1.19,
+     "loss": -8.69
+    },
+    "away": {
+     "loss": -6.31,
+     "draw": 1.19,
+     "win": 8.69
+    }
+   },
+   "homeName": "Israel",
+   "awayName": "Belarus",
+   "fifaId": "b259n8oytu2fo4zpk2dyhgu8k"
+  },
+  {
+   "kickoff": "2027-03-30T16:00:00Z",
+   "date": "2027-03-30",
+   "home": "GEO",
+   "away": "FRO",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "UEFA Nations League",
+   "stage": "Play-offs B/C",
+   "city": "",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.671,
+   "prediction": {
+    "home": {
+     "win": 4.94,
+     "draw": -2.56,
+     "loss": -10.06
+    },
+    "away": {
+     "loss": -4.94,
+     "draw": 2.56,
+     "win": 10.06
+    }
+   },
+   "homeName": "Georgia",
+   "awayName": "Faroe Islands",
+   "fifaId": "ar0qmed959377t3lu0podez2s"
+  },
+  {
+   "kickoff": "2027-03-30T18:45:00Z",
+   "date": "2027-03-30",
+   "home": "ENG",
+   "away": "NOR",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "UEFA Nations League",
+   "stage": "Quarter-finals",
+   "city": "London",
+   "source": "FIFA",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.751,
+   "prediction": {
+    "home": {
+     "win": 6.22,
+     "draw": -6.28,
+     "loss": -18.78
+    },
+    "away": {
+     "loss": -6.22,
+     "draw": 6.28,
+     "win": 18.78
+    }
+   },
+   "homeName": "England",
+   "awayName": "Norway",
+   "fifaId": "778vkp7e8ktxjf1cddz16xlp0"
+  },
+  {
+   "kickoff": "2027-03-30T18:45:00Z",
+   "date": "2027-03-30",
+   "home": "POR",
+   "away": "NED",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "UEFA Nations League",
+   "stage": "Quarter-finals",
+   "city": "",
+   "source": "FIFA",
+   "importance": 25,
+   "knockout": false,
+   "expectedHome": 0.526,
+   "prediction": {
+    "home": {
+     "win": 11.85,
+     "draw": -0.65,
+     "loss": -13.15
+    },
+    "away": {
+     "loss": -11.85,
+     "draw": 0.65,
+     "win": 13.15
+    }
+   },
+   "homeName": "Portugal",
+   "awayName": "Netherlands",
+   "fifaId": "7pkc3njzxudhl4q6336ritjis"
+  },
+  {
+   "kickoff": "2027-03-30T18:45:00Z",
+   "date": "2027-03-30",
+   "home": "CRO",
+   "away": "IRL",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "UEFA Nations League",
+   "stage": "Play-offs A/B",
+   "city": "",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.742,
+   "prediction": {
+    "home": {
+     "win": 3.87,
+     "draw": -3.63,
+     "loss": -11.13
+    },
+    "away": {
+     "loss": -3.87,
+     "draw": 3.63,
+     "win": 11.13
+    }
+   },
+   "homeName": "Croatia",
+   "awayName": "Republic of Ireland",
+   "fifaId": "9ze6vf47i4d61nmjx6av9bf2s"
+  },
+  {
+   "kickoff": "2027-03-30T18:45:00Z",
+   "date": "2027-03-30",
+   "home": "WAL",
+   "away": "SVN",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "UEFA Nations League",
+   "stage": "Play-offs A/B",
+   "city": "",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.537,
+   "prediction": {
+    "home": {
+     "win": 6.94,
+     "draw": -0.56,
+     "loss": -8.06
+    },
+    "away": {
+     "loss": -6.94,
+     "draw": 0.56,
+     "win": 8.06
+    }
+   },
+   "homeName": "Wales",
+   "awayName": "Slovenia",
+   "fifaId": "aa684pckshe9gq0vf1zllm0pg"
+  },
+  {
+   "kickoff": "2027-03-30T18:45:00Z",
+   "date": "2027-03-30",
+   "home": "ROU",
+   "away": "EST",
+   "homeScore": null,
+   "awayScore": null,
+   "homePens": null,
+   "awayPens": null,
+   "status": 1,
+   "competition": "UEFA Nations League",
+   "stage": "Play-offs B/C",
+   "city": "",
+   "source": "FIFA",
+   "importance": 15,
+   "knockout": false,
+   "expectedHome": 0.735,
+   "prediction": {
+    "home": {
+     "win": 3.98,
+     "draw": -3.52,
+     "loss": -11.02
+    },
+    "away": {
+     "loss": -3.98,
+     "draw": 3.52,
+     "win": 11.02
+    }
+   },
+   "homeName": "Romania",
+   "awayName": "Estonia",
+   "fifaId": "aaczggqm47brbc43rz68wsnis"
+  },
+  {
    "kickoff": "2027-06-09T00:00:00Z",
    "date": "2027-06-09",
    "home": "MSR",
@@ -17046,7 +17838,7 @@
    "group": "UEFA",
    "weight": "I=15 · 25 play-offs & finals",
    "results": 156,
-   "fixtures": 0
+   "fixtures": 24
   },
   {
    "name": "Baltic Cup",
